@@ -46,8 +46,7 @@ const drakeLyricsToGo = (lyrics, res) => {
         "response_type": "in_channel",
         "text": line,
         "attachments": [
-            {"text": `${song_name} - ${album}`},
-            {"text": `-${artist_name}`}
+            {"text": `${song_name} - ${album} - ${artist_name}`},
         ]
     }
     res.json(data)
