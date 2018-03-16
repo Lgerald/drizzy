@@ -60,7 +60,7 @@ const drakeLyricsToGo = (lyrics, res) => {
                 return Promise.all([response.data.images.fixed_height_downsampled.gif_url])
             })
             .then(drake => {
-                data.attachments[1].image = drake
+                data.attachments[1].image_url = drake
             })
             .then(() => res.json(data))
             .catch(err => console.error(err))
