@@ -33,9 +33,10 @@ app.get('/slack', (req, res, next) => {
     })
 })
 
-let randomDrake = () => {
+function randomDrake() {
     return Lyric[Math.floor((Lyric.length) * (Math.random()))].line
 }
+
 const drakeLyricsToGo = (lyrics, res) => {
     if (lyrics.token !== process.env.SLACK_VERIFICATION_TOKEN) {
         return
@@ -53,7 +54,9 @@ app.post('/', (req, res, next) => {
     drakeLyricsToGo(req.body, res)
 })
 
-
+app.get('/', (req, res, next) => {
+    drakeLyricsToGo(req.body, res)
+})
 // any remaining requests with an extension (.js, .css, etc.) send 404
 app.use((req, res, next) => {
     if (path.extname(req.path).length) {
