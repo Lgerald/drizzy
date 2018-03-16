@@ -43,7 +43,7 @@ const drakeLyricsToGo = (lyrics, res) => {
     // }
     let text = randomDrake()
     let data = {
-        "respnse_type": "in_channel",
+        "response_type": "in_channel",
         text
     }
     res.json(data)
