@@ -1,4 +1,5 @@
 const path = require('path')
+const request = require('request')
 const express = require('express')
 const morgan = require('morgan')
 const bodyParser = require('body-parser')
@@ -30,10 +31,44 @@ module.exports = app
     // compression middleware
     app.use(compression())
 
+    app.get('/slack', (req, res, next) => {
+        let data = {form: {
+            client_id: process.env.SLACK_CLIENT_ID,
+            client_secret: process.env.SLACK_CLIENT_SECRET
+        }}
+        request.post('https://slack.com/api/oauth.access', data, (err, res, body) => {
+            if (!err && res.statusCode === 200) {
+                let token = JSON.parse(body).access_token
+                request.post('https://slack.com/api/team.info', {form: {token}}, (err, res, body) => {
+                    let lyric = JSON.parse(body).team.domain
+                    res.redirect('Drizzy has been added to your channel')
+                })
+            }
+        })
+    })
+let randomDrake = () => Lyric[Math.floor((Lyric.length) * (Math.random()))].line
+
+const drakeLyricsToGo = (lyrics, res) => {
+    if (lyrics.token !== process.env.SLACK_VERIFICATION_TOKEN) {
+        return
+    }
+    let lyric = randomDrake()
+    let data = {
+        response_type: 'in_channel',
+        text: lyric
+    }
+    res.json(data)
+}
     //Routes
     app.get('/', (req, res, next) => {
-        res.send(Lyric[Math.floor((Lyric.length) * (Math.random()))].line)
+        drakeLyricsToGo(req.body, res)
     })
+
+    app.post('/', (req, res, next) => {
+        drakeLyricsToGo(req.body, res)
+    })
+
+
 
     // any remaining requests with an extension (.js, .css, etc.) send 404
     app.use((req, res, next) => {
