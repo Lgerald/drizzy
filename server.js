@@ -41,12 +41,7 @@ const drakeLyricsToGo = (lyrics, res) => {
     if (lyrics.token !== process.env.SLACK_VERIFICATION_TOKEN) {
         return
     }
-    let text = randomDrake()
-    let data = {
-        response_type: 'in_channel',
-        text
-    }
-    res.json(data)
+    res.json(randomDrake())
 }
     //Routes
     
