@@ -16,32 +16,34 @@ app.use(bodyParser.urlencoded({ extended: true }))
 app.listen(PORT, () => console.log(`Mixing it up on port ${PORT}`))
 
 
-app.get('/slack', (req, res, next) => {
-    let data = {form: {
-            CLIENT_ID: process.env.SLACK_CLIENT_ID,
-            CLIENT_SECRET: process.env.SLACK_CLIENT_SECRET
-    }}
-    request.post('https://slack.com/api/oauth.access', data, (err, res, body) => {
-        if (!err && res.statusCode === 200) {
-            let token = JSON.parse(body).access_token
-            res.send("ayeee Drizzy has been added to your team")
-            request.post('https://slack.com/api/team.info', {form: {token}}, (err, res, body) => {
-                let team = JSON.parse(body).team.domain
-                res.redirect('http://' +team+ '.slack.com')
-            })
-        }
-    })
-})
+// app.get('/slack', (req, res, next) => {
+//     let data = {form: {
+//             CLIENT_ID: process.env.SLACK_CLIENT_ID,
+//             CLIENT_SECRET: process.env.SLACK_CLIENT_SECRET
+//     }}
+//     request.post('https://slack.com/api/oauth.access', data, (err, res, body) => {
+//         if (!err && res.statusCode === 200) {
+//             let token = JSON.parse(body).access_token
+//             res.send("ayeee Drizzy has been added to your team")
+//             request.post('https://slack.com/api/team.info', {form: {token}}, (err, res, body) => {
+//                 let team = JSON.parse(body).team.domain
+//                 res.redirect('http://' +team+ '.slack.com')
+//             })
+//         }
+//     })
+// })
 
-function randomDrake() {
-    return Lyric[Math.floor((Lyric.length) * (Math.random()))].line
+const randomDrake = () => {
+    return Lyric[Math.floor((7242) * (Math.random()))].line
 }
 
 const drakeLyricsToGo = (lyrics, res) => {
-    if (lyrics.token !== process.env.SLACK_VERIFICATION_TOKEN) {
-        return
-    }
-    res.json(randomDrake())
+    // if (lyrics.token !== process.env.SLACK_VERIFICATION_TOKEN) {
+    //     return
+    // }
+    let text = randomDrake()
+    let data = {text}
+    res.json(data)
 }
     //Routes
     
