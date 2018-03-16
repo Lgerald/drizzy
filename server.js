@@ -52,7 +52,7 @@ const drakeLyricsToGo = (lyrics, res) => {
         "text": line,
         "attachments": [
             {"text": `${song_name} - ${album} - ${artist_name}`},
-            {"image": ""}
+            {"image_url": ""}
         ]
     }
     client.random('gifs', { "tag": "drake", "limit": 1 })
