@@ -42,7 +42,10 @@ const drakeLyricsToGo = (lyrics, res) => {
     //     return
     // }
     let text = randomDrake()
-    let data = {text}
+    let data = {
+        "respnse_type": "in_channel",
+        text
+    }
     res.json(data)
 }
     //Routes
