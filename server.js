@@ -6,6 +6,8 @@ const morgan = require('morgan')
 const PORT = process.env.PORT || 8080
 const app = express()
 const Lyric = require('./DrakeLyrics.js')
+const GphApiClient = require('giphy-js-sdk-core')
+const client = GphApiClient(process.env.GIPHY_API_KEY)
 
 
 app.use(morgan('dev'))
@@ -36,6 +38,9 @@ app.listen(PORT, () => console.log(`Mixing it up on port ${PORT}`))
 const randomDrake = () => {
     return Lyric[Math.floor((7242) * (Math.random()))]
 }
+const getGiphy = () => {
+
+}
 
 const drakeLyricsToGo = (lyrics, res) => {
     // if (lyrics.token !== process.env.SLACK_VERIFICATION_TOKEN) {
@@ -47,9 +52,18 @@ const drakeLyricsToGo = (lyrics, res) => {
         "text": line,
         "attachments": [
             {"text": `${song_name} - ${album} - ${artist_name}`},
+            {"image": ""}
         ]
     }
-    res.json(data)
+    client.random('gifs', { "tag": "drake", "limit": 1 })
+            .then(response => {
+                return Promise.all([response.data.images.fixed_height_downsampled.gif_url])
+            })
+            .then(drake => {
+                data.attachments[1].image = drake
+            })
+            .then(() => res.json(data))
+            .catch(err => console.error(err))
 }
     //Routes
     
@@ -60,6 +74,10 @@ app.post('/', (req, res, next) => {
 app.get('/', (req, res, next) => {
     drakeLyricsToGo(req.body, res)
 })
+
+
+
+
 // any remaining requests with an extension (.js, .css, etc.) send 404
 app.use((req, res, next) => {
     if (path.extname(req.path).length) {
