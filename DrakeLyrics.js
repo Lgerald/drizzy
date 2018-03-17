@@ -17,7 +17,7 @@ module.exports = [
   },
   {
     "id": 3,
-    "line": "You�ll see new heights you�ll be reaching",
+    "line": "Youll see new heights youll be reaching",
     "song_lyrics_url": "https://genius.com/Drake-free-smoke-lyrics",
     "song_name": "Free Smoke",
     "artist_name": "Drake",
@@ -905,7 +905,7 @@ module.exports = [
   },
   {
     "id": 114,
-    "line": "Just know man like Fif, he�s a sickaz",
+    "line": "Just know man like Fif, hes a sickaz",
     "song_lyrics_url": "https://genius.com/Drake-no-long-talk-lyrics",
     "song_name": "No Long Talk",
     "artist_name": "Drake",
@@ -913,7 +913,7 @@ module.exports = [
   },
   {
     "id": 115,
-    "line": "You get tanned, he don�t miss tings",
+    "line": "You get tanned, he dont miss tings",
     "song_lyrics_url": "https://genius.com/Drake-no-long-talk-lyrics",
     "song_name": "No Long Talk",
     "artist_name": "Drake",
@@ -2425,7 +2425,7 @@ module.exports = [
   },
   {
     "id": 304,
-    "line": "Who keeps bringing more? I�ve had too many",
+    "line": "Who keeps bringing more? Ive had too many",
     "song_lyrics_url": "https://genius.com/Drake-blem-lyrics",
     "song_name": "Blem",
     "artist_name": "Drake",
@@ -2441,7 +2441,7 @@ module.exports = [
   },
   {
     "id": 306,
-    "line": "I�m blem for real, I might just say how I feel",
+    "line": "Im blem for real, I might just say how I feel",
     "song_lyrics_url": "https://genius.com/Drake-blem-lyrics",
     "song_name": "Blem",
     "artist_name": "Drake",
@@ -2449,7 +2449,7 @@ module.exports = [
   },
   {
     "id": 307,
-    "line": "I�m blem for real, I might just say how I feel",
+    "line": "Im blem for real, I might just say how I feel",
     "song_lyrics_url": "https://genius.com/Drake-blem-lyrics",
     "song_name": "Blem",
     "artist_name": "Drake",
@@ -2529,7 +2529,7 @@ module.exports = [
   },
   {
     "id": 317,
-    "line": "I don�t need no advice",
+    "line": "I dont need no advice",
     "song_lyrics_url": "https://genius.com/Drake-blem-lyrics",
     "song_name": "Blem",
     "artist_name": "Drake",
@@ -2537,7 +2537,7 @@ module.exports = [
   },
   {
     "id": 318,
-    "line": "You�re not here and we both know why",
+    "line": "Youre not here and we both know why",
     "song_lyrics_url": "https://genius.com/Drake-blem-lyrics",
     "song_name": "Blem",
     "artist_name": "Drake",
@@ -2561,7 +2561,7 @@ module.exports = [
   },
   {
     "id": 321,
-    "line": "I�m buildin' up a house where they raised me",
+    "line": "Im buildin' up a house where they raised me",
     "song_lyrics_url": "https://genius.com/Drake-blem-lyrics",
     "song_name": "Blem",
     "artist_name": "Drake",
@@ -2569,7 +2569,7 @@ module.exports = [
   },
   {
     "id": 322,
-    "line": "You move with me, I�ll go crazy",
+    "line": "You move with me, Ill go crazy",
     "song_lyrics_url": "https://genius.com/Drake-blem-lyrics",
     "song_name": "Blem",
     "artist_name": "Drake",
@@ -2577,7 +2577,7 @@ module.exports = [
   },
   {
     "id": 323,
-    "line": "Don�t switch on me, I got big plans",
+    "line": "Dont switch on me, I got big plans",
     "song_lyrics_url": "https://genius.com/Drake-blem-lyrics",
     "song_name": "Blem",
     "artist_name": "Drake",
@@ -2601,7 +2601,7 @@ module.exports = [
   },
   {
     "id": 326,
-    "line": "I need you to stop runnin' back to your ex, he�s a wasteman",
+    "line": "I need you to stop runnin' back to your ex, hes a wasteman",
     "song_lyrics_url": "https://genius.com/Drake-blem-lyrics",
     "song_name": "Blem",
     "artist_name": "Drake",
@@ -2617,7 +2617,7 @@ module.exports = [
   },
   {
     "id": 328,
-    "line": "I�m blem for real, I might just say how I feel",
+    "line": "Im blem for real, I might just say how I feel",
     "song_lyrics_url": "https://genius.com/Drake-blem-lyrics",
     "song_name": "Blem",
     "artist_name": "Drake",
@@ -2625,7 +2625,7 @@ module.exports = [
   },
   {
     "id": 329,
-    "line": "I�m blem for real, I might just say how I feel",
+    "line": "Im blem for real, I might just say how I feel",
     "song_lyrics_url": "https://genius.com/Drake-blem-lyrics",
     "song_name": "Blem",
     "artist_name": "Drake",
@@ -2633,7 +2633,7 @@ module.exports = [
   },
   {
     "id": 330,
-    "line": "I know we can�t keep it together forever",
+    "line": "I know we cant keep it together forever",
     "song_lyrics_url": "https://genius.com/Drake-blem-lyrics",
     "song_name": "Blem",
     "artist_name": "Drake",
@@ -2641,7 +2641,7 @@ module.exports = [
   },
   {
     "id": 331,
-    "line": "'Cause you�re crazy sometimes",
+    "line": "'Cause youre crazy sometimes",
     "song_lyrics_url": "https://genius.com/Drake-blem-lyrics",
     "song_name": "Blem",
     "artist_name": "Drake",
@@ -2673,7 +2673,7 @@ module.exports = [
   },
   {
     "id": 335,
-    "line": "I�m buildin' up a house where they raised me",
+    "line": "Im buildin' up a house where they raised me",
     "song_lyrics_url": "https://genius.com/Drake-blem-lyrics",
     "song_name": "Blem",
     "artist_name": "Drake",
@@ -2681,7 +2681,7 @@ module.exports = [
   },
   {
     "id": 336,
-    "line": "You move with me, I'll go�, look",
+    "line": "You move with me, I'll go, look",
     "song_lyrics_url": "https://genius.com/Drake-blem-lyrics",
     "song_name": "Blem",
     "artist_name": "Drake",
@@ -2689,7 +2689,7 @@ module.exports = [
   },
   {
     "id": 337,
-    "line": "Don�t switch on me, I got big plans",
+    "line": "Dont switch on me, I got big plans",
     "song_lyrics_url": "https://genius.com/Drake-blem-lyrics",
     "song_name": "Blem",
     "artist_name": "Drake",
@@ -2713,7 +2713,7 @@ module.exports = [
   },
   {
     "id": 340,
-    "line": "I need you to stop runnin' back to your ex, he�s a wasteman",
+    "line": "I need you to stop runnin' back to your ex, hes a wasteman",
     "song_lyrics_url": "https://genius.com/Drake-blem-lyrics",
     "song_name": "Blem",
     "artist_name": "Drake",
@@ -2729,7 +2729,7 @@ module.exports = [
   },
   {
     "id": 342,
-    "line": "I�m blem for real, I might just say how I feel",
+    "line": "Im blem for real, I might just say how I feel",
     "song_lyrics_url": "https://genius.com/Drake-blem-lyrics",
     "song_name": "Blem",
     "artist_name": "Drake",
@@ -2737,7 +2737,7 @@ module.exports = [
   },
   {
     "id": 343,
-    "line": "I�m blem for real, I might just say how I feel",
+    "line": "Im blem for real, I might just say how I feel",
     "song_lyrics_url": "https://genius.com/Drake-blem-lyrics",
     "song_name": "Blem",
     "artist_name": "Drake",
@@ -3017,7 +3017,7 @@ module.exports = [
   },
   {
     "id": 378,
-    "line": "Herm�s link, ice-blue mink",
+    "line": "Herms link, ice-blue mink",
     "song_lyrics_url": "https://genius.com/Drake-gyalchester-lyrics",
     "song_name": "Gyalchester",
     "artist_name": "Drake",
@@ -3169,7 +3169,7 @@ module.exports = [
   },
   {
     "id": 397,
-    "line": "Herm�s link, ice-blue mink",
+    "line": "Herms link, ice-blue mink",
     "song_lyrics_url": "https://genius.com/Drake-gyalchester-lyrics",
     "song_name": "Gyalchester",
     "artist_name": "Drake",
@@ -3201,7 +3201,7 @@ module.exports = [
   },
   {
     "id": 401,
-    "line": "That's word to my, word to my�",
+    "line": "That's word to my, word to my",
     "song_lyrics_url": "https://genius.com/Drake-gyalchester-lyrics",
     "song_name": "Gyalchester",
     "artist_name": "Drake",
@@ -3209,7 +3209,7 @@ module.exports = [
   },
   {
     "id": 402,
-    "line": "I'm so hot, yeah, I�m so right now",
+    "line": "I'm so hot, yeah, Im so right now",
     "song_lyrics_url": "https://genius.com/Drake-gyalchester-lyrics",
     "song_name": "Gyalchester",
     "artist_name": "Drake",
@@ -3313,7 +3313,7 @@ module.exports = [
   },
   {
     "id": 415,
-    "line": "Herm�s link, ice-blue mink",
+    "line": "Herms link, ice-blue mink",
     "song_lyrics_url": "https://genius.com/Drake-gyalchester-lyrics",
     "song_name": "Gyalchester",
     "artist_name": "Drake",
@@ -3929,7 +3929,7 @@ module.exports = [
   },
   {
     "id": 492,
-    "line": "It�s a Habibis ting, ya?",
+    "line": "Its a Habibis ting, ya?",
     "song_lyrics_url": "https://genius.com/Drake-portland-lyrics",
     "song_name": "Portland",
     "artist_name": "Drake",
@@ -4913,7 +4913,7 @@ module.exports = [
   },
   {
     "id": 615,
-    "line": "Someone watchin' over us, so shout goes out to�",
+    "line": "Someone watchin' over us, so shout goes out to",
     "song_lyrics_url": "https://genius.com/Drake-sacrifices-lyrics",
     "song_name": "Sacrifices",
     "artist_name": "Drake",
@@ -5169,7 +5169,7 @@ module.exports = [
   },
   {
     "id": 647,
-    "line": "Someone watchin' over us, so shout goes out to�",
+    "line": "Someone watchin' over us, so shout goes out to",
     "song_lyrics_url": "https://genius.com/Drake-sacrifices-lyrics",
     "song_name": "Sacrifices",
     "artist_name": "Drake",
@@ -5297,7 +5297,7 @@ module.exports = [
   },
   {
     "id": 663,
-    "line": "I�m talkin' neat like freak",
+    "line": "Im talkin' neat like freak",
     "song_lyrics_url": "https://genius.com/Drake-sacrifices-lyrics",
     "song_name": "Sacrifices",
     "artist_name": "Drake",
@@ -5329,7 +5329,7 @@ module.exports = [
   },
   {
     "id": 667,
-    "line": "I'm talkin' B�s, spellin' bee (sheesh)",
+    "line": "I'm talkin' Bs, spellin' bee (sheesh)",
     "song_lyrics_url": "https://genius.com/Drake-sacrifices-lyrics",
     "song_name": "Sacrifices",
     "artist_name": "Drake",
@@ -5425,7 +5425,7 @@ module.exports = [
   },
   {
     "id": 679,
-    "line": "I�m talkin' PADI�I meant Patek",
+    "line": "Im talkin' PADII meant Patek",
     "song_lyrics_url": "https://genius.com/Drake-sacrifices-lyrics",
     "song_name": "Sacrifices",
     "artist_name": "Drake",
@@ -5601,7 +5601,7 @@ module.exports = [
   },
   {
     "id": 701,
-    "line": "Someone watchin' over us, so shout goes out to�",
+    "line": "Someone watchin' over us, so shout goes out to",
     "song_lyrics_url": "https://genius.com/Drake-sacrifices-lyrics",
     "song_name": "Sacrifices",
     "artist_name": "Drake",
@@ -6913,7 +6913,7 @@ module.exports = [
   },
   {
     "id": 865,
-    "line": "Only child that�s takin' care of his mother",
+    "line": "Only child thats takin' care of his mother",
     "song_lyrics_url": "https://genius.com/Drake-lose-you-lyrics",
     "song_name": "Lose You",
     "artist_name": "Drake",
@@ -6929,7 +6929,7 @@ module.exports = [
   },
   {
     "id": 867,
-    "line": "That�s not respectable all of a sudden?",
+    "line": "Thats not respectable all of a sudden?",
     "song_lyrics_url": "https://genius.com/Drake-lose-you-lyrics",
     "song_name": "Lose You",
     "artist_name": "Drake",
@@ -6937,7 +6937,7 @@ module.exports = [
   },
   {
     "id": 868,
-    "line": "I don�t get a pat on the back for the come up?",
+    "line": "I dont get a pat on the back for the come up?",
     "song_lyrics_url": "https://genius.com/Drake-lose-you-lyrics",
     "song_name": "Lose You",
     "artist_name": "Drake",
@@ -7201,7 +7201,7 @@ module.exports = [
   },
   {
     "id": 901,
-    "line": "This is the 6�s year",
+    "line": "This is the 6s year",
     "song_lyrics_url": "https://genius.com/Drake-lose-you-lyrics",
     "song_name": "Lose You",
     "artist_name": "Drake",
@@ -7217,7 +7217,7 @@ module.exports = [
   },
   {
     "id": 903,
-    "line": "You know we�ll be rockin' our asses out",
+    "line": "You know well be rockin' our asses out",
     "song_lyrics_url": "https://genius.com/Drake-lose-you-lyrics",
     "song_name": "Lose You",
     "artist_name": "Drake",
@@ -7233,7 +7233,7 @@ module.exports = [
   },
   {
     "id": 905,
-    "line": "You know what I�m sayin'?",
+    "line": "You know what Im sayin'?",
     "song_lyrics_url": "https://genius.com/Drake-lose-you-lyrics",
     "song_name": "Lose You",
     "artist_name": "Drake",
@@ -7289,7 +7289,7 @@ module.exports = [
   },
   {
     "id": 912,
-    "line": "It's a joke, but you say you real�I don't understand",
+    "line": "It's a joke, but you say you realI don't understand",
     "song_lyrics_url": "https://genius.com/Drake-cant-have-everything-lyrics",
     "song_name": "Can't Have Everything",
     "artist_name": "Drake",
@@ -7697,7 +7697,7 @@ module.exports = [
   },
   {
     "id": 963,
-    "line": "You know, hun, I'm a bit concerned about this negative tone that I'm hearing in your voice these days. I can appreciate where your uncertainty stems from and you have reason to question your anxieties and how disillusioned you feel, as well as feeling skeptical about who you believe you can trust. But that attitude will just hold you back in this life, and you're going to continue to feel alienated. Give some thought to this, because I�m confident in you, and I know you can reach your desired destination and accomplish your goals much more quickly without this confrontation I'm hearing in your tone these days. When others go low, we go high.",
+    "line": "You know, hun, I'm a bit concerned about this negative tone that I'm hearing in your voice these days. I can appreciate where your uncertainty stems from and you have reason to question your anxieties and how disillusioned you feel, as well as feeling skeptical about who you believe you can trust. But that attitude will just hold you back in this life, and you're going to continue to feel alienated. Give some thought to this, because Im confident in you, and I know you can reach your desired destination and accomplish your goals much more quickly without this confrontation I'm hearing in your tone these days. When others go low, we go high.",
     "song_lyrics_url": "https://genius.com/Drake-cant-have-everything-lyrics",
     "song_name": "Can't Have Everything",
     "artist_name": "Drake",
@@ -8329,7 +8329,7 @@ module.exports = [
   },
   {
     "id": 1042,
-    "line": "You slipped out if you don�t know already",
+    "line": "You slipped out if you dont know already",
     "song_lyrics_url": "https://genius.com/Drake-since-way-back-lyrics",
     "song_name": "Since Way Back",
     "artist_name": "Drake",
@@ -9585,7 +9585,7 @@ module.exports = [
   },
   {
     "id": 1199,
-    "line": "Icy like there's nobody you�d ever need",
+    "line": "Icy like there's nobody youd ever need",
     "song_lyrics_url": "https://genius.com/Drake-ice-melts-lyrics",
     "song_name": "Ice Melts",
     "artist_name": "Drake",
@@ -10281,7 +10281,7 @@ module.exports = [
   },
   {
     "id": 1286,
-    "line": "Can�t describe what my life is like when she asks about it",
+    "line": "Cant describe what my life is like when she asks about it",
     "song_lyrics_url": "https://genius.com/Drake-do-not-disturb-lyrics",
     "song_name": "Do Not Disturb",
     "artist_name": "Drake",
@@ -11025,7 +11025,7 @@ module.exports = [
   },
   {
     "id": 1379,
-    "line": "It's like �for real, are you dumb?�",
+    "line": "It's like for real, are you dumb?",
     "song_lyrics_url": "https://genius.com/Drake-keep-the-family-close-lyrics",
     "song_name": "Keep the Family Close",
     "artist_name": "Drake",
@@ -13121,7 +13121,7 @@ module.exports = [
   },
   {
     "id": 1641,
-    "line": "One of dem ones�right",
+    "line": "One of dem onesright",
     "song_lyrics_url": "https://genius.com/Drake-weston-road-flows-lyrics",
     "song_name": "Weston Road Flows",
     "artist_name": "Drake",
@@ -13577,7 +13577,7 @@ module.exports = [
   },
   {
     "id": 1698,
-    "line": "But s*** ain�t how it always seems when it�s so together",
+    "line": "But s*** aint how it always seems when its so together",
     "song_lyrics_url": "https://genius.com/Drake-weston-road-flows-lyrics",
     "song_name": "Weston Road Flows",
     "artist_name": "Drake",
@@ -13721,7 +13721,7 @@ module.exports = [
   },
   {
     "id": 1716,
-    "line": "Get high when I want�yeah, that's right, yeah",
+    "line": "Get high when I wantyeah, that's right, yeah",
     "song_lyrics_url": "https://genius.com/Drake-weston-road-flows-lyrics",
     "song_name": "Weston Road Flows",
     "artist_name": "Drake",
@@ -13777,7 +13777,7 @@ module.exports = [
   },
   {
     "id": 1723,
-    "line": "To feel like she needs me?�I lost my way",
+    "line": "To feel like she needs me?I lost my way",
     "song_lyrics_url": "https://genius.com/Drake-redemption-lyrics",
     "song_name": "Redemption",
     "artist_name": "Drake",
@@ -14009,7 +14009,7 @@ module.exports = [
   },
   {
     "id": 1752,
-    "line": "Say to you�but 80 percent of it was the truth, yeah",
+    "line": "Say to youbut 80 percent of it was the truth, yeah",
     "song_lyrics_url": "https://genius.com/Drake-redemption-lyrics",
     "song_name": "Redemption",
     "artist_name": "Drake",
@@ -14017,7 +14017,7 @@ module.exports = [
   },
   {
     "id": 1753,
-    "line": "Say to you�a Mercedes coupe that you're still drivin'",
+    "line": "Say to youa Mercedes coupe that you're still drivin'",
     "song_lyrics_url": "https://genius.com/Drake-redemption-lyrics",
     "song_name": "Redemption",
     "artist_name": "Drake",
@@ -14945,7 +14945,7 @@ module.exports = [
   },
   {
     "id": 1869,
-    "line": "You hit me like \"I know you�re there with someone else",
+    "line": "You hit me like \"I know youre there with someone else",
     "song_lyrics_url": "https://genius.com/Drake-faithful-lyrics",
     "song_name": "Faithful",
     "artist_name": "Drake",
@@ -15041,7 +15041,7 @@ module.exports = [
   },
   {
     "id": 1881,
-    "line": "I know you been�",
+    "line": "I know you been",
     "song_lyrics_url": "https://genius.com/Drake-faithful-lyrics",
     "song_name": "Faithful",
     "artist_name": "Drake",
@@ -15129,7 +15129,7 @@ module.exports = [
   },
   {
     "id": 1892,
-    "line": "Tell me I should know you�I'll get to know you again",
+    "line": "Tell me I should know youI'll get to know you again",
     "song_lyrics_url": "https://genius.com/Drake-faithful-lyrics",
     "song_name": "Faithful",
     "artist_name": "Drake",
@@ -15137,7 +15137,7 @@ module.exports = [
   },
   {
     "id": 1893,
-    "line": "You want me to show you�I'm gonna show you again",
+    "line": "You want me to show youI'm gonna show you again",
     "song_lyrics_url": "https://genius.com/Drake-faithful-lyrics",
     "song_name": "Faithful",
     "artist_name": "Drake",
@@ -15145,7 +15145,7 @@ module.exports = [
   },
   {
     "id": 1894,
-    "line": "Now we're in the zone�gon' let me all in again",
+    "line": "Now we're in the zonegon' let me all in again",
     "song_lyrics_url": "https://genius.com/Drake-faithful-lyrics",
     "song_name": "Faithful",
     "artist_name": "Drake",
@@ -15193,7 +15193,7 @@ module.exports = [
   },
   {
     "id": 1900,
-    "line": "You tell me I should know you�but I'll get to know you again",
+    "line": "You tell me I should know youbut I'll get to know you again",
     "song_lyrics_url": "https://genius.com/Drake-faithful-lyrics",
     "song_name": "Faithful",
     "artist_name": "Drake",
@@ -15201,7 +15201,7 @@ module.exports = [
   },
   {
     "id": 1901,
-    "line": "And you want me to show you�I'm gonna show you again",
+    "line": "And you want me to show youI'm gonna show you again",
     "song_lyrics_url": "https://genius.com/Drake-faithful-lyrics",
     "song_name": "Faithful",
     "artist_name": "Drake",
@@ -15209,7 +15209,7 @@ module.exports = [
   },
   {
     "id": 1902,
-    "line": "When were in the zone you�gon' let me own it again",
+    "line": "When were in the zone yougon' let me own it again",
     "song_lyrics_url": "https://genius.com/Drake-faithful-lyrics",
     "song_name": "Faithful",
     "artist_name": "Drake",
@@ -15257,7 +15257,7 @@ module.exports = [
   },
   {
     "id": 1908,
-    "line": "Yeah, me�yeah",
+    "line": "Yeah, meyeah",
     "song_lyrics_url": "https://genius.com/Drake-still-here-lyrics",
     "song_name": "Still Here",
     "artist_name": "Drake",
@@ -15577,7 +15577,7 @@ module.exports = [
   },
   {
     "id": 1948,
-    "line": "Blew up and I'm in the city still, I'm still�",
+    "line": "Blew up and I'm in the city still, I'm still",
     "song_lyrics_url": "https://genius.com/Drake-still-here-lyrics",
     "song_name": "Still Here",
     "artist_name": "Drake",
@@ -15737,7 +15737,7 @@ module.exports = [
   },
   {
     "id": 1968,
-    "line": "And I�m never on a waste ting, shorty",
+    "line": "And Im never on a waste ting, shorty",
     "song_lyrics_url": "https://genius.com/Drake-controlla-lyrics",
     "song_name": "Controlla",
     "artist_name": "Drake",
@@ -15993,7 +15993,7 @@ module.exports = [
   },
   {
     "id": 2000,
-    "line": "And I�m never on a waste ting shorty",
+    "line": "And Im never on a waste ting shorty",
     "song_lyrics_url": "https://genius.com/Drake-controlla-lyrics",
     "song_name": "Controlla",
     "artist_name": "Drake",
@@ -16089,7 +16089,7 @@ module.exports = [
   },
   {
     "id": 2012,
-    "line": "Dah one yah a murda�Zagga!",
+    "line": "Dah one yah a murdaZagga!",
     "song_lyrics_url": "https://genius.com/Drake-controlla-lyrics",
     "song_name": "Controlla",
     "artist_name": "Drake",
@@ -19841,7 +19841,7 @@ module.exports = [
   },
   {
     "id": 2481,
-    "line": "Ceesay�s, I was buyin' fitteds everyday",
+    "line": "Ceesays, I was buyin' fitteds everyday",
     "song_lyrics_url": "https://genius.com/Drake-views-lyrics",
     "song_name": "Views",
     "artist_name": "Drake",
@@ -20361,7 +20361,7 @@ module.exports = [
   },
   {
     "id": 2546,
-    "line": "�Cause ever since I left the city, you",
+    "line": "Cause ever since I left the city, you",
     "song_lyrics_url": "https://genius.com/Drake-hotline-bling-lyrics",
     "song_name": "Hotline Bling",
     "artist_name": "Drake",
@@ -20745,7 +20745,7 @@ module.exports = [
   },
   {
     "id": 2594,
-    "line": "Ever since I left the city�",
+    "line": "Ever since I left the city",
     "song_lyrics_url": "https://genius.com/Drake-hotline-bling-lyrics",
     "song_name": "Hotline Bling",
     "artist_name": "Drake",
@@ -21225,7 +21225,7 @@ module.exports = [
   },
   {
     "id": 2654,
-    "line": "f**k goinonline, that ain�t part of my day",
+    "line": "f**k goinonline, that aint part of my day",
     "song_lyrics_url": "https://genius.com/Drake-energy-lyrics",
     "song_name": "Energy",
     "artist_name": "Drake",
@@ -21257,7 +21257,7 @@ module.exports = [
   },
   {
     "id": 2658,
-    "line": "I got N****s that�ll still try f**kinme over",
+    "line": "I got N****s thatll still try f**kinme over",
     "song_lyrics_url": "https://genius.com/Drake-energy-lyrics",
     "song_name": "Energy",
     "artist_name": "Drake",
@@ -21369,7 +21369,7 @@ module.exports = [
   },
   {
     "id": 2672,
-    "line": "Just to tell me they ain�t really friends",
+    "line": "Just to tell me they aint really friends",
     "song_lyrics_url": "https://genius.com/Drake-energy-lyrics",
     "song_name": "Energy",
     "artist_name": "Drake",
@@ -21425,7 +21425,7 @@ module.exports = [
   },
   {
     "id": 2679,
-    "line": "I hear fairy tales �bout how they gonrun up on me",
+    "line": "I hear fairy tales bout how they gonrun up on me",
     "song_lyrics_url": "https://genius.com/Drake-energy-lyrics",
     "song_name": "Energy",
     "artist_name": "Drake",
@@ -21473,7 +21473,7 @@ module.exports = [
   },
   {
     "id": 2685,
-    "line": "Nah, f**k all of you N****s, I ain�t finished",
+    "line": "Nah, f**k all of you N****s, I aint finished",
     "song_lyrics_url": "https://genius.com/Drake-energy-lyrics",
     "song_name": "Energy",
     "artist_name": "Drake",
@@ -21481,7 +21481,7 @@ module.exports = [
   },
   {
     "id": 2686,
-    "line": "Y�all don�t wanna hear me say it�s a go",
+    "line": "Yall dont wanna hear me say its a go",
     "song_lyrics_url": "https://genius.com/Drake-energy-lyrics",
     "song_name": "Energy",
     "artist_name": "Drake",
@@ -21489,7 +21489,7 @@ module.exports = [
   },
   {
     "id": 2687,
-    "line": "Y�all don�t wanna see Win Win, 50 or Whoa",
+    "line": "Yall dont wanna see Win Win, 50 or Whoa",
     "song_lyrics_url": "https://genius.com/Drake-energy-lyrics",
     "song_name": "Energy",
     "artist_name": "Drake",
@@ -21513,7 +21513,7 @@ module.exports = [
   },
   {
     "id": 2690,
-    "line": "I�m tryna tell ya I got enemies, got a lot of enemies",
+    "line": "Im tryna tell ya I got enemies, got a lot of enemies",
     "song_lyrics_url": "https://genius.com/Drake-energy-lyrics",
     "song_name": "Energy",
     "artist_name": "Drake",
@@ -21521,7 +21521,7 @@ module.exports = [
   },
   {
     "id": 2691,
-    "line": "Every time I see �em, somethinwrong with their memory",
+    "line": "Every time I see em, somethinwrong with their memory",
     "song_lyrics_url": "https://genius.com/Drake-energy-lyrics",
     "song_name": "Energy",
     "artist_name": "Drake",
@@ -23289,7 +23289,7 @@ module.exports = [
   },
   {
     "id": 2912,
-    "line": "To get what I want tonight?�ain't no tellin'",
+    "line": "To get what I want tonight?ain't no tellin'",
     "song_lyrics_url": "https://genius.com/Drake-no-tellin-lyrics",
     "song_name": "No Tellin'",
     "artist_name": "Drake",
@@ -25169,7 +25169,7 @@ module.exports = [
   },
   {
     "id": 3147,
-    "line": "That s*** ain�t my fault, girl cause I'm lonely",
+    "line": "That s*** aint my fault, girl cause I'm lonely",
     "song_lyrics_url": "https://genius.com/Drake-wednesday-night-interlude-lyrics",
     "song_name": "Wednesday Night Interlude",
     "artist_name": "Drake",
@@ -25185,7 +25185,7 @@ module.exports = [
   },
   {
     "id": 3149,
-    "line": "Ain't no other woman that should comfort me when I�m lonely",
+    "line": "Ain't no other woman that should comfort me when Im lonely",
     "song_lyrics_url": "https://genius.com/Drake-wednesday-night-interlude-lyrics",
     "song_name": "Wednesday Night Interlude",
     "artist_name": "Drake",
@@ -25209,7 +25209,7 @@ module.exports = [
   },
   {
     "id": 3152,
-    "line": "When I�m lonely, when I�m lonely",
+    "line": "When Im lonely, when Im lonely",
     "song_lyrics_url": "https://genius.com/Drake-wednesday-night-interlude-lyrics",
     "song_name": "Wednesday Night Interlude",
     "artist_name": "Drake",
@@ -25225,7 +25225,7 @@ module.exports = [
   },
   {
     "id": 3154,
-    "line": "At somebody�s yacht, that you didn�t buy",
+    "line": "At somebodys yacht, that you didnt buy",
     "song_lyrics_url": "https://genius.com/Drake-wednesday-night-interlude-lyrics",
     "song_name": "Wednesday Night Interlude",
     "artist_name": "Drake",
@@ -25233,7 +25233,7 @@ module.exports = [
   },
   {
     "id": 3155,
-    "line": "You�re young, yeah, have fun, girl, but I hope it was worth it",
+    "line": "Youre young, yeah, have fun, girl, but I hope it was worth it",
     "song_lyrics_url": "https://genius.com/Drake-wednesday-night-interlude-lyrics",
     "song_name": "Wednesday Night Interlude",
     "artist_name": "Drake",
@@ -25241,7 +25241,7 @@ module.exports = [
   },
   {
     "id": 3156,
-    "line": "Cause f**k it, I�m not here to judge",
+    "line": "Cause f**k it, Im not here to judge",
     "song_lyrics_url": "https://genius.com/Drake-wednesday-night-interlude-lyrics",
     "song_name": "Wednesday Night Interlude",
     "artist_name": "Drake",
@@ -25249,7 +25249,7 @@ module.exports = [
   },
   {
     "id": 3157,
-    "line": "f**k it, I�m not here to love everything you did to ball",
+    "line": "f**k it, Im not here to love everything you did to ball",
     "song_lyrics_url": "https://genius.com/Drake-wednesday-night-interlude-lyrics",
     "song_name": "Wednesday Night Interlude",
     "artist_name": "Drake",
@@ -25297,7 +25297,7 @@ module.exports = [
   },
   {
     "id": 3163,
-    "line": "Ain't no other woman that should comfort me when I�m lonely",
+    "line": "Ain't no other woman that should comfort me when Im lonely",
     "song_lyrics_url": "https://genius.com/Drake-wednesday-night-interlude-lyrics",
     "song_name": "Wednesday Night Interlude",
     "artist_name": "Drake",
@@ -25321,7 +25321,7 @@ module.exports = [
   },
   {
     "id": 3166,
-    "line": "When I�m lonely, when I�m lonely",
+    "line": "When Im lonely, when Im lonely",
     "song_lyrics_url": "https://genius.com/Drake-wednesday-night-interlude-lyrics",
     "song_name": "Wednesday Night Interlude",
     "artist_name": "Drake",
@@ -25329,7 +25329,7 @@ module.exports = [
   },
   {
     "id": 3167,
-    "line": "This s*** ain�t my fault",
+    "line": "This s*** aint my fault",
     "song_lyrics_url": "https://genius.com/Drake-wednesday-night-interlude-lyrics",
     "song_name": "Wednesday Night Interlude",
     "artist_name": "Drake",
@@ -25385,7 +25385,7 @@ module.exports = [
   },
   {
     "id": 3174,
-    "line": "Yeah�sound, sound, sound",
+    "line": "Yeahsound, sound, sound",
     "song_lyrics_url": "https://genius.com/Drake-used-to-lyrics",
     "song_name": "Used To",
     "artist_name": "Drake",
@@ -26177,7 +26177,7 @@ module.exports = [
   },
   {
     "id": 3273,
-    "line": "These motherf**kers trippin' so hard I had to look down and double check cause I thought they had their shoes tied together�motherf**kers got they shoes tied together",
+    "line": "These motherf**kers trippin' so hard I had to look down and double check cause I thought they had their shoes tied togethermotherf**kers got they shoes tied together",
     "song_lyrics_url": "https://genius.com/Drake-used-to-lyrics",
     "song_name": "Used To",
     "artist_name": "Drake",
@@ -28553,7 +28553,7 @@ module.exports = [
   },
   {
     "id": 3570,
-    "line": "Oh, you got�oh, you gotta love it",
+    "line": "Oh, you gotoh, you gotta love it",
     "song_lyrics_url": "https://genius.com/Drake-6pm-in-new-york-lyrics",
     "song_name": "6PM in New York",
     "artist_name": "Drake",
@@ -28713,7 +28713,7 @@ module.exports = [
   },
   {
     "id": 3590,
-    "line": "You should've kept it inside�oh, you tried",
+    "line": "You should've kept it insideoh, you tried",
     "song_lyrics_url": "https://genius.com/Drake-6pm-in-new-york-lyrics",
     "song_name": "6PM in New York",
     "artist_name": "Drake",
@@ -28881,7 +28881,7 @@ module.exports = [
   },
   {
     "id": 3611,
-    "line": "Crazy this year�f**kin' with my image",
+    "line": "Crazy this yearf**kin' with my image",
     "song_lyrics_url": "https://genius.com/Drake-6pm-in-new-york-lyrics",
     "song_name": "6PM in New York",
     "artist_name": "Drake",
@@ -28977,7 +28977,7 @@ module.exports = [
   },
   {
     "id": 3623,
-    "line": "Oh, you gotta love it�but they scared of the truth",
+    "line": "Oh, you gotta love itbut they scared of the truth",
     "song_lyrics_url": "https://genius.com/Drake-6pm-in-new-york-lyrics",
     "song_name": "6PM in New York",
     "artist_name": "Drake",
@@ -29337,7 +29337,7 @@ module.exports = [
   },
   {
     "id": 3668,
-    "line": "Young N**** from the city�you gotta love it",
+    "line": "Young N**** from the cityyou gotta love it",
     "song_lyrics_url": "https://genius.com/Drake-6pm-in-new-york-lyrics",
     "song_name": "6PM in New York",
     "artist_name": "Drake",
@@ -29921,7 +29921,7 @@ module.exports = [
   },
   {
     "id": 3741,
-    "line": "Why are we rushing and forcing it?�this isn't making sense",
+    "line": "Why are we rushing and forcing it?this isn't making sense",
     "song_lyrics_url": "https://genius.com/Drake-my-side-lyrics",
     "song_name": "My Side",
     "artist_name": "Drake",
@@ -31241,7 +31241,7 @@ module.exports = [
   },
   {
     "id": 3906,
-    "line": "Started�",
+    "line": "Started",
     "song_lyrics_url": "https://genius.com/Drake-started-from-the-bottom-lyrics",
     "song_name": "Started from the Bottom",
     "artist_name": "Drake",
@@ -31361,7 +31361,7 @@ module.exports = [
   },
   {
     "id": 3921,
-    "line": "I gave you the keys, told you bring it right back.�",
+    "line": "I gave you the keys, told you bring it right back.",
     "song_lyrics_url": "https://genius.com/Drake-started-from-the-bottom-lyrics",
     "song_name": "Started from the Bottom",
     "artist_name": "Drake",
@@ -31377,7 +31377,7 @@ module.exports = [
   },
   {
     "id": 3923,
-    "line": "Now I'm on the road, half a million for a show, and we�",
+    "line": "Now I'm on the road, half a million for a show, and we",
     "song_lyrics_url": "https://genius.com/Drake-started-from-the-bottom-lyrics",
     "song_name": "Started from the Bottom",
     "artist_name": "Drake",
@@ -31513,7 +31513,7 @@ module.exports = [
   },
   {
     "id": 3940,
-    "line": "Cause we�",
+    "line": "Cause we",
     "song_lyrics_url": "https://genius.com/Drake-started-from-the-bottom-lyrics",
     "song_name": "Started from the Bottom",
     "artist_name": "Drake",
@@ -31617,7 +31617,7 @@ module.exports = [
   },
   {
     "id": 3953,
-    "line": "Cause we�",
+    "line": "Cause we",
     "song_lyrics_url": "https://genius.com/Drake-started-from-the-bottom-lyrics",
     "song_name": "Started from the Bottom",
     "artist_name": "Drake",
@@ -33993,7 +33993,7 @@ module.exports = [
   },
   {
     "id": 4250,
-    "line": "There�s 3 balls and a strike. Here's the pitch. It's belted deep to center, Revere goes back, jumps at the wall, and it's gone!",
+    "line": "Theres 3 balls and a strike. Here's the pitch. It's belted deep to center, Revere goes back, jumps at the wall, and it's gone!",
     "song_lyrics_url": "https://genius.com/Drake-connect-lyrics",
     "song_name": "Connect",
     "artist_name": "Drake",
@@ -36009,7 +36009,7 @@ module.exports = [
   },
   {
     "id": 4502,
-    "line": "Good God Almighty�like back in the old days...",
+    "line": "Good God Almightylike back in the old days...",
     "song_lyrics_url": "https://genius.com/Drake-pound-cake-paris-morton-music-2-lyrics",
     "song_name": "Pound Cake / Paris Morton Music 2",
     "artist_name": "Drake",
@@ -36017,7 +36017,7 @@ module.exports = [
   },
   {
     "id": 4503,
-    "line": "You know, years ago they had the A&R men to tell you what to play, how to play it and you know whether it's disco and rock but we just went in the studio and we did it. We had the champagne in the studio, of course�compliments of the company�and we just laid back and did it. So we hope you enjoy listening to this album half as much as we enjoyed playing it for you. Because we had a ball. Only real music is gonna last�all the other bulls*** is here today and gone tomorrow...",
+    "line": "You know, years ago they had the A&R men to tell you what to play, how to play it and you know whether it's disco and rock but we just went in the studio and we did it. We had the champagne in the studio, of coursecompliments of the companyand we just laid back and did it. So we hope you enjoy listening to this album half as much as we enjoyed playing it for you. Because we had a ball. Only real music is gonna lastall the other bulls*** is here today and gone tomorrow...",
     "song_lyrics_url": "https://genius.com/Drake-pound-cake-paris-morton-music-2-lyrics",
     "song_name": "Pound Cake / Paris Morton Music 2",
     "artist_name": "Drake",
@@ -36281,7 +36281,7 @@ module.exports = [
   },
   {
     "id": 4536,
-    "line": "Yellow diamonds in my Jes�s",
+    "line": "Yellow diamonds in my Jess",
     "song_lyrics_url": "https://genius.com/Drake-pound-cake-paris-morton-music-2-lyrics",
     "song_name": "Pound Cake / Paris Morton Music 2",
     "artist_name": "Drake",
@@ -36313,7 +36313,7 @@ module.exports = [
   },
   {
     "id": 4540,
-    "line": "My saint's Chang�, light a candle",
+    "line": "My saint's Chang, light a candle",
     "song_lyrics_url": "https://genius.com/Drake-pound-cake-paris-morton-music-2-lyrics",
     "song_name": "Pound Cake / Paris Morton Music 2",
     "artist_name": "Drake",
@@ -37057,7 +37057,7 @@ module.exports = [
   },
   {
     "id": 4633,
-    "line": "N**** don't watch that 'cause I�",
+    "line": "N**** don't watch that 'cause I",
     "song_lyrics_url": "https://genius.com/Drake-all-me-lyrics",
     "song_name": "All Me",
     "artist_name": "Drake",
@@ -37105,7 +37105,7 @@ module.exports = [
   },
   {
     "id": 4639,
-    "line": "J's on, pinky ring�dogging these hoes, I need quarantine",
+    "line": "J's on, pinky ringdogging these hoes, I need quarantine",
     "song_lyrics_url": "https://genius.com/Drake-all-me-lyrics",
     "song_name": "All Me",
     "artist_name": "Drake",
@@ -37241,7 +37241,7 @@ module.exports = [
   },
   {
     "id": 4656,
-    "line": "N**** don't watch that 'cause I�",
+    "line": "N**** don't watch that 'cause I",
     "song_lyrics_url": "https://genius.com/Drake-all-me-lyrics",
     "song_name": "All Me",
     "artist_name": "Drake",
@@ -37385,7 +37385,7 @@ module.exports = [
   },
   {
     "id": 4674,
-    "line": "Cashing checks and I�m bigging up my chest",
+    "line": "Cashing checks and Im bigging up my chest",
     "song_lyrics_url": "https://genius.com/Drake-all-me-lyrics",
     "song_name": "All Me",
     "artist_name": "Drake",
@@ -37393,7 +37393,7 @@ module.exports = [
   },
   {
     "id": 4675,
-    "line": "Y'all keep talking �bout who next",
+    "line": "Y'all keep talking bout who next",
     "song_lyrics_url": "https://genius.com/Drake-all-me-lyrics",
     "song_name": "All Me",
     "artist_name": "Drake",
@@ -37401,7 +37401,7 @@ module.exports = [
   },
   {
     "id": 4676,
-    "line": "But I�m about as big as it gets",
+    "line": "But Im about as big as it gets",
     "song_lyrics_url": "https://genius.com/Drake-all-me-lyrics",
     "song_name": "All Me",
     "artist_name": "Drake",
@@ -37417,7 +37417,7 @@ module.exports = [
   },
   {
     "id": 4678,
-    "line": "I�m the light skinned Keith Sweat, I'mma make it last forever",
+    "line": "Im the light skinned Keith Sweat, I'mma make it last forever",
     "song_lyrics_url": "https://genius.com/Drake-all-me-lyrics",
     "song_name": "All Me",
     "artist_name": "Drake",
@@ -37425,7 +37425,7 @@ module.exports = [
   },
   {
     "id": 4679,
-    "line": "It�s not your turn �cause I ain't done yet",
+    "line": "Its not your turn cause I ain't done yet",
     "song_lyrics_url": "https://genius.com/Drake-all-me-lyrics",
     "song_name": "All Me",
     "artist_name": "Drake",
@@ -37433,7 +37433,7 @@ module.exports = [
   },
   {
     "id": 4680,
-    "line": "Look, just understand that I�m on a roll like Cottonelle",
+    "line": "Look, just understand that Im on a roll like Cottonelle",
     "song_lyrics_url": "https://genius.com/Drake-all-me-lyrics",
     "song_name": "All Me",
     "artist_name": "Drake",
@@ -37449,7 +37449,7 @@ module.exports = [
   },
   {
     "id": 4682,
-    "line": "And I�m on the road box office sales",
+    "line": "And Im on the road box office sales",
     "song_lyrics_url": "https://genius.com/Drake-all-me-lyrics",
     "song_name": "All Me",
     "artist_name": "Drake",
@@ -37457,7 +37457,7 @@ module.exports = [
   },
   {
     "id": 4683,
-    "line": "I�m getting paid for all of this s***",
+    "line": "Im getting paid for all of this s***",
     "song_lyrics_url": "https://genius.com/Drake-all-me-lyrics",
     "song_name": "All Me",
     "artist_name": "Drake",
@@ -37529,7 +37529,7 @@ module.exports = [
   },
   {
     "id": 4692,
-    "line": "N**** don't watch that 'cause I�",
+    "line": "N**** don't watch that 'cause I",
     "song_lyrics_url": "https://genius.com/Drake-all-me-lyrics",
     "song_name": "All Me",
     "artist_name": "Drake",
@@ -37553,7 +37553,7 @@ module.exports = [
   },
   {
     "id": 4695,
-    "line": "Came up, that's all me, stay true, that's all me�",
+    "line": "Came up, that's all me, stay true, that's all me",
     "song_lyrics_url": "https://genius.com/Drake-all-me-lyrics",
     "song_name": "All Me",
     "artist_name": "Drake",
@@ -37617,7 +37617,7 @@ module.exports = [
   },
   {
     "id": 4703,
-    "line": "And to them hoes I'm everything�everything but gentle",
+    "line": "And to them hoes I'm everythingeverything but gentle",
     "song_lyrics_url": "https://genius.com/Drake-all-me-lyrics",
     "song_name": "All Me",
     "artist_name": "Drake",
@@ -37889,7 +37889,7 @@ module.exports = [
   },
   {
     "id": 4737,
-    "line": "I�m blessed than a motherf**ka",
+    "line": "Im blessed than a motherf**ka",
     "song_lyrics_url": "https://genius.com/Drake-all-me-lyrics",
     "song_name": "All Me",
     "artist_name": "Drake",
@@ -37921,7 +37921,7 @@ module.exports = [
   },
   {
     "id": 4741,
-    "line": "Damn that�s a motherf**ker",
+    "line": "Damn thats a motherf**ker",
     "song_lyrics_url": "https://genius.com/Drake-all-me-lyrics",
     "song_name": "All Me",
     "artist_name": "Drake",
@@ -37929,7 +37929,7 @@ module.exports = [
   },
   {
     "id": 4742,
-    "line": "Tell the truth, I don�t listen to you",
+    "line": "Tell the truth, I dont listen to you",
     "song_lyrics_url": "https://genius.com/Drake-all-me-lyrics",
     "song_name": "All Me",
     "artist_name": "Drake",
@@ -37937,7 +37937,7 @@ module.exports = [
   },
   {
     "id": 4743,
-    "line": "'Cause I don�t like being lied to",
+    "line": "'Cause I dont like being lied to",
     "song_lyrics_url": "https://genius.com/Drake-all-me-lyrics",
     "song_name": "All Me",
     "artist_name": "Drake",
@@ -37945,7 +37945,7 @@ module.exports = [
   },
   {
     "id": 4744,
-    "line": "And that ship won�t sail",
+    "line": "And that ship wont sail",
     "song_lyrics_url": "https://genius.com/Drake-all-me-lyrics",
     "song_name": "All Me",
     "artist_name": "Drake",
@@ -37953,7 +37953,7 @@ module.exports = [
   },
   {
     "id": 4745,
-    "line": "And that wind won�t guide you",
+    "line": "And that wind wont guide you",
     "song_lyrics_url": "https://genius.com/Drake-all-me-lyrics",
     "song_name": "All Me",
     "artist_name": "Drake",
@@ -38273,7 +38273,7 @@ module.exports = [
   },
   {
     "id": 4785,
-    "line": "I guess that�s just the motion",
+    "line": "I guess thats just the motion",
     "song_lyrics_url": "https://genius.com/Drake-the-motion-lyrics",
     "song_name": "The Motion",
     "artist_name": "Drake",
@@ -38369,7 +38369,7 @@ module.exports = [
   },
   {
     "id": 4797,
-    "line": "They�re trying to take you away from me",
+    "line": "Theyre trying to take you away from me",
     "song_lyrics_url": "https://genius.com/Drake-over-my-dead-body-lyrics",
     "song_name": "Over My Dead Body",
     "artist_name": "Drake",
@@ -38617,7 +38617,7 @@ module.exports = [
   },
   {
     "id": 4828,
-    "line": "They�re trying to take you away from me",
+    "line": "Theyre trying to take you away from me",
     "song_lyrics_url": "https://genius.com/Drake-over-my-dead-body-lyrics",
     "song_name": "Over My Dead Body",
     "artist_name": "Drake",
@@ -38865,7 +38865,7 @@ module.exports = [
   },
   {
     "id": 4859,
-    "line": "They�re trying to take you away from me",
+    "line": "Theyre trying to take you away from me",
     "song_lyrics_url": "https://genius.com/Drake-over-my-dead-body-lyrics",
     "song_name": "Over My Dead Body",
     "artist_name": "Drake",
@@ -38881,7 +38881,7 @@ module.exports = [
   },
   {
     "id": 4861,
-    "line": "Three in the morning still going down�",
+    "line": "Three in the morning still going down",
     "song_lyrics_url": "https://genius.com/Drake-over-my-dead-body-lyrics",
     "song_name": "Over My Dead Body",
     "artist_name": "Drake",
@@ -39377,7 +39377,7 @@ module.exports = [
   },
   {
     "id": 4923,
-    "line": "Tuck my napkin in my shirt, �cause I'm just mobbin' like that",
+    "line": "Tuck my napkin in my shirt, cause I'm just mobbin' like that",
     "song_lyrics_url": "https://genius.com/Drake-headlines-lyrics",
     "song_name": "Headlines",
     "artist_name": "Drake",
@@ -39409,7 +39409,7 @@ module.exports = [
   },
   {
     "id": 4927,
-    "line": "�Cause one of us goes in, and we all go through it",
+    "line": "Cause one of us goes in, and we all go through it",
     "song_lyrics_url": "https://genius.com/Drake-headlines-lyrics",
     "song_name": "Headlines",
     "artist_name": "Drake",
@@ -39633,7 +39633,7 @@ module.exports = [
   },
   {
     "id": 4955,
-    "line": "�Cause I live for this, it isn't just a hobby like that",
+    "line": "Cause I live for this, it isn't just a hobby like that",
     "song_lyrics_url": "https://genius.com/Drake-headlines-lyrics",
     "song_name": "Headlines",
     "artist_name": "Drake",
@@ -39785,7 +39785,7 @@ module.exports = [
   },
   {
     "id": 4974,
-    "line": "Yeah�",
+    "line": "Yeah",
     "song_lyrics_url": "https://genius.com/Drake-headlines-lyrics",
     "song_name": "Headlines",
     "artist_name": "Drake",
@@ -39841,7 +39841,7 @@ module.exports = [
   },
   {
     "id": 4981,
-    "line": "About hearts that you�ve broken and ties that you�ve severed",
+    "line": "About hearts that youve broken and ties that youve severed",
     "song_lyrics_url": "https://genius.com/Drake-headlines-lyrics",
     "song_name": "Headlines",
     "artist_name": "Drake",
@@ -39849,7 +39849,7 @@ module.exports = [
   },
   {
     "id": 4982,
-    "line": "No doubt in my mind, that�ll make them feel better",
+    "line": "No doubt in my mind, thatll make them feel better",
     "song_lyrics_url": "https://genius.com/Drake-headlines-lyrics",
     "song_name": "Headlines",
     "artist_name": "Drake",
@@ -40761,7 +40761,7 @@ module.exports = [
   },
   {
     "id": 5096,
-    "line": "Yeah, I went out, I went�",
+    "line": "Yeah, I went out, I went",
     "song_lyrics_url": "https://genius.com/Drake-marvins-room-lyrics",
     "song_name": "Marvin's Room",
     "artist_name": "Drake",
@@ -40777,7 +40777,7 @@ module.exports = [
   },
   {
     "id": 5098,
-    "line": "I never went to bed, s***�",
+    "line": "I never went to bed, s***",
     "song_lyrics_url": "https://genius.com/Drake-marvins-room-lyrics",
     "song_name": "Marvin's Room",
     "artist_name": "Drake",
@@ -40801,7 +40801,7 @@ module.exports = [
   },
   {
     "id": 5101,
-    "line": "I don't know, I'm delirious�",
+    "line": "I don't know, I'm delirious",
     "song_lyrics_url": "https://genius.com/Drake-marvins-room-lyrics",
     "song_name": "Marvin's Room",
     "artist_name": "Drake",
@@ -40809,7 +40809,7 @@ module.exports = [
   },
   {
     "id": 5102,
-    "line": "Cups of the ros�",
+    "line": "Cups of the ros",
     "song_lyrics_url": "https://genius.com/Drake-marvins-room-lyrics",
     "song_name": "Marvin's Room",
     "artist_name": "Drake",
@@ -40865,7 +40865,7 @@ module.exports = [
   },
   {
     "id": 5109,
-    "line": "That I'ma call her anyway, and say�",
+    "line": "That I'ma call her anyway, and say",
     "song_lyrics_url": "https://genius.com/Drake-marvins-room-lyrics",
     "song_name": "Marvin's Room",
     "artist_name": "Drake",
@@ -41001,7 +41001,7 @@ module.exports = [
   },
   {
     "id": 5126,
-    "line": "That I'ma call you anyway, and say�",
+    "line": "That I'ma call you anyway, and say",
     "song_lyrics_url": "https://genius.com/Drake-marvins-room-lyrics",
     "song_name": "Marvin's Room",
     "artist_name": "Drake",
@@ -41137,7 +41137,7 @@ module.exports = [
   },
   {
     "id": 5143,
-    "line": "I was just calling, �cause they were just leavin'",
+    "line": "I was just calling, cause they were just leavin'",
     "song_lyrics_url": "https://genius.com/Drake-marvins-room-lyrics",
     "song_name": "Marvin's Room",
     "artist_name": "Drake",
@@ -41345,7 +41345,7 @@ module.exports = [
   },
   {
     "id": 5169,
-    "line": "�Cause if they did, we gonna be in some trouble",
+    "line": "Cause if they did, we gonna be in some trouble",
     "song_lyrics_url": "https://genius.com/Drake-marvins-room-lyrics",
     "song_name": "Marvin's Room",
     "artist_name": "Drake",
@@ -41809,7 +41809,7 @@ module.exports = [
   },
   {
     "id": 5227,
-    "line": "The living proof that you ain�t gotta die to get to heaven",
+    "line": "The living proof that you aint gotta die to get to heaven",
     "song_lyrics_url": "https://genius.com/Drake-under-ground-kings-lyrics",
     "song_name": "Under Ground Kings",
     "artist_name": "Drake",
@@ -42121,7 +42121,7 @@ module.exports = [
   },
   {
     "id": 5266,
-    "line": "And if I don�t do nothing, I'mma ball",
+    "line": "And if I dont do nothing, I'mma ball",
     "song_lyrics_url": "https://genius.com/Drake-under-ground-kings-lyrics",
     "song_name": "Under Ground Kings",
     "artist_name": "Drake",
@@ -42745,7 +42745,7 @@ module.exports = [
   },
   {
     "id": 5344,
-    "line": "A little attitude problem all good, it�ll make the s*** last",
+    "line": "A little attitude problem all good, itll make the s*** last",
     "song_lyrics_url": "https://genius.com/Drake-make-me-proud-lyrics",
     "song_name": "Make Me Proud",
     "artist_name": "Drake",
@@ -42753,7 +42753,7 @@ module.exports = [
   },
   {
     "id": 5345,
-    "line": "Don�t make it too easy, girl, don�t take it too fast",
+    "line": "Dont make it too easy, girl, dont take it too fast",
     "song_lyrics_url": "https://genius.com/Drake-make-me-proud-lyrics",
     "song_name": "Make Me Proud",
     "artist_name": "Drake",
@@ -42849,7 +42849,7 @@ module.exports = [
   },
   {
     "id": 5357,
-    "line": "But you take that away and you�ve always been the one",
+    "line": "But you take that away and youve always been the one",
     "song_lyrics_url": "https://genius.com/Drake-make-me-proud-lyrics",
     "song_name": "Make Me Proud",
     "artist_name": "Drake",
@@ -42865,7 +42865,7 @@ module.exports = [
   },
   {
     "id": 5359,
-    "line": "Maybe it�s just right for the night",
+    "line": "Maybe its just right for the night",
     "song_lyrics_url": "https://genius.com/Drake-make-me-proud-lyrics",
     "song_name": "Make Me Proud",
     "artist_name": "Drake",
@@ -42905,7 +42905,7 @@ module.exports = [
   },
   {
     "id": 5364,
-    "line": "Cause you don�t love them boys",
+    "line": "Cause you dont love them boys",
     "song_lyrics_url": "https://genius.com/Drake-make-me-proud-lyrics",
     "song_name": "Make Me Proud",
     "artist_name": "Drake",
@@ -42937,7 +42937,7 @@ module.exports = [
   },
   {
     "id": 5368,
-    "line": "Can�t you tell by how they looking at you everywhere you go?",
+    "line": "Cant you tell by how they looking at you everywhere you go?",
     "song_lyrics_url": "https://genius.com/Drake-make-me-proud-lyrics",
     "song_name": "Make Me Proud",
     "artist_name": "Drake",
@@ -42961,7 +42961,7 @@ module.exports = [
   },
   {
     "id": 5371,
-    "line": "It�s just amazing, girl, all I can say is",
+    "line": "Its just amazing, girl, all I can say is",
     "song_lyrics_url": "https://genius.com/Drake-make-me-proud-lyrics",
     "song_name": "Make Me Proud",
     "artist_name": "Drake",
@@ -42969,7 +42969,7 @@ module.exports = [
   },
   {
     "id": 5372,
-    "line": "I�m so I'm so I'm so I'm so I'm so  proud of you",
+    "line": "Im so I'm so I'm so I'm so I'm so  proud of you",
     "song_lyrics_url": "https://genius.com/Drake-make-me-proud-lyrics",
     "song_name": "Make Me Proud",
     "artist_name": "Drake",
@@ -42977,7 +42977,7 @@ module.exports = [
   },
   {
     "id": 5373,
-    "line": "I�m so I'm so I'm so I'm so I'm so  proud of you",
+    "line": "Im so I'm so I'm so I'm so I'm so  proud of you",
     "song_lyrics_url": "https://genius.com/Drake-make-me-proud-lyrics",
     "song_name": "Make Me Proud",
     "artist_name": "Drake",
@@ -42985,7 +42985,7 @@ module.exports = [
   },
   {
     "id": 5374,
-    "line": "I�m so I'm so I'm so I'm so I'm so  proud of you",
+    "line": "Im so I'm so I'm so I'm so I'm so  proud of you",
     "song_lyrics_url": "https://genius.com/Drake-make-me-proud-lyrics",
     "song_name": "Make Me Proud",
     "artist_name": "Drake",
@@ -42993,7 +42993,7 @@ module.exports = [
   },
   {
     "id": 5375,
-    "line": "Everything�s adding up, you�ve been through hell and back",
+    "line": "Everythings adding up, youve been through hell and back",
     "song_lyrics_url": "https://genius.com/Drake-make-me-proud-lyrics",
     "song_name": "Make Me Proud",
     "artist_name": "Drake",
@@ -43001,7 +43001,7 @@ module.exports = [
   },
   {
     "id": 5376,
-    "line": "That's why you�re bad as f**k and you�",
+    "line": "That's why youre bad as f**k and you",
     "song_lyrics_url": "https://genius.com/Drake-make-me-proud-lyrics",
     "song_name": "Make Me Proud",
     "artist_name": "Drake",
@@ -43017,7 +43017,7 @@ module.exports = [
   },
   {
     "id": 5378,
-    "line": "All of them b****es I�m badder than",
+    "line": "All of them b****es Im badder than",
     "song_lyrics_url": "https://genius.com/Drake-make-me-proud-lyrics",
     "song_name": "Make Me Proud",
     "artist_name": "Drake",
@@ -43041,7 +43041,7 @@ module.exports = [
   },
   {
     "id": 5381,
-    "line": "And I always ride slow when I�m straddling",
+    "line": "And I always ride slow when Im straddling",
     "song_lyrics_url": "https://genius.com/Drake-make-me-proud-lyrics",
     "song_name": "Make Me Proud",
     "artist_name": "Drake",
@@ -43049,7 +43049,7 @@ module.exports = [
   },
   {
     "id": 5382,
-    "line": "And my s***�s so wet you gotta paddle in",
+    "line": "And my s***s so wet you gotta paddle in",
     "song_lyrics_url": "https://genius.com/Drake-make-me-proud-lyrics",
     "song_name": "Make Me Proud",
     "artist_name": "Drake",
@@ -43065,7 +43065,7 @@ module.exports = [
   },
   {
     "id": 5384,
-    "line": "It�s Pink Friday Records and OVO",
+    "line": "Its Pink Friday Records and OVO",
     "song_lyrics_url": "https://genius.com/Drake-make-me-proud-lyrics",
     "song_name": "Make Me Proud",
     "artist_name": "Drake",
@@ -43073,7 +43073,7 @@ module.exports = [
   },
   {
     "id": 5385,
-    "line": "Done did the pop tour, I�m the realest still",
+    "line": "Done did the pop tour, Im the realest still",
     "song_lyrics_url": "https://genius.com/Drake-make-me-proud-lyrics",
     "song_name": "Make Me Proud",
     "artist_name": "Drake",
@@ -43089,7 +43089,7 @@ module.exports = [
   },
   {
     "id": 5387,
-    "line": "It�s MAC, OPI, and a fragrance, too",
+    "line": "Its MAC, OPI, and a fragrance, too",
     "song_lyrics_url": "https://genius.com/Drake-make-me-proud-lyrics",
     "song_name": "Make Me Proud",
     "artist_name": "Drake",
@@ -43097,7 +43097,7 @@ module.exports = [
   },
   {
     "id": 5388,
-    "line": "Apparel, I�m dominating every avenue",
+    "line": "Apparel, Im dominating every avenue",
     "song_lyrics_url": "https://genius.com/Drake-make-me-proud-lyrics",
     "song_name": "Make Me Proud",
     "artist_name": "Drake",
@@ -43121,7 +43121,7 @@ module.exports = [
   },
   {
     "id": 5391,
-    "line": "Cause I�m fl-fl-fly I'm flying high",
+    "line": "Cause Im fl-fl-fly I'm flying high",
     "song_lyrics_url": "https://genius.com/Drake-make-me-proud-lyrics",
     "song_name": "Make Me Proud",
     "artist_name": "Drake",
@@ -43145,7 +43145,7 @@ module.exports = [
   },
   {
     "id": 5394,
-    "line": "I�ll give it all away, don�t care what the people say",
+    "line": "Ill give it all away, dont care what the people say",
     "song_lyrics_url": "https://genius.com/Drake-make-me-proud-lyrics",
     "song_name": "Make Me Proud",
     "artist_name": "Drake",
@@ -43153,7 +43153,7 @@ module.exports = [
   },
   {
     "id": 5395,
-    "line": "I�ll be a million, billion, trillion miles away aha",
+    "line": "Ill be a million, billion, trillion miles away aha",
     "song_lyrics_url": "https://genius.com/Drake-make-me-proud-lyrics",
     "song_name": "Make Me Proud",
     "artist_name": "Drake",
@@ -43161,7 +43161,7 @@ module.exports = [
   },
   {
     "id": 5396,
-    "line": "He asked my sign, I said a Sag�",
+    "line": "He asked my sign, I said a Sag",
     "song_lyrics_url": "https://genius.com/Drake-make-me-proud-lyrics",
     "song_name": "Make Me Proud",
     "artist_name": "Drake",
@@ -43169,7 +43169,7 @@ module.exports = [
   },
   {
     "id": 5397,
-    "line": "I�m a star: sheriff badge",
+    "line": "Im a star: sheriff badge",
     "song_lyrics_url": "https://genius.com/Drake-make-me-proud-lyrics",
     "song_name": "Make Me Proud",
     "artist_name": "Drake",
@@ -43177,7 +43177,7 @@ module.exports = [
   },
   {
     "id": 5398,
-    "line": "What's the point if I�m guarding?",
+    "line": "What's the point if Im guarding?",
     "song_lyrics_url": "https://genius.com/Drake-make-me-proud-lyrics",
     "song_name": "Make Me Proud",
     "artist_name": "Drake",
@@ -43209,7 +43209,7 @@ module.exports = [
   },
   {
     "id": 5402,
-    "line": "Can�t you tell by how they looking at you everywhere you go?",
+    "line": "Cant you tell by how they looking at you everywhere you go?",
     "song_lyrics_url": "https://genius.com/Drake-make-me-proud-lyrics",
     "song_name": "Make Me Proud",
     "artist_name": "Drake",
@@ -43233,7 +43233,7 @@ module.exports = [
   },
   {
     "id": 5405,
-    "line": "It�s just amazing, girl, all I can say is",
+    "line": "Its just amazing, girl, all I can say is",
     "song_lyrics_url": "https://genius.com/Drake-make-me-proud-lyrics",
     "song_name": "Make Me Proud",
     "artist_name": "Drake",
@@ -43241,7 +43241,7 @@ module.exports = [
   },
   {
     "id": 5406,
-    "line": "I�m so I'm so I'm so I'm so I'm so  proud of you",
+    "line": "Im so I'm so I'm so I'm so I'm so  proud of you",
     "song_lyrics_url": "https://genius.com/Drake-make-me-proud-lyrics",
     "song_name": "Make Me Proud",
     "artist_name": "Drake",
@@ -43249,7 +43249,7 @@ module.exports = [
   },
   {
     "id": 5407,
-    "line": "I�m so I'm so I'm so I'm so I'm so  proud of you",
+    "line": "Im so I'm so I'm so I'm so I'm so  proud of you",
     "song_lyrics_url": "https://genius.com/Drake-make-me-proud-lyrics",
     "song_name": "Make Me Proud",
     "artist_name": "Drake",
@@ -43257,7 +43257,7 @@ module.exports = [
   },
   {
     "id": 5408,
-    "line": "I�m so I'm so I'm so I'm so I'm so  proud of you",
+    "line": "Im so I'm so I'm so I'm so I'm so  proud of you",
     "song_lyrics_url": "https://genius.com/Drake-make-me-proud-lyrics",
     "song_name": "Make Me Proud",
     "artist_name": "Drake",
@@ -43289,7 +43289,7 @@ module.exports = [
   },
   {
     "id": 5412,
-    "line": "I�m so I'm so I'm so I'm so I'm so  proud of you",
+    "line": "Im so I'm so I'm so I'm so I'm so  proud of you",
     "song_lyrics_url": "https://genius.com/Drake-make-me-proud-lyrics",
     "song_name": "Make Me Proud",
     "artist_name": "Drake",
@@ -43305,7 +43305,7 @@ module.exports = [
   },
   {
     "id": 5414,
-    "line": "I�m so I'm so I'm so I'm so I'm so  I'm so",
+    "line": "Im so I'm so I'm so I'm so I'm so  I'm so",
     "song_lyrics_url": "https://genius.com/Drake-make-me-proud-lyrics",
     "song_name": "Make Me Proud",
     "artist_name": "Drake",
@@ -43313,7 +43313,7 @@ module.exports = [
   },
   {
     "id": 5415,
-    "line": "I�m so I'm so I'm so I'm so I'm so  proud of you",
+    "line": "Im so I'm so I'm so I'm so I'm so  proud of you",
     "song_lyrics_url": "https://genius.com/Drake-make-me-proud-lyrics",
     "song_name": "Make Me Proud",
     "artist_name": "Drake",
@@ -43321,7 +43321,7 @@ module.exports = [
   },
   {
     "id": 5416,
-    "line": "I�m so I'm so I'm so I'm so I'm so  proud of you",
+    "line": "Im so I'm so I'm so I'm so I'm so  proud of you",
     "song_lyrics_url": "https://genius.com/Drake-make-me-proud-lyrics",
     "song_name": "Make Me Proud",
     "artist_name": "Drake",
@@ -43329,7 +43329,7 @@ module.exports = [
   },
   {
     "id": 5417,
-    "line": "I�m so I'm so I'm so I'm so I'm so  proud of you",
+    "line": "Im so I'm so I'm so I'm so I'm so  proud of you",
     "song_lyrics_url": "https://genius.com/Drake-make-me-proud-lyrics",
     "song_name": "Make Me Proud",
     "artist_name": "Drake",
@@ -43337,7 +43337,7 @@ module.exports = [
   },
   {
     "id": 5418,
-    "line": "Everything�s adding up, you�ve been through hell and back",
+    "line": "Everythings adding up, youve been through hell and back",
     "song_lyrics_url": "https://genius.com/Drake-make-me-proud-lyrics",
     "song_name": "Make Me Proud",
     "artist_name": "Drake",
@@ -44193,7 +44193,7 @@ module.exports = [
   },
   {
     "id": 5525,
-    "line": "Tonight I�ll ease your mind",
+    "line": "Tonight Ill ease your mind",
     "song_lyrics_url": "https://genius.com/Drake-cameras-lyrics",
     "song_name": "Cameras",
     "artist_name": "Drake",
@@ -44201,7 +44201,7 @@ module.exports = [
   },
   {
     "id": 5526,
-    "line": "That�s why I�m calling on you",
+    "line": "Thats why Im calling on you",
     "song_lyrics_url": "https://genius.com/Drake-cameras-lyrics",
     "song_name": "Cameras",
     "artist_name": "Drake",
@@ -44217,7 +44217,7 @@ module.exports = [
   },
   {
     "id": 5528,
-    "line": "It�s hard to stay away",
+    "line": "Its hard to stay away",
     "song_lyrics_url": "https://genius.com/Drake-cameras-lyrics",
     "song_name": "Cameras",
     "artist_name": "Drake",
@@ -44369,7 +44369,7 @@ module.exports = [
   },
   {
     "id": 5547,
-    "line": "Tonight I�ll ease your mind",
+    "line": "Tonight Ill ease your mind",
     "song_lyrics_url": "https://genius.com/Drake-cameras-lyrics",
     "song_name": "Cameras",
     "artist_name": "Drake",
@@ -44377,7 +44377,7 @@ module.exports = [
   },
   {
     "id": 5548,
-    "line": "That�s why I�m calling on you",
+    "line": "Thats why Im calling on you",
     "song_lyrics_url": "https://genius.com/Drake-cameras-lyrics",
     "song_name": "Cameras",
     "artist_name": "Drake",
@@ -44393,7 +44393,7 @@ module.exports = [
   },
   {
     "id": 5550,
-    "line": "It�s hard to stay away",
+    "line": "Its hard to stay away",
     "song_lyrics_url": "https://genius.com/Drake-cameras-lyrics",
     "song_name": "Cameras",
     "artist_name": "Drake",
@@ -45617,7 +45617,7 @@ module.exports = [
   },
   {
     "id": 5703,
-    "line": "It�s like �09 in your basement",
+    "line": "Its like 09 in your basement",
     "song_lyrics_url": "https://genius.com/Drake-look-what-youve-done-lyrics",
     "song_name": "Look What You've Done",
     "artist_name": "Drake",
@@ -45625,7 +45625,7 @@ module.exports = [
   },
   {
     "id": 5704,
-    "line": "And I�m in love with Nebby",
+    "line": "And Im in love with Nebby",
     "song_lyrics_url": "https://genius.com/Drake-look-what-youve-done-lyrics",
     "song_name": "Look What You've Done",
     "artist_name": "Drake",
@@ -45633,7 +45633,7 @@ module.exports = [
   },
   {
     "id": 5705,
-    "line": "And I still love her but it fell through because I wasn�t ready",
+    "line": "And I still love her but it fell through because I wasnt ready",
     "song_lyrics_url": "https://genius.com/Drake-look-what-youve-done-lyrics",
     "song_name": "Look What You've Done",
     "artist_name": "Drake",
@@ -45689,7 +45689,7 @@ module.exports = [
   },
   {
     "id": 5712,
-    "line": "And you tell me I�m just like my father",
+    "line": "And you tell me Im just like my father",
     "song_lyrics_url": "https://genius.com/Drake-look-what-youve-done-lyrics",
     "song_name": "Look What You've Done",
     "artist_name": "Drake",
@@ -45873,7 +45873,7 @@ module.exports = [
   },
   {
     "id": 5735,
-    "line": "They love your son�man, that boy gone",
+    "line": "They love your sonman, that boy gone",
     "song_lyrics_url": "https://genius.com/Drake-look-what-youve-done-lyrics",
     "song_name": "Look What You've Done",
     "artist_name": "Drake",
@@ -46033,7 +46033,7 @@ module.exports = [
   },
   {
     "id": 5755,
-    "line": "Boo-hoo, sad story�black American dad story",
+    "line": "Boo-hoo, sad storyblack American dad story",
     "song_lyrics_url": "https://genius.com/Drake-look-what-youve-done-lyrics",
     "song_name": "Look What You've Done",
     "artist_name": "Drake",
@@ -46153,7 +46153,7 @@ module.exports = [
   },
   {
     "id": 5770,
-    "line": "Then you�d toss the keys and loan me your car",
+    "line": "Then youd toss the keys and loan me your car",
     "song_lyrics_url": "https://genius.com/Drake-look-what-youve-done-lyrics",
     "song_name": "Look What You've Done",
     "artist_name": "Drake",
@@ -46313,7 +46313,7 @@ module.exports = [
   },
   {
     "id": 5790,
-    "line": "Hi Aubrey, I'm here sitting with my son having a little talk�and he knows how to get in touch with you now, to let you know how grateful I am for your help in keeping me in this�in this comfortable place. All I can say, Aubrey, is I remember the good times we had together, and the times I used to look after you. And I still have wonderful feelings about that. So God bless you, and I hope I'll see you...",
+    "line": "Hi Aubrey, I'm here sitting with my son having a little talkand he knows how to get in touch with you now, to let you know how grateful I am for your help in keeping me in thisin this comfortable place. All I can say, Aubrey, is I remember the good times we had together, and the times I used to look after you. And I still have wonderful feelings about that. So God bless you, and I hope I'll see you...",
     "song_lyrics_url": "https://genius.com/Drake-look-what-youve-done-lyrics",
     "song_name": "Look What You've Done",
     "artist_name": "Drake",
@@ -47465,7 +47465,7 @@ module.exports = [
   },
   {
     "id": 5934,
-    "line": "It�ll be a long time before yall feel me, if ever",
+    "line": "Itll be a long time before yall feel me, if ever",
     "song_lyrics_url": "https://genius.com/Drake-the-ride-lyrics",
     "song_name": "The Ride",
     "artist_name": "Drake",
@@ -47473,7 +47473,7 @@ module.exports = [
   },
   {
     "id": 5935,
-    "line": "You won�t feel me until everybody",
+    "line": "You wont feel me until everybody",
     "song_lyrics_url": "https://genius.com/Drake-the-ride-lyrics",
     "song_name": "The Ride",
     "artist_name": "Drake",
@@ -47481,7 +47481,7 @@ module.exports = [
   },
   {
     "id": 5936,
-    "line": "Say they love you, but it�s not love",
+    "line": "Say they love you, but its not love",
     "song_lyrics_url": "https://genius.com/Drake-the-ride-lyrics",
     "song_name": "The Ride",
     "artist_name": "Drake",
@@ -47601,7 +47601,7 @@ module.exports = [
   },
   {
     "id": 5951,
-    "line": "It�s feeling like you own every place you choose to be at now",
+    "line": "Its feeling like you own every place you choose to be at now",
     "song_lyrics_url": "https://genius.com/Drake-the-ride-lyrics",
     "song_name": "The Ride",
     "artist_name": "Drake",
@@ -47673,7 +47673,7 @@ module.exports = [
   },
   {
     "id": 5960,
-    "line": "You won't feel me til you want it so bad you tell yourself you�re in it",
+    "line": "You won't feel me til you want it so bad you tell yourself youre in it",
     "song_lyrics_url": "https://genius.com/Drake-the-ride-lyrics",
     "song_name": "The Ride",
     "artist_name": "Drake",
@@ -47865,7 +47865,7 @@ module.exports = [
   },
   {
     "id": 5984,
-    "line": "I�m driving right up to it now",
+    "line": "Im driving right up to it now",
     "song_lyrics_url": "https://genius.com/Drake-the-ride-lyrics",
     "song_name": "The Ride",
     "artist_name": "Drake",
@@ -47921,7 +47921,7 @@ module.exports = [
   },
   {
     "id": 5991,
-    "line": "My young N****s popping M�s and sipping dirty jones",
+    "line": "My young N****s popping Ms and sipping dirty jones",
     "song_lyrics_url": "https://genius.com/Drake-the-ride-lyrics",
     "song_name": "The Ride",
     "artist_name": "Drake",
@@ -47961,7 +47961,7 @@ module.exports = [
   },
   {
     "id": 5996,
-    "line": "I�m bout to f**k and I�m just praying that it feels good",
+    "line": "Im bout to f**k and Im just praying that it feels good",
     "song_lyrics_url": "https://genius.com/Drake-the-ride-lyrics",
     "song_name": "The Ride",
     "artist_name": "Drake",
@@ -47969,7 +47969,7 @@ module.exports = [
   },
   {
     "id": 5997,
-    "line": "I really don�t know much but, s***, I know a secret",
+    "line": "I really dont know much but, s***, I know a secret",
     "song_lyrics_url": "https://genius.com/Drake-the-ride-lyrics",
     "song_name": "The Ride",
     "artist_name": "Drake",
@@ -47977,7 +47977,7 @@ module.exports = [
   },
   {
     "id": 5998,
-    "line": "They say more money more problems, my N**** don�t believe it",
+    "line": "They say more money more problems, my N**** dont believe it",
     "song_lyrics_url": "https://genius.com/Drake-the-ride-lyrics",
     "song_name": "The Ride",
     "artist_name": "Drake",
@@ -47985,7 +47985,7 @@ module.exports = [
   },
   {
     "id": 5999,
-    "line": "I mean, sure, there�s some bills and taxes I�m still evading",
+    "line": "I mean, sure, theres some bills and taxes Im still evading",
     "song_lyrics_url": "https://genius.com/Drake-the-ride-lyrics",
     "song_name": "The Ride",
     "artist_name": "Drake",
@@ -48025,7 +48025,7 @@ module.exports = [
   },
   {
     "id": 6004,
-    "line": "Still scorching as if I didn�t notice",
+    "line": "Still scorching as if I didnt notice",
     "song_lyrics_url": "https://genius.com/Drake-the-ride-lyrics",
     "song_name": "The Ride",
     "artist_name": "Drake",
@@ -48041,7 +48041,7 @@ module.exports = [
   },
   {
     "id": 6006,
-    "line": "I�m out here messing over the lives of these N****s",
+    "line": "Im out here messing over the lives of these N****s",
     "song_lyrics_url": "https://genius.com/Drake-the-ride-lyrics",
     "song_name": "The Ride",
     "artist_name": "Drake",
@@ -48049,7 +48049,7 @@ module.exports = [
   },
   {
     "id": 6007,
-    "line": "That couldn�t f**k with my freshman floater (flow ta)",
+    "line": "That couldnt f**k with my freshman floater (flow ta)",
     "song_lyrics_url": "https://genius.com/Drake-the-ride-lyrics",
     "song_name": "The Ride",
     "artist_name": "Drake",
@@ -49105,7 +49105,7 @@ module.exports = [
   },
   {
     "id": 6139,
-    "line": "Ridin round in the �rarri wit the top off",
+    "line": "Ridin round in the rarri wit the top off",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-remix-lyrics",
     "song_name": "The Motto (Remix)",
     "artist_name": "Drake",
@@ -49113,7 +49113,7 @@ module.exports = [
   },
   {
     "id": 6140,
-    "line": "While you in the window, man I�m probably on my next car",
+    "line": "While you in the window, man Im probably on my next car",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-remix-lyrics",
     "song_name": "The Motto (Remix)",
     "artist_name": "Drake",
@@ -49137,7 +49137,7 @@ module.exports = [
   },
   {
     "id": 6143,
-    "line": "Drawing on your face you�re a clown jack in the box",
+    "line": "Drawing on your face youre a clown jack in the box",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-remix-lyrics",
     "song_name": "The Motto (Remix)",
     "artist_name": "Drake",
@@ -49145,7 +49145,7 @@ module.exports = [
   },
   {
     "id": 6144,
-    "line": "Boy that�s your bop, she my new pum pum star",
+    "line": "Boy thats your bop, she my new pum pum star",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-remix-lyrics",
     "song_name": "The Motto (Remix)",
     "artist_name": "Drake",
@@ -49161,7 +49161,7 @@ module.exports = [
   },
   {
     "id": 6146,
-    "line": "Them my homies, they don�t act, acting brand new",
+    "line": "Them my homies, they dont act, acting brand new",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-remix-lyrics",
     "song_name": "The Motto (Remix)",
     "artist_name": "Drake",
@@ -49185,7 +49185,7 @@ module.exports = [
   },
   {
     "id": 6149,
-    "line": "Damn, That�s the motto you don�t know it�s like that",
+    "line": "Damn, Thats the motto you dont know its like that",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-remix-lyrics",
     "song_name": "The Motto (Remix)",
     "artist_name": "Drake",
@@ -49249,7 +49249,7 @@ module.exports = [
   },
   {
     "id": 6157,
-    "line": "And when you�re f**king someone else just f**k her like she ain't me",
+    "line": "And when youre f**king someone else just f**k her like she ain't me",
     "song_lyrics_url": "https://genius.com/Drake-hate-sleeping-alone-lyrics",
     "song_name": "Hate Sleeping Alone",
     "artist_name": "Drake",
@@ -49281,7 +49281,7 @@ module.exports = [
   },
   {
     "id": 6161,
-    "line": "It�s all for her to carry, bags she deserve to carry",
+    "line": "Its all for her to carry, bags she deserve to carry",
     "song_lyrics_url": "https://genius.com/Drake-hate-sleeping-alone-lyrics",
     "song_name": "Hate Sleeping Alone",
     "artist_name": "Drake",
@@ -49289,7 +49289,7 @@ module.exports = [
   },
   {
     "id": 6162,
-    "line": "I hate that ho, I make it so hard just to talk, don�t I?",
+    "line": "I hate that ho, I make it so hard just to talk, dont I?",
     "song_lyrics_url": "https://genius.com/Drake-hate-sleeping-alone-lyrics",
     "song_name": "Hate Sleeping Alone",
     "artist_name": "Drake",
@@ -49297,7 +49297,7 @@ module.exports = [
   },
   {
     "id": 6163,
-    "line": "I get off topic don�t I? I get it poppin'don�t I?",
+    "line": "I get off topic dont I? I get it poppin'dont I?",
     "song_lyrics_url": "https://genius.com/Drake-hate-sleeping-alone-lyrics",
     "song_name": "Hate Sleeping Alone",
     "artist_name": "Drake",
@@ -49305,7 +49305,7 @@ module.exports = [
   },
   {
     "id": 6164,
-    "line": "I�ll end up stopping won�t I? And by the time I end up stopping",
+    "line": "Ill end up stopping wont I? And by the time I end up stopping",
     "song_lyrics_url": "https://genius.com/Drake-hate-sleeping-alone-lyrics",
     "song_name": "Hate Sleeping Alone",
     "artist_name": "Drake",
@@ -49313,7 +49313,7 @@ module.exports = [
   },
   {
     "id": 6165,
-    "line": "You�ll be rocking one of the rings you pointed out while shopping with a N**** don�t lie",
+    "line": "Youll be rocking one of the rings you pointed out while shopping with a N**** dont lie",
     "song_lyrics_url": "https://genius.com/Drake-hate-sleeping-alone-lyrics",
     "song_name": "Hate Sleeping Alone",
     "artist_name": "Drake",
@@ -49321,7 +49321,7 @@ module.exports = [
   },
   {
     "id": 6166,
-    "line": "She�s losing it right now, cause if I wasn't who I am, she would've been moving in by now",
+    "line": "Shes losing it right now, cause if I wasn't who I am, she would've been moving in by now",
     "song_lyrics_url": "https://genius.com/Drake-hate-sleeping-alone-lyrics",
     "song_name": "Hate Sleeping Alone",
     "artist_name": "Drake",
@@ -49409,7 +49409,7 @@ module.exports = [
   },
   {
     "id": 6177,
-    "line": "So she�s here and we're both so gone",
+    "line": "So shes here and we're both so gone",
     "song_lyrics_url": "https://genius.com/Drake-hate-sleeping-alone-lyrics",
     "song_name": "Hate Sleeping Alone",
     "artist_name": "Drake",
@@ -49593,7 +49593,7 @@ module.exports = [
   },
   {
     "id": 6200,
-    "line": "So she�s here and we're both so gone",
+    "line": "So shes here and we're both so gone",
     "song_lyrics_url": "https://genius.com/Drake-hate-sleeping-alone-lyrics",
     "song_name": "Hate Sleeping Alone",
     "artist_name": "Drake",
@@ -49833,7 +49833,7 @@ module.exports = [
   },
   {
     "id": 6230,
-    "line": "Taking off like�Oh",
+    "line": "Taking off likeOh",
     "song_lyrics_url": "https://genius.com/Drake-fireworks-lyrics",
     "song_name": "Fireworks",
     "artist_name": "Drake",
@@ -50073,7 +50073,7 @@ module.exports = [
   },
   {
     "id": 6260,
-    "line": "Taking off like�Oh",
+    "line": "Taking off likeOh",
     "song_lyrics_url": "https://genius.com/Drake-fireworks-lyrics",
     "song_name": "Fireworks",
     "artist_name": "Drake",
@@ -50305,7 +50305,7 @@ module.exports = [
   },
   {
     "id": 6289,
-    "line": "Taking off like�Oh",
+    "line": "Taking off likeOh",
     "song_lyrics_url": "https://genius.com/Drake-fireworks-lyrics",
     "song_name": "Fireworks",
     "artist_name": "Drake",
@@ -51193,7 +51193,7 @@ module.exports = [
   },
   {
     "id": 6400,
-    "line": "That I didn't know last year�who the **** are y'all?",
+    "line": "That I didn't know last yearwho the **** are y'all?",
     "song_lyrics_url": "https://genius.com/Drake-over-lyrics",
     "song_name": "Over",
     "artist_name": "Drake",
@@ -51233,7 +51233,7 @@ module.exports = [
   },
   {
     "id": 6405,
-    "line": "Oh yeah, that's right�I'm doing me, I'm doing me",
+    "line": "Oh yeah, that's rightI'm doing me, I'm doing me",
     "song_lyrics_url": "https://genius.com/Drake-over-lyrics",
     "song_name": "Over",
     "artist_name": "Drake",
@@ -51401,7 +51401,7 @@ module.exports = [
   },
   {
     "id": 6426,
-    "line": "That I didn't know last year�who the f**k are y'all?",
+    "line": "That I didn't know last yearwho the f**k are y'all?",
     "song_lyrics_url": "https://genius.com/Drake-over-lyrics",
     "song_name": "Over",
     "artist_name": "Drake",
@@ -51441,7 +51441,7 @@ module.exports = [
   },
   {
     "id": 6431,
-    "line": "Oh yeah, that's right�I'm doing me, I'm doing me",
+    "line": "Oh yeah, that's rightI'm doing me, I'm doing me",
     "song_lyrics_url": "https://genius.com/Drake-over-lyrics",
     "song_name": "Over",
     "artist_name": "Drake",
@@ -51625,7 +51625,7 @@ module.exports = [
   },
   {
     "id": 6454,
-    "line": "That I didn't know last year�who the f**k are y'all?",
+    "line": "That I didn't know last yearwho the f**k are y'all?",
     "song_lyrics_url": "https://genius.com/Drake-over-lyrics",
     "song_name": "Over",
     "artist_name": "Drake",
@@ -51665,7 +51665,7 @@ module.exports = [
   },
   {
     "id": 6459,
-    "line": "Oh yeah, that's right�I'm doing me, I'm doing me",
+    "line": "Oh yeah, that's rightI'm doing me, I'm doing me",
     "song_lyrics_url": "https://genius.com/Drake-over-lyrics",
     "song_name": "Over",
     "artist_name": "Drake",
@@ -51697,7 +51697,7 @@ module.exports = [
   },
   {
     "id": 6463,
-    "line": "Yeah, that's right�I'm doing me, I'm doing me",
+    "line": "Yeah, that's rightI'm doing me, I'm doing me",
     "song_lyrics_url": "https://genius.com/Drake-over-lyrics",
     "song_name": "Over",
     "artist_name": "Drake",
@@ -51785,7 +51785,7 @@ module.exports = [
   },
   {
     "id": 6474,
-    "line": "Show me a good�show me a good",
+    "line": "Show me a goodshow me a good",
     "song_lyrics_url": "https://genius.com/Drake-show-me-a-good-time-lyrics",
     "song_name": "Show Me a Good Time",
     "artist_name": "Drake",
@@ -51977,7 +51977,7 @@ module.exports = [
   },
   {
     "id": 6498,
-    "line": "Show me a good�show me a good",
+    "line": "Show me a goodshow me a good",
     "song_lyrics_url": "https://genius.com/Drake-show-me-a-good-time-lyrics",
     "song_name": "Show Me a Good Time",
     "artist_name": "Drake",
@@ -52097,7 +52097,7 @@ module.exports = [
   },
   {
     "id": 6513,
-    "line": "It's in our nature�young and rich and out of control",
+    "line": "It's in our natureyoung and rich and out of control",
     "song_lyrics_url": "https://genius.com/Drake-show-me-a-good-time-lyrics",
     "song_name": "Show Me a Good Time",
     "artist_name": "Drake",
@@ -52137,7 +52137,7 @@ module.exports = [
   },
   {
     "id": 6518,
-    "line": "Because anyway you put it, b****, I made it�Yup!",
+    "line": "Because anyway you put it, b****, I made itYup!",
     "song_lyrics_url": "https://genius.com/Drake-show-me-a-good-time-lyrics",
     "song_name": "Show Me a Good Time",
     "artist_name": "Drake",
@@ -52201,7 +52201,7 @@ module.exports = [
   },
   {
     "id": 6526,
-    "line": "Show me a good�show me a good",
+    "line": "Show me a goodshow me a good",
     "song_lyrics_url": "https://genius.com/Drake-show-me-a-good-time-lyrics",
     "song_name": "Show Me a Good Time",
     "artist_name": "Drake",
@@ -52425,7 +52425,7 @@ module.exports = [
   },
   {
     "id": 6554,
-    "line": "I got that kinda�wait, wait�fixate",
+    "line": "I got that kindawait, waitfixate",
     "song_lyrics_url": "https://genius.com/Drake-up-all-night-lyrics",
     "song_name": "Up All Night",
     "artist_name": "Drake",
@@ -52465,7 +52465,7 @@ module.exports = [
   },
   {
     "id": 6559,
-    "line": "Man, for Pete's sake, scratch that�sweepstakes",
+    "line": "Man, for Pete's sake, scratch thatsweepstakes",
     "song_lyrics_url": "https://genius.com/Drake-up-all-night-lyrics",
     "song_name": "Up All Night",
     "artist_name": "Drake",
@@ -52729,7 +52729,7 @@ module.exports = [
   },
   {
     "id": 6592,
-    "line": "Go�go 'head",
+    "line": "Gogo 'head",
     "song_lyrics_url": "https://genius.com/Drake-fancy-lyrics",
     "song_name": "Fancy",
     "artist_name": "Drake",
@@ -52801,7 +52801,7 @@ module.exports = [
   },
   {
     "id": 6601,
-    "line": "You�you fancy huh? Oh, you fancy huh?",
+    "line": "Youyou fancy huh? Oh, you fancy huh?",
     "song_lyrics_url": "https://genius.com/Drake-fancy-lyrics",
     "song_name": "Fancy",
     "artist_name": "Drake",
@@ -52881,7 +52881,7 @@ module.exports = [
   },
   {
     "id": 6611,
-    "line": "And you don�t do it for the man, men never notice",
+    "line": "And you dont do it for the man, men never notice",
     "song_lyrics_url": "https://genius.com/Drake-fancy-lyrics",
     "song_name": "Fancy",
     "artist_name": "Drake",
@@ -52889,7 +52889,7 @@ module.exports = [
   },
   {
     "id": 6612,
-    "line": "You just do it for yourself you�re the f**king coldest",
+    "line": "You just do it for yourself youre the f**king coldest",
     "song_lyrics_url": "https://genius.com/Drake-fancy-lyrics",
     "song_name": "Fancy",
     "artist_name": "Drake",
@@ -52897,7 +52897,7 @@ module.exports = [
   },
   {
     "id": 6613,
-    "line": "Intelligent too, ooh you�re my sweetheart",
+    "line": "Intelligent too, ooh youre my sweetheart",
     "song_lyrics_url": "https://genius.com/Drake-fancy-lyrics",
     "song_name": "Fancy",
     "artist_name": "Drake",
@@ -52905,7 +52905,7 @@ module.exports = [
   },
   {
     "id": 6614,
-    "line": "I�ve always liked my women book and street smart",
+    "line": "Ive always liked my women book and street smart",
     "song_lyrics_url": "https://genius.com/Drake-fancy-lyrics",
     "song_name": "Fancy",
     "artist_name": "Drake",
@@ -53001,7 +53001,7 @@ module.exports = [
   },
   {
     "id": 6626,
-    "line": "You�you fancy huh? Oh, you fancy huh?",
+    "line": "Youyou fancy huh? Oh, you fancy huh?",
     "song_lyrics_url": "https://genius.com/Drake-fancy-lyrics",
     "song_name": "Fancy",
     "artist_name": "Drake",
@@ -53033,7 +53033,7 @@ module.exports = [
   },
   {
     "id": 6630,
-    "line": "Well, aren�t you a breath of fresh air?",
+    "line": "Well, arent you a breath of fresh air?",
     "song_lyrics_url": "https://genius.com/Drake-fancy-lyrics",
     "song_name": "Fancy",
     "artist_name": "Drake",
@@ -53065,7 +53065,7 @@ module.exports = [
   },
   {
     "id": 6634,
-    "line": "Like \"voil�!\" You do it right he might just buy you a car",
+    "line": "Like \"voil!\" You do it right he might just buy you a car",
     "song_lyrics_url": "https://genius.com/Drake-fancy-lyrics",
     "song_name": "Fancy",
     "artist_name": "Drake",
@@ -53089,7 +53089,7 @@ module.exports = [
   },
   {
     "id": 6637,
-    "line": "I say I�m buying, you decline, that is kinda bizarre",
+    "line": "I say Im buying, you decline, that is kinda bizarre",
     "song_lyrics_url": "https://genius.com/Drake-fancy-lyrics",
     "song_name": "Fancy",
     "artist_name": "Drake",
@@ -53201,7 +53201,7 @@ module.exports = [
   },
   {
     "id": 6651,
-    "line": "You�you fancy huh? Oh, you fancy huh?",
+    "line": "Youyou fancy huh? Oh, you fancy huh?",
     "song_lyrics_url": "https://genius.com/Drake-fancy-lyrics",
     "song_name": "Fancy",
     "artist_name": "Drake",
@@ -53353,7 +53353,7 @@ module.exports = [
   },
   {
     "id": 6670,
-    "line": "Nails done, hair done�nails done, hair done",
+    "line": "Nails done, hair donenails done, hair done",
     "song_lyrics_url": "https://genius.com/Drake-fancy-lyrics",
     "song_name": "Fancy",
     "artist_name": "Drake",
@@ -53449,7 +53449,7 @@ module.exports = [
   },
   {
     "id": 6682,
-    "line": "They tell me time is money, well we�ll spend it together",
+    "line": "They tell me time is money, well well spend it together",
     "song_lyrics_url": "https://genius.com/Drake-fancy-lyrics",
     "song_name": "Fancy",
     "artist_name": "Drake",
@@ -53457,7 +53457,7 @@ module.exports = [
   },
   {
     "id": 6683,
-    "line": "I�m down for whatever, you just lead the way",
+    "line": "Im down for whatever, you just lead the way",
     "song_lyrics_url": "https://genius.com/Drake-fancy-lyrics",
     "song_name": "Fancy",
     "artist_name": "Drake",
@@ -53465,7 +53465,7 @@ module.exports = [
   },
   {
     "id": 6684,
-    "line": "We go to dinner you don�t even look at me to pay",
+    "line": "We go to dinner you dont even look at me to pay",
     "song_lyrics_url": "https://genius.com/Drake-fancy-lyrics",
     "song_name": "Fancy",
     "artist_name": "Drake",
@@ -53577,7 +53577,7 @@ module.exports = [
   },
   {
     "id": 6698,
-    "line": "You�you fancy huh? Oh, you fancy huh?",
+    "line": "Youyou fancy huh? Oh, you fancy huh?",
     "song_lyrics_url": "https://genius.com/Drake-fancy-lyrics",
     "song_name": "Fancy",
     "artist_name": "Drake",
@@ -53793,7 +53793,7 @@ module.exports = [
   },
   {
     "id": 6725,
-    "line": "You would shut it�",
+    "line": "You would shut it",
     "song_lyrics_url": "https://genius.com/Drake-shut-it-down-lyrics",
     "song_name": "Shut It Down",
     "artist_name": "Drake",
@@ -54145,7 +54145,7 @@ module.exports = [
   },
   {
     "id": 6769,
-    "line": "Ever since you came around, it's obvious�",
+    "line": "Ever since you came around, it's obvious",
     "song_lyrics_url": "https://genius.com/Drake-shut-it-down-lyrics",
     "song_name": "Shut It Down",
     "artist_name": "Drake",
@@ -54249,7 +54249,7 @@ module.exports = [
   },
   {
     "id": 6782,
-    "line": "The way I�m feeling, the things I say",
+    "line": "The way Im feeling, the things I say",
     "song_lyrics_url": "https://genius.com/Drake-shut-it-down-lyrics",
     "song_name": "Shut It Down",
     "artist_name": "Drake",
@@ -54273,7 +54273,7 @@ module.exports = [
   },
   {
     "id": 6785,
-    "line": "I know it�s getting late, but girl I don�t want you to leave",
+    "line": "I know its getting late, but girl I dont want you to leave",
     "song_lyrics_url": "https://genius.com/Drake-shut-it-down-lyrics",
     "song_name": "Shut It Down",
     "artist_name": "Drake",
@@ -54281,7 +54281,7 @@ module.exports = [
   },
   {
     "id": 6786,
-    "line": "You tell me you�re just not the type, you wanna do this right",
+    "line": "You tell me youre just not the type, you wanna do this right",
     "song_lyrics_url": "https://genius.com/Drake-shut-it-down-lyrics",
     "song_name": "Shut It Down",
     "artist_name": "Drake",
@@ -54289,7 +54289,7 @@ module.exports = [
   },
   {
     "id": 6787,
-    "line": "And I�m not trying to say I don�t believe you",
+    "line": "And Im not trying to say I dont believe you",
     "song_lyrics_url": "https://genius.com/Drake-shut-it-down-lyrics",
     "song_name": "Shut It Down",
     "artist_name": "Drake",
@@ -54313,7 +54313,7 @@ module.exports = [
   },
   {
     "id": 6790,
-    "line": "Take those f**king heels off, it�s worth it girl",
+    "line": "Take those f**king heels off, its worth it girl",
     "song_lyrics_url": "https://genius.com/Drake-shut-it-down-lyrics",
     "song_name": "Shut It Down",
     "artist_name": "Drake",
@@ -54329,7 +54329,7 @@ module.exports = [
   },
   {
     "id": 6792,
-    "line": "So take that f**king dress off, I swear you won�t forget me",
+    "line": "So take that f**king dress off, I swear you wont forget me",
     "song_lyrics_url": "https://genius.com/Drake-shut-it-down-lyrics",
     "song_name": "Shut It Down",
     "artist_name": "Drake",
@@ -54337,7 +54337,7 @@ module.exports = [
   },
   {
     "id": 6793,
-    "line": "You�ll be happy that you let me",
+    "line": "Youll be happy that you let me",
     "song_lyrics_url": "https://genius.com/Drake-shut-it-down-lyrics",
     "song_name": "Shut It Down",
     "artist_name": "Drake",
@@ -54353,7 +54353,7 @@ module.exports = [
   },
   {
     "id": 6795,
-    "line": "I�m trying to lay you down, down, down",
+    "line": "Im trying to lay you down, down, down",
     "song_lyrics_url": "https://genius.com/Drake-shut-it-down-lyrics",
     "song_name": "Shut It Down",
     "artist_name": "Drake",
@@ -54457,7 +54457,7 @@ module.exports = [
   },
   {
     "id": 6808,
-    "line": "I haven�t slept in days and me and my latest girl agreed",
+    "line": "I havent slept in days and me and my latest girl agreed",
     "song_lyrics_url": "https://genius.com/Drake-unforgettable-lyrics",
     "song_name": "Unforgettable",
     "artist_name": "Drake",
@@ -54465,7 +54465,7 @@ module.exports = [
   },
   {
     "id": 6809,
-    "line": "To go our separate ways, so I�m single",
+    "line": "To go our separate ways, so Im single",
     "song_lyrics_url": "https://genius.com/Drake-unforgettable-lyrics",
     "song_name": "Unforgettable",
     "artist_name": "Drake",
@@ -54505,7 +54505,7 @@ module.exports = [
   },
   {
     "id": 6814,
-    "line": "Baby don�t hold on too long cause that�s how them stories start out",
+    "line": "Baby dont hold on too long cause thats how them stories start out",
     "song_lyrics_url": "https://genius.com/Drake-unforgettable-lyrics",
     "song_name": "Unforgettable",
     "artist_name": "Drake",
@@ -54529,7 +54529,7 @@ module.exports = [
   },
   {
     "id": 6817,
-    "line": "And since you can�t escape me do I ever cross your mind?",
+    "line": "And since you cant escape me do I ever cross your mind?",
     "song_lyrics_url": "https://genius.com/Drake-unforgettable-lyrics",
     "song_name": "Unforgettable",
     "artist_name": "Drake",
@@ -54537,7 +54537,7 @@ module.exports = [
   },
   {
     "id": 6818,
-    "line": "Because all this s*** is new to me, I�m learnin' to behave",
+    "line": "Because all this s*** is new to me, Im learnin' to behave",
     "song_lyrics_url": "https://genius.com/Drake-unforgettable-lyrics",
     "song_name": "Unforgettable",
     "artist_name": "Drake",
@@ -54553,7 +54553,7 @@ module.exports = [
   },
   {
     "id": 6820,
-    "line": "But I�m good, I know that N****s would kill for this lifestyle",
+    "line": "But Im good, I know that N****s would kill for this lifestyle",
     "song_lyrics_url": "https://genius.com/Drake-unforgettable-lyrics",
     "song_name": "Unforgettable",
     "artist_name": "Drake",
@@ -54561,7 +54561,7 @@ module.exports = [
   },
   {
     "id": 6821,
-    "line": "I�m lookin' forward to the memories of right now",
+    "line": "Im lookin' forward to the memories of right now",
     "song_lyrics_url": "https://genius.com/Drake-unforgettable-lyrics",
     "song_name": "Unforgettable",
     "artist_name": "Drake",
@@ -54577,7 +54577,7 @@ module.exports = [
   },
   {
     "id": 6823,
-    "line": "And no matter where I�m headed, I promise to stay the same",
+    "line": "And no matter where Im headed, I promise to stay the same",
     "song_lyrics_url": "https://genius.com/Drake-unforgettable-lyrics",
     "song_name": "Unforgettable",
     "artist_name": "Drake",
@@ -54593,7 +54593,7 @@ module.exports = [
   },
   {
     "id": 6825,
-    "line": "I�m just ridin' 'round the city",
+    "line": "Im just ridin' 'round the city",
     "song_lyrics_url": "https://genius.com/Drake-unforgettable-lyrics",
     "song_name": "Unforgettable",
     "artist_name": "Drake",
@@ -54609,7 +54609,7 @@ module.exports = [
   },
   {
     "id": 6827,
-    "line": "Ask your girl I�m the realest N**** she been around",
+    "line": "Ask your girl Im the realest N**** she been around",
     "song_lyrics_url": "https://genius.com/Drake-unforgettable-lyrics",
     "song_name": "Unforgettable",
     "artist_name": "Drake",
@@ -54713,7 +54713,7 @@ module.exports = [
   },
   {
     "id": 6840,
-    "line": "The good die young so I�ma need a thug wife",
+    "line": "The good die young so Ima need a thug wife",
     "song_lyrics_url": "https://genius.com/Drake-unforgettable-lyrics",
     "song_name": "Unforgettable",
     "artist_name": "Drake",
@@ -54721,7 +54721,7 @@ module.exports = [
   },
   {
     "id": 6841,
-    "line": "Yeah, I�m talkin' his and her firearms",
+    "line": "Yeah, Im talkin' his and her firearms",
     "song_lyrics_url": "https://genius.com/Drake-unforgettable-lyrics",
     "song_name": "Unforgettable",
     "artist_name": "Drake",
@@ -54753,7 +54753,7 @@ module.exports = [
   },
   {
     "id": 6845,
-    "line": "Yeah, I�m talking caramel leathers",
+    "line": "Yeah, Im talking caramel leathers",
     "song_lyrics_url": "https://genius.com/Drake-unforgettable-lyrics",
     "song_name": "Unforgettable",
     "artist_name": "Drake",
@@ -54801,7 +54801,7 @@ module.exports = [
   },
   {
     "id": 6851,
-    "line": "I�m just ridin' 'round the city",
+    "line": "Im just ridin' 'round the city",
     "song_lyrics_url": "https://genius.com/Drake-unforgettable-lyrics",
     "song_name": "Unforgettable",
     "artist_name": "Drake",
@@ -54817,7 +54817,7 @@ module.exports = [
   },
   {
     "id": 6853,
-    "line": "Ask your girl I�m the realest N**** she been around",
+    "line": "Ask your girl Im the realest N**** she been around",
     "song_lyrics_url": "https://genius.com/Drake-unforgettable-lyrics",
     "song_name": "Unforgettable",
     "artist_name": "Drake",
@@ -54921,7 +54921,7 @@ module.exports = [
   },
   {
     "id": 6866,
-    "line": "You�ll never forget this, ya understand me?",
+    "line": "Youll never forget this, ya understand me?",
     "song_lyrics_url": "https://genius.com/Drake-unforgettable-lyrics",
     "song_name": "Unforgettable",
     "artist_name": "Drake",
@@ -55705,7 +55705,7 @@ module.exports = [
   },
   {
     "id": 6964,
-    "line": "I don't judge her, I don't judge her�but I could never love her",
+    "line": "I don't judge her, I don't judge herbut I could never love her",
     "song_lyrics_url": "https://genius.com/Drake-miss-me-lyrics",
     "song_name": "Miss Me",
     "artist_name": "Drake",
@@ -56217,7 +56217,7 @@ module.exports = [
   },
   {
     "id": 7028,
-    "line": "JJ, we love you boy�H-Town!",
+    "line": "JJ, we love you boyH-Town!",
     "song_lyrics_url": "https://genius.com/Drake-miss-me-lyrics",
     "song_name": "Miss Me",
     "artist_name": "Drake",
@@ -56225,7 +56225,7 @@ module.exports = [
   },
   {
     "id": 7029,
-    "line": "I�m gone, I�m gone, I�m gone",
+    "line": "Im gone, Im gone, Im gone",
     "song_lyrics_url": "https://genius.com/Drake-miss-me-lyrics",
     "song_name": "Miss Me",
     "artist_name": "Drake",
@@ -56233,7 +56233,7 @@ module.exports = [
   },
   {
     "id": 7030,
-    "line": "I�m gone, I�m gone, when I�m gone",
+    "line": "Im gone, Im gone, when Im gone",
     "song_lyrics_url": "https://genius.com/Drake-miss-me-lyrics",
     "song_name": "Miss Me",
     "artist_name": "Drake",
@@ -56257,7 +56257,7 @@ module.exports = [
   },
   {
     "id": 7033,
-    "line": "Miss me a little when I�m gone",
+    "line": "Miss me a little when Im gone",
     "song_lyrics_url": "https://genius.com/Drake-miss-me-lyrics",
     "song_name": "Miss Me",
     "artist_name": "Drake",
@@ -56265,7 +56265,7 @@ module.exports = [
   },
   {
     "id": 7034,
-    "line": "Miss me a little when I�m gone, gone, gone",
+    "line": "Miss me a little when Im gone, gone, gone",
     "song_lyrics_url": "https://genius.com/Drake-miss-me-lyrics",
     "song_name": "Miss Me",
     "artist_name": "Drake",
@@ -56505,7 +56505,7 @@ module.exports = [
   },
   {
     "id": 7064,
-    "line": "I'll be the one that you'll remember and�",
+    "line": "I'll be the one that you'll remember and",
     "song_lyrics_url": "https://genius.com/Drake-find-your-love-lyrics",
     "song_name": "Find Your Love",
     "artist_name": "Drake",
@@ -57929,7 +57929,7 @@ module.exports = [
   },
   {
     "id": 7242,
-    "line": "Noel That�s it Ahhhhhh",
+    "line": "Noel Thats it Ahhhhhh",
     "song_lyrics_url": "https://genius.com/Drake-9am-in-dallas-lyrics",
     "song_name": "9AM in Dallas",
     "artist_name": "Drake",
