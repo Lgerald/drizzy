@@ -129,7 +129,7 @@ module.exports = [
   },
   {
     "id": 17,
-    "line": "All that yappin' on the phone shit",
+    "line": "All that yappin' on the phone s***",
     "song_lyrics_url": "https://genius.com/Drake-free-smoke-lyrics",
     "song_name": "Free Smoke",
     "artist_name": "Drake",
@@ -145,7 +145,7 @@ module.exports = [
   },
   {
     "id": 19,
-    "line": "All that never comin' home shit",
+    "line": "All that never comin' home s***",
     "song_lyrics_url": "https://genius.com/Drake-free-smoke-lyrics",
     "song_name": "Free Smoke",
     "artist_name": "Drake",
@@ -177,7 +177,7 @@ module.exports = [
   },
   {
     "id": 23,
-    "line": "Dom Ros� toast",
+    "line": "Dom Rostoast",
     "song_lyrics_url": "https://genius.com/Drake-free-smoke-lyrics",
     "song_name": "Free Smoke",
     "artist_name": "Drake",
@@ -449,7 +449,7 @@ module.exports = [
   },
   {
     "id": 57,
-    "line": "Niggas moves so waste",
+    "line": "N****s moves so waste",
     "song_lyrics_url": "https://genius.com/Drake-free-smoke-lyrics",
     "song_name": "Free Smoke",
     "artist_name": "Drake",
@@ -489,7 +489,7 @@ module.exports = [
   },
   {
     "id": 62,
-    "line": "Lot of niggas goin' bad on me",
+    "line": "Lot of N****s goin' bad on me",
     "song_lyrics_url": "https://genius.com/Drake-free-smoke-lyrics",
     "song_name": "Free Smoke",
     "artist_name": "Drake",
@@ -673,7 +673,7 @@ module.exports = [
   },
   {
     "id": 85,
-    "line": "Oh, you niggas got jokes",
+    "line": "Oh, you N****s got jokes",
     "song_lyrics_url": "https://genius.com/Drake-free-smoke-lyrics",
     "song_name": "Free Smoke",
     "artist_name": "Drake",
@@ -793,7 +793,7 @@ module.exports = [
   },
   {
     "id": 100,
-    "line": "Quick to let the motherfuckin' TEC slam",
+    "line": "Quick to let the motherf**kin' TEC slam",
     "song_lyrics_url": "https://genius.com/Drake-no-long-talk-lyrics",
     "song_name": "No Long Talk",
     "artist_name": "Drake",
@@ -961,7 +961,7 @@ module.exports = [
   },
   {
     "id": 121,
-    "line": "Niggas wanna talk splits, now we need the whole ting",
+    "line": "N****s wanna talk splits, now we need the whole ting",
     "song_lyrics_url": "https://genius.com/Drake-no-long-talk-lyrics",
     "song_name": "No Long Talk",
     "artist_name": "Drake",
@@ -1057,7 +1057,7 @@ module.exports = [
   },
   {
     "id": 133,
-    "line": "Nutty shit like somethin' just climbed out the X-Files (ooh)",
+    "line": "Nutty s*** like somethin' just climbed out the X-Files (ooh)",
     "song_lyrics_url": "https://genius.com/Drake-no-long-talk-lyrics",
     "song_name": "No Long Talk",
     "artist_name": "Drake",
@@ -1097,7 +1097,7 @@ module.exports = [
   },
   {
     "id": 138,
-    "line": "Fuckin' somethin', yeah nigga, fuckin' somethin'",
+    "line": "f**kin' somethin', yeah N****, f**kin' somethin'",
     "song_lyrics_url": "https://genius.com/Drake-no-long-talk-lyrics",
     "song_name": "No Long Talk",
     "artist_name": "Drake",
@@ -1105,7 +1105,7 @@ module.exports = [
   },
   {
     "id": 139,
-    "line": "Back bent, pussy, I'll fuck her somethin' (yeah)",
+    "line": "Back bent, pussy, I'll f**k her somethin' (yeah)",
     "song_lyrics_url": "https://genius.com/Drake-no-long-talk-lyrics",
     "song_name": "No Long Talk",
     "artist_name": "Drake",
@@ -1121,7 +1121,7 @@ module.exports = [
   },
   {
     "id": 141,
-    "line": "Glue pussy like a nigga stuck or somethin' (nah)",
+    "line": "Glue pussy like a N**** stuck or somethin' (nah)",
     "song_lyrics_url": "https://genius.com/Drake-no-long-talk-lyrics",
     "song_name": "No Long Talk",
     "artist_name": "Drake",
@@ -1129,7 +1129,7 @@ module.exports = [
   },
   {
     "id": 142,
-    "line": "Stuck or somethin', like a nigga stuck or somethin'",
+    "line": "Stuck or somethin', like a N**** stuck or somethin'",
     "song_lyrics_url": "https://genius.com/Drake-no-long-talk-lyrics",
     "song_name": "No Long Talk",
     "artist_name": "Drake",
@@ -1193,7 +1193,7 @@ module.exports = [
   },
   {
     "id": 150,
-    "line": "Hold on, hold on, fuck that. Fuck that shit. Hold on, I got to start this mothafuckin' record over again, wait a minute. Fuck that shit. Still on this mothafuckin' record. I'ma play this mothafucka for y'all. Ayy, y'all get some more drinks goin' on, I'll sound a whole lot better.",
+    "line": "Hold on, hold on, f**k that. f**k that s***. Hold on, I got to start this mothaf**kin' record over again, wait a minute. f**k that s***. Still on this mothaf**kin' record. I'ma play this mothaf**ka for y'all. Ayy, y'all get some more drinks goin' on, I'll sound a whole lot better.",
     "song_lyrics_url": "https://genius.com/Drake-passionfruit-lyrics",
     "song_name": "Passionfruit",
     "artist_name": "Drake",
@@ -1537,7 +1537,7 @@ module.exports = [
   },
   {
     "id": 193,
-    "line": "I'm tired of all of these niggas",
+    "line": "I'm tired of all of these N****s",
     "song_lyrics_url": "https://genius.com/Drake-jorja-interlude-lyrics",
     "song_name": "Jorja Interlude",
     "artist_name": "Drake",
@@ -1617,7 +1617,7 @@ module.exports = [
   },
   {
     "id": 203,
-    "line": "You tell your niggas you got 'em on anything",
+    "line": "You tell your N****s you got 'em on anything",
     "song_lyrics_url": "https://genius.com/Drake-jorja-interlude-lyrics",
     "song_name": "Jorja Interlude",
     "artist_name": "Drake",
@@ -1657,7 +1657,7 @@ module.exports = [
   },
   {
     "id": 208,
-    "line": "We just know shit gettin' run through",
+    "line": "We just know s*** gettin' run through",
     "song_lyrics_url": "https://genius.com/Drake-jorja-interlude-lyrics",
     "song_name": "Jorja Interlude",
     "artist_name": "Drake",
@@ -1681,7 +1681,7 @@ module.exports = [
   },
   {
     "id": 211,
-    "line": "You niggas move like the one-two, yeah",
+    "line": "You N****s move like the one-two, yeah",
     "song_lyrics_url": "https://genius.com/Drake-jorja-interlude-lyrics",
     "song_name": "Jorja Interlude",
     "artist_name": "Drake",
@@ -1841,7 +1841,7 @@ module.exports = [
   },
   {
     "id": 231,
-    "line": "You need me to get that shit together",
+    "line": "You need me to get that s*** together",
     "song_lyrics_url": "https://genius.com/Drake-get-it-together-lyrics",
     "song_name": "Get It Together",
     "artist_name": "Drake",
@@ -1857,7 +1857,7 @@ module.exports = [
   },
   {
     "id": 233,
-    "line": "You need me to get that shit together",
+    "line": "You need me to get that s*** together",
     "song_lyrics_url": "https://genius.com/Drake-get-it-together-lyrics",
     "song_name": "Get It Together",
     "artist_name": "Drake",
@@ -1993,7 +1993,7 @@ module.exports = [
   },
   {
     "id": 250,
-    "line": "You need me to get that shit together",
+    "line": "You need me to get that s*** together",
     "song_lyrics_url": "https://genius.com/Drake-get-it-together-lyrics",
     "song_name": "Get It Together",
     "artist_name": "Drake",
@@ -2009,7 +2009,7 @@ module.exports = [
   },
   {
     "id": 252,
-    "line": "You need me to get that shit together",
+    "line": "You need me to get that s*** together",
     "song_lyrics_url": "https://genius.com/Drake-get-it-together-lyrics",
     "song_name": "Get It Together",
     "artist_name": "Drake",
@@ -3049,7 +3049,7 @@ module.exports = [
   },
   {
     "id": 382,
-    "line": "That's word to my nigga",
+    "line": "That's word to my N****",
     "song_lyrics_url": "https://genius.com/Drake-gyalchester-lyrics",
     "song_name": "Gyalchester",
     "artist_name": "Drake",
@@ -3161,7 +3161,7 @@ module.exports = [
   },
   {
     "id": 396,
-    "line": "Contract max, I gotta bring that shit back",
+    "line": "Contract max, I gotta bring that s*** back",
     "song_lyrics_url": "https://genius.com/Drake-gyalchester-lyrics",
     "song_name": "Gyalchester",
     "artist_name": "Drake",
@@ -3217,7 +3217,7 @@ module.exports = [
   },
   {
     "id": 403,
-    "line": "Who's not gang, bitch? Let me find out",
+    "line": "Who's not gang, b****? Let me find out",
     "song_lyrics_url": "https://genius.com/Drake-gyalchester-lyrics",
     "song_name": "Gyalchester",
     "artist_name": "Drake",
@@ -3265,7 +3265,7 @@ module.exports = [
   },
   {
     "id": 409,
-    "line": "Gotta do Maybach, she wanna fuck on the drive home",
+    "line": "Gotta do Maybach, she wanna f**k on the drive home",
     "song_lyrics_url": "https://genius.com/Drake-gyalchester-lyrics",
     "song_name": "Gyalchester",
     "artist_name": "Drake",
@@ -3305,7 +3305,7 @@ module.exports = [
   },
   {
     "id": 414,
-    "line": "Thought you had one, but it's not one, nigga, nah",
+    "line": "Thought you had one, but it's not one, N****, nah",
     "song_lyrics_url": "https://genius.com/Drake-gyalchester-lyrics",
     "song_name": "Gyalchester",
     "artist_name": "Drake",
@@ -3345,7 +3345,7 @@ module.exports = [
   },
   {
     "id": 419,
-    "line": "That's word to my nigga",
+    "line": "That's word to my N****",
     "song_lyrics_url": "https://genius.com/Drake-gyalchester-lyrics",
     "song_name": "Gyalchester",
     "artist_name": "Drake",
@@ -3665,7 +3665,7 @@ module.exports = [
   },
   {
     "id": 459,
-    "line": "Yeah, they're nothin' like me, I'm a fuckin' villain",
+    "line": "Yeah, they're nothin' like me, I'm a f**kin' villain",
     "song_lyrics_url": "https://genius.com/Drake-skepta-interlude-lyrics",
     "song_name": "Skepta Interlude",
     "artist_name": "Drake",
@@ -3729,7 +3729,7 @@ module.exports = [
   },
   {
     "id": 467,
-    "line": "I say it how it is and no fucks are given",
+    "line": "I say it how it is and no f**ks are given",
     "song_lyrics_url": "https://genius.com/Drake-skepta-interlude-lyrics",
     "song_name": "Skepta Interlude",
     "artist_name": "Drake",
@@ -4001,7 +4001,7 @@ module.exports = [
   },
   {
     "id": 501,
-    "line": "But I guess that's how you niggas gettin' down",
+    "line": "But I guess that's how you N****s gettin' down",
     "song_lyrics_url": "https://genius.com/Drake-portland-lyrics",
     "song_name": "Portland",
     "artist_name": "Drake",
@@ -4009,7 +4009,7 @@ module.exports = [
   },
   {
     "id": 502,
-    "line": "I'm so high up I'm like, \"How is niggas really gettin' down?",
+    "line": "I'm so high up I'm like, \"How is N****s really gettin' down?",
     "song_lyrics_url": "https://genius.com/Drake-portland-lyrics",
     "song_name": "Portland",
     "artist_name": "Drake",
@@ -4065,7 +4065,7 @@ module.exports = [
   },
   {
     "id": 509,
-    "line": "Fake fucked with me back then",
+    "line": "Fake f**ked with me back then",
     "song_lyrics_url": "https://genius.com/Drake-portland-lyrics",
     "song_name": "Portland",
     "artist_name": "Drake",
@@ -4081,7 +4081,7 @@ module.exports = [
   },
   {
     "id": 511,
-    "line": "Fuck bein' rich when I'm forty, man, I'm tryna make it now",
+    "line": "f**k bein' rich when I'm forty, man, I'm tryna make it now",
     "song_lyrics_url": "https://genius.com/Drake-portland-lyrics",
     "song_name": "Portland",
     "artist_name": "Drake",
@@ -4097,7 +4097,7 @@ module.exports = [
   },
   {
     "id": 513,
-    "line": "Never let these niggas ride your wave",
+    "line": "Never let these N****s ride your wave",
     "song_lyrics_url": "https://genius.com/Drake-portland-lyrics",
     "song_name": "Portland",
     "artist_name": "Drake",
@@ -4113,7 +4113,7 @@ module.exports = [
   },
   {
     "id": 515,
-    "line": "Never let these niggas ride your wave",
+    "line": "Never let these N****s ride your wave",
     "song_lyrics_url": "https://genius.com/Drake-portland-lyrics",
     "song_name": "Portland",
     "artist_name": "Drake",
@@ -4193,7 +4193,7 @@ module.exports = [
   },
   {
     "id": 525,
-    "line": "Quavo, young nigga, I invented you (ugh)",
+    "line": "Quavo, young N****, I invented you (ugh)",
     "song_lyrics_url": "https://genius.com/Drake-portland-lyrics",
     "song_name": "Portland",
     "artist_name": "Drake",
@@ -4249,7 +4249,7 @@ module.exports = [
   },
   {
     "id": 532,
-    "line": "I'm a magnet for bad bitches",
+    "line": "I'm a magnet for bad b****es",
     "song_lyrics_url": "https://genius.com/Drake-portland-lyrics",
     "song_name": "Portland",
     "artist_name": "Drake",
@@ -4257,7 +4257,7 @@ module.exports = [
   },
   {
     "id": 533,
-    "line": "You got the goin' out sad bitches",
+    "line": "You got the goin' out sad b****es",
     "song_lyrics_url": "https://genius.com/Drake-portland-lyrics",
     "song_name": "Portland",
     "artist_name": "Drake",
@@ -4321,7 +4321,7 @@ module.exports = [
   },
   {
     "id": 541,
-    "line": "Never let these niggas ride your wave",
+    "line": "Never let these N****s ride your wave",
     "song_lyrics_url": "https://genius.com/Drake-portland-lyrics",
     "song_name": "Portland",
     "artist_name": "Drake",
@@ -4337,7 +4337,7 @@ module.exports = [
   },
   {
     "id": 543,
-    "line": "Never let these niggas ride your wave",
+    "line": "Never let these N****s ride your wave",
     "song_lyrics_url": "https://genius.com/Drake-portland-lyrics",
     "song_name": "Portland",
     "artist_name": "Drake",
@@ -4425,7 +4425,7 @@ module.exports = [
   },
   {
     "id": 554,
-    "line": "Flood my Rollie, told my bitch: \"Let's go snorkelin'!",
+    "line": "Flood my Rollie, told my b****: \"Let's go snorkelin'!",
     "song_lyrics_url": "https://genius.com/Drake-portland-lyrics",
     "song_name": "Portland",
     "artist_name": "Drake",
@@ -4505,7 +4505,7 @@ module.exports = [
   },
   {
     "id": 564,
-    "line": "I guess, for the fuck-shit I'm biased",
+    "line": "I guess, for the f**k-s*** I'm biased",
     "song_lyrics_url": "https://genius.com/Drake-portland-lyrics",
     "song_name": "Portland",
     "artist_name": "Drake",
@@ -4561,7 +4561,7 @@ module.exports = [
   },
   {
     "id": 571,
-    "line": "Never let these niggas ride your wave",
+    "line": "Never let these N****s ride your wave",
     "song_lyrics_url": "https://genius.com/Drake-portland-lyrics",
     "song_name": "Portland",
     "artist_name": "Drake",
@@ -4577,7 +4577,7 @@ module.exports = [
   },
   {
     "id": 573,
-    "line": "Never let these niggas ride your wave",
+    "line": "Never let these N****s ride your wave",
     "song_lyrics_url": "https://genius.com/Drake-portland-lyrics",
     "song_name": "Portland",
     "artist_name": "Drake",
@@ -4681,7 +4681,7 @@ module.exports = [
   },
   {
     "id": 586,
-    "line": "Wrote this shit January 21",
+    "line": "Wrote this s*** January 21",
     "song_lyrics_url": "https://genius.com/Drake-sacrifices-lyrics",
     "song_name": "Sacrifices",
     "artist_name": "Drake",
@@ -4745,7 +4745,7 @@ module.exports = [
   },
   {
     "id": 594,
-    "line": "Couple niggas from the city",
+    "line": "Couple N****s from the city",
     "song_lyrics_url": "https://genius.com/Drake-sacrifices-lyrics",
     "song_name": "Sacrifices",
     "artist_name": "Drake",
@@ -4777,7 +4777,7 @@ module.exports = [
   },
   {
     "id": 598,
-    "line": "My shit be raw out the gate, I don't need another take",
+    "line": "My s*** be raw out the gate, I don't need another take",
     "song_lyrics_url": "https://genius.com/Drake-sacrifices-lyrics",
     "song_name": "Sacrifices",
     "artist_name": "Drake",
@@ -4801,7 +4801,7 @@ module.exports = [
   },
   {
     "id": 601,
-    "line": "Niggas see me in person",
+    "line": "N****s see me in person",
     "song_lyrics_url": "https://genius.com/Drake-sacrifices-lyrics",
     "song_name": "Sacrifices",
     "artist_name": "Drake",
@@ -4873,7 +4873,7 @@ module.exports = [
   },
   {
     "id": 610,
-    "line": "We seein' so many blessings, shit don't make no sense",
+    "line": "We seein' so many blessings, s*** don't make no sense",
     "song_lyrics_url": "https://genius.com/Drake-sacrifices-lyrics",
     "song_name": "Sacrifices",
     "artist_name": "Drake",
@@ -5129,7 +5129,7 @@ module.exports = [
   },
   {
     "id": 642,
-    "line": "We seein' so many blessings, shit don't make no sense",
+    "line": "We seein' so many blessings, s*** don't make no sense",
     "song_lyrics_url": "https://genius.com/Drake-sacrifices-lyrics",
     "song_name": "Sacrifices",
     "artist_name": "Drake",
@@ -5177,7 +5177,7 @@ module.exports = [
   },
   {
     "id": 648,
-    "line": "I was stealin' from a bitch (slime)",
+    "line": "I was stealin' from a b**** (slime)",
     "song_lyrics_url": "https://genius.com/Drake-sacrifices-lyrics",
     "song_name": "Sacrifices",
     "artist_name": "Drake",
@@ -5233,7 +5233,7 @@ module.exports = [
   },
   {
     "id": 655,
-    "line": "That shit was red like Hunt (ketchup)",
+    "line": "That s*** was red like Hunt (ketchup)",
     "song_lyrics_url": "https://genius.com/Drake-sacrifices-lyrics",
     "song_name": "Sacrifices",
     "artist_name": "Drake",
@@ -5249,7 +5249,7 @@ module.exports = [
   },
   {
     "id": 657,
-    "line": "But don't you think shit's sweet?",
+    "line": "But don't you think s***'s sweet?",
     "song_lyrics_url": "https://genius.com/Drake-sacrifices-lyrics",
     "song_name": "Sacrifices",
     "artist_name": "Drake",
@@ -5561,7 +5561,7 @@ module.exports = [
   },
   {
     "id": 696,
-    "line": "We seein' so many blessings, shit don't make no sense",
+    "line": "We seein' so many blessings, s*** don't make no sense",
     "song_lyrics_url": "https://genius.com/Drake-sacrifices-lyrics",
     "song_name": "Sacrifices",
     "artist_name": "Drake",
@@ -5985,7 +5985,7 @@ module.exports = [
   },
   {
     "id": 749,
-    "line": "This shit feels like teenage fever",
+    "line": "This s*** feels like teenage fever",
     "song_lyrics_url": "https://genius.com/Drake-teenage-fever-lyrics",
     "song_name": "Teenage Fever",
     "artist_name": "Drake",
@@ -6329,7 +6329,7 @@ module.exports = [
   },
   {
     "id": 792,
-    "line": "I heard your new shit and I'm kissin' my teeth",
+    "line": "I heard your new s*** and I'm kissin' my teeth",
     "song_lyrics_url": "https://genius.com/Drake-kmt-lyrics",
     "song_name": "KMT",
     "artist_name": "Drake",
@@ -6377,7 +6377,7 @@ module.exports = [
   },
   {
     "id": 798,
-    "line": "I've got bitches in the merky, swervin', lookin' all curvy",
+    "line": "I've got b****es in the merky, swervin', lookin' all curvy",
     "song_lyrics_url": "https://genius.com/Drake-kmt-lyrics",
     "song_name": "KMT",
     "artist_name": "Drake",
@@ -6425,7 +6425,7 @@ module.exports = [
   },
   {
     "id": 804,
-    "line": "I was pushin' that dark shit, pushin' that charcoal (yeah)",
+    "line": "I was pushin' that dark s***, pushin' that charcoal (yeah)",
     "song_lyrics_url": "https://genius.com/Drake-kmt-lyrics",
     "song_name": "KMT",
     "artist_name": "Drake",
@@ -6529,7 +6529,7 @@ module.exports = [
   },
   {
     "id": 817,
-    "line": "If we not on the charts, my XO niggas eatin'",
+    "line": "If we not on the charts, my XO N****s eatin'",
     "song_lyrics_url": "https://genius.com/Drake-lose-you-lyrics",
     "song_name": "Lose You",
     "artist_name": "Drake",
@@ -6601,7 +6601,7 @@ module.exports = [
   },
   {
     "id": 826,
-    "line": "Please never label niggas who lay down for a livin'",
+    "line": "Please never label N****s who lay down for a livin'",
     "song_lyrics_url": "https://genius.com/Drake-lose-you-lyrics",
     "song_name": "Lose You",
     "artist_name": "Drake",
@@ -6673,7 +6673,7 @@ module.exports = [
   },
   {
     "id": 835,
-    "line": "I need to start sayin' shit when I notice it",
+    "line": "I need to start sayin' s*** when I notice it",
     "song_lyrics_url": "https://genius.com/Drake-lose-you-lyrics",
     "song_name": "Lose You",
     "artist_name": "Drake",
@@ -6705,7 +6705,7 @@ module.exports = [
   },
   {
     "id": 839,
-    "line": "I really used to feel like they loved a nigga at first",
+    "line": "I really used to feel like they loved a N**** at first",
     "song_lyrics_url": "https://genius.com/Drake-lose-you-lyrics",
     "song_name": "Lose You",
     "artist_name": "Drake",
@@ -6897,7 +6897,7 @@ module.exports = [
   },
   {
     "id": 863,
-    "line": "Unforgivin' times, but fuck it, I manage",
+    "line": "Unforgivin' times, but f**k it, I manage",
     "song_lyrics_url": "https://genius.com/Drake-lose-you-lyrics",
     "song_name": "Lose You",
     "artist_name": "Drake",
@@ -7057,7 +7057,7 @@ module.exports = [
   },
   {
     "id": 883,
-    "line": "Jealous ones still envy and niggas turn king cobra",
+    "line": "Jealous ones still envy and N****s turn king cobra",
     "song_lyrics_url": "https://genius.com/Drake-lose-you-lyrics",
     "song_name": "Lose You",
     "artist_name": "Drake",
@@ -7241,7 +7241,7 @@ module.exports = [
   },
   {
     "id": 906,
-    "line": "More Life, 6 to the world, gang shit",
+    "line": "More Life, 6 to the world, gang s***",
     "song_lyrics_url": "https://genius.com/Drake-lose-you-lyrics",
     "song_name": "Lose You",
     "artist_name": "Drake",
@@ -7329,7 +7329,7 @@ module.exports = [
   },
   {
     "id": 917,
-    "line": "Fuck a opp, make his body roll, yeah, a lot of those",
+    "line": "f**k a opp, make his body roll, yeah, a lot of those",
     "song_lyrics_url": "https://genius.com/Drake-cant-have-everything-lyrics",
     "song_name": "Can't Have Everything",
     "artist_name": "Drake",
@@ -7489,7 +7489,7 @@ module.exports = [
   },
   {
     "id": 937,
-    "line": "I mean, I keep the fuckin' lights on in the buildin'",
+    "line": "I mean, I keep the f**kin' lights on in the buildin'",
     "song_lyrics_url": "https://genius.com/Drake-cant-have-everything-lyrics",
     "song_name": "Can't Have Everything",
     "artist_name": "Drake",
@@ -7545,7 +7545,7 @@ module.exports = [
   },
   {
     "id": 944,
-    "line": "Niggas tried to serve me up a cheesesteak",
+    "line": "N****s tried to serve me up a cheesesteak",
     "song_lyrics_url": "https://genius.com/Drake-cant-have-everything-lyrics",
     "song_name": "Can't Have Everything",
     "artist_name": "Drake",
@@ -7561,7 +7561,7 @@ module.exports = [
   },
   {
     "id": 946,
-    "line": "Same niggas preein' cause they hate to see the team straight",
+    "line": "Same N****s preein' cause they hate to see the team straight",
     "song_lyrics_url": "https://genius.com/Drake-cant-have-everything-lyrics",
     "song_name": "Can't Have Everything",
     "artist_name": "Drake",
@@ -7569,7 +7569,7 @@ module.exports = [
   },
   {
     "id": 947,
-    "line": "Same niggas beakin', always duckin' my release dates",
+    "line": "Same N****s beakin', always duckin' my release dates",
     "song_lyrics_url": "https://genius.com/Drake-cant-have-everything-lyrics",
     "song_name": "Can't Have Everything",
     "artist_name": "Drake",
@@ -7585,7 +7585,7 @@ module.exports = [
   },
   {
     "id": 949,
-    "line": "Two-faced niggas back around with the three face",
+    "line": "Two-faced N****s back around with the three face",
     "song_lyrics_url": "https://genius.com/Drake-cant-have-everything-lyrics",
     "song_name": "Can't Have Everything",
     "artist_name": "Drake",
@@ -7625,7 +7625,7 @@ module.exports = [
   },
   {
     "id": 954,
-    "line": "Y'all fuckin' hilarious",
+    "line": "Y'all f**kin' hilarious",
     "song_lyrics_url": "https://genius.com/Drake-cant-have-everything-lyrics",
     "song_name": "Can't Have Everything",
     "artist_name": "Drake",
@@ -7633,7 +7633,7 @@ module.exports = [
   },
   {
     "id": 955,
-    "line": "Y'all really think y'all niggas teamin' up and scarin' us",
+    "line": "Y'all really think y'all N****s teamin' up and scarin' us",
     "song_lyrics_url": "https://genius.com/Drake-cant-have-everything-lyrics",
     "song_name": "Can't Have Everything",
     "artist_name": "Drake",
@@ -7641,7 +7641,7 @@ module.exports = [
   },
   {
     "id": 956,
-    "line": "Y'all niggas is arrogant, y'all sleep at the Sheraton",
+    "line": "Y'all N****s is arrogant, y'all sleep at the Sheraton",
     "song_lyrics_url": "https://genius.com/Drake-cant-have-everything-lyrics",
     "song_name": "Can't Have Everything",
     "artist_name": "Drake",
@@ -7649,7 +7649,7 @@ module.exports = [
   },
   {
     "id": 957,
-    "line": "All that shit embarrassin'",
+    "line": "All that s*** embarrassin'",
     "song_lyrics_url": "https://genius.com/Drake-cant-have-everything-lyrics",
     "song_name": "Can't Have Everything",
     "artist_name": "Drake",
@@ -7817,7 +7817,7 @@ module.exports = [
   },
   {
     "id": 978,
-    "line": "Fuck you haters still, that's an F-Y-I-I-I",
+    "line": "f**k you haters still, that's an F-Y-I-I-I",
     "song_lyrics_url": "https://genius.com/Drake-glow-lyrics",
     "song_name": "Glow",
     "artist_name": "Drake",
@@ -7873,7 +7873,7 @@ module.exports = [
   },
   {
     "id": 985,
-    "line": "Why, nigga? (The cops out) cops out",
+    "line": "Why, N****? (The cops out) cops out",
     "song_lyrics_url": "https://genius.com/Drake-glow-lyrics",
     "song_name": "Glow",
     "artist_name": "Drake",
@@ -9025,7 +9025,7 @@ module.exports = [
   },
   {
     "id": 1129,
-    "line": "Just when shit look out of reach",
+    "line": "Just when s*** look out of reach",
     "song_lyrics_url": "https://genius.com/Drake-fake-love-lyrics",
     "song_name": "Fake Love",
     "artist_name": "Drake",
@@ -9409,7 +9409,7 @@ module.exports = [
   },
   {
     "id": 1177,
-    "line": "Nigga, what you thought?",
+    "line": "N****, what you thought?",
     "song_lyrics_url": "https://genius.com/Drake-ice-melts-lyrics",
     "song_name": "Ice Melts",
     "artist_name": "Drake",
@@ -9481,7 +9481,7 @@ module.exports = [
   },
   {
     "id": 1186,
-    "line": "You need to fuckin' stop watchin' me",
+    "line": "You need to f**kin' stop watchin' me",
     "song_lyrics_url": "https://genius.com/Drake-ice-melts-lyrics",
     "song_name": "Ice Melts",
     "artist_name": "Drake",
@@ -9689,7 +9689,7 @@ module.exports = [
   },
   {
     "id": 1212,
-    "line": "You need to fuckin' stop watchin' me",
+    "line": "You need to f**kin' stop watchin' me",
     "song_lyrics_url": "https://genius.com/Drake-ice-melts-lyrics",
     "song_name": "Ice Melts",
     "artist_name": "Drake",
@@ -9761,7 +9761,7 @@ module.exports = [
   },
   {
     "id": 1221,
-    "line": "I want to see you do 911, fuck a Panamera (do 911)",
+    "line": "I want to see you do 911, f**k a Panamera (do 911)",
     "song_lyrics_url": "https://genius.com/Drake-ice-melts-lyrics",
     "song_name": "Ice Melts",
     "artist_name": "Drake",
@@ -9897,7 +9897,7 @@ module.exports = [
   },
   {
     "id": 1238,
-    "line": "You need to fuckin' stop watchin' me",
+    "line": "You need to f**kin' stop watchin' me",
     "song_lyrics_url": "https://genius.com/Drake-ice-melts-lyrics",
     "song_name": "Ice Melts",
     "artist_name": "Drake",
@@ -9969,7 +9969,7 @@ module.exports = [
   },
   {
     "id": 1247,
-    "line": "Nigga, what you thought?",
+    "line": "N****, what you thought?",
     "song_lyrics_url": "https://genius.com/Drake-ice-melts-lyrics",
     "song_name": "Ice Melts",
     "artist_name": "Drake",
@@ -10145,7 +10145,7 @@ module.exports = [
   },
   {
     "id": 1269,
-    "line": "Who knows where I end up when that shit gets old?",
+    "line": "Who knows where I end up when that s*** gets old?",
     "song_lyrics_url": "https://genius.com/Drake-do-not-disturb-lyrics",
     "song_name": "Do Not Disturb",
     "artist_name": "Drake",
@@ -10177,7 +10177,7 @@ module.exports = [
   },
   {
     "id": 1273,
-    "line": "Might move our annual shit to the 'Dome",
+    "line": "Might move our annual s*** to the 'Dome",
     "song_lyrics_url": "https://genius.com/Drake-do-not-disturb-lyrics",
     "song_name": "Do Not Disturb",
     "artist_name": "Drake",
@@ -10265,7 +10265,7 @@ module.exports = [
   },
   {
     "id": 1284,
-    "line": "She knew that shit was a fraud but never told me about it",
+    "line": "She knew that s*** was a fraud but never told me about it",
     "song_lyrics_url": "https://genius.com/Drake-do-not-disturb-lyrics",
     "song_name": "Do Not Disturb",
     "artist_name": "Drake",
@@ -10329,7 +10329,7 @@ module.exports = [
   },
   {
     "id": 1292,
-    "line": "Never stick around to see shit change",
+    "line": "Never stick around to see s*** change",
     "song_lyrics_url": "https://genius.com/Drake-do-not-disturb-lyrics",
     "song_name": "Do Not Disturb",
     "artist_name": "Drake",
@@ -10369,7 +10369,7 @@ module.exports = [
   },
   {
     "id": 1297,
-    "line": "I can't even party while a nigga pursuin' this",
+    "line": "I can't even party while a N**** pursuin' this",
     "song_lyrics_url": "https://genius.com/Drake-do-not-disturb-lyrics",
     "song_name": "Do Not Disturb",
     "artist_name": "Drake",
@@ -10473,7 +10473,7 @@ module.exports = [
   },
   {
     "id": 1310,
-    "line": "Take this shit to heart, it's always executed perfectly",
+    "line": "Take this s*** to heart, it's always executed perfectly",
     "song_lyrics_url": "https://genius.com/Drake-do-not-disturb-lyrics",
     "song_name": "Do Not Disturb",
     "artist_name": "Drake",
@@ -10497,7 +10497,7 @@ module.exports = [
   },
   {
     "id": 1313,
-    "line": "Swear I Told You that I'm in this bitch for eternity",
+    "line": "Swear I Told You that I'm in this b**** for eternity",
     "song_lyrics_url": "https://genius.com/Drake-do-not-disturb-lyrics",
     "song_name": "Do Not Disturb",
     "artist_name": "Drake",
@@ -10521,7 +10521,7 @@ module.exports = [
   },
   {
     "id": 1316,
-    "line": "Done talk now, 'cause there's other shit that's concernin' me",
+    "line": "Done talk now, 'cause there's other s*** that's concernin' me",
     "song_lyrics_url": "https://genius.com/Drake-do-not-disturb-lyrics",
     "song_name": "Do Not Disturb",
     "artist_name": "Drake",
@@ -10793,7 +10793,7 @@ module.exports = [
   },
   {
     "id": 1350,
-    "line": "I make all the player's anthems for the real niggas",
+    "line": "I make all the player's anthems for the real N****s",
     "song_lyrics_url": "https://genius.com/Drake-keep-the-family-close-lyrics",
     "song_name": "Keep the Family Close",
     "artist_name": "Drake",
@@ -11089,7 +11089,7 @@ module.exports = [
   },
   {
     "id": 1387,
-    "line": "Man when shit gets like this, man the whole city",
+    "line": "Man when s*** gets like this, man the whole city",
     "song_lyrics_url": "https://genius.com/Drake-9-lyrics",
     "song_name": 9,
     "artist_name": "Drake",
@@ -11097,7 +11097,7 @@ module.exports = [
   },
   {
     "id": 1388,
-    "line": "Shit's crazy right now, and shit ain't gonna stop",
+    "line": "s***'s crazy right now, and s*** ain't gonna stop",
     "song_lyrics_url": "https://genius.com/Drake-9-lyrics",
     "song_name": 9,
     "artist_name": "Drake",
@@ -11105,7 +11105,7 @@ module.exports = [
   },
   {
     "id": 1389,
-    "line": "Know shit gonna get a lot more worse before it get any better",
+    "line": "Know s*** gonna get a lot more worse before it get any better",
     "song_lyrics_url": "https://genius.com/Drake-9-lyrics",
     "song_name": 9,
     "artist_name": "Drake",
@@ -11313,7 +11313,7 @@ module.exports = [
   },
   {
     "id": 1415,
-    "line": "I'ma start telling niggas \"Get it how you can",
+    "line": "I'ma start telling N****s \"Get it how you can",
     "song_lyrics_url": "https://genius.com/Drake-9-lyrics",
     "song_name": 9,
     "artist_name": "Drake",
@@ -11393,7 +11393,7 @@ module.exports = [
   },
   {
     "id": 1425,
-    "line": "Like Mannie, like Stunna, man, shit is big time now",
+    "line": "Like Mannie, like Stunna, man, s*** is big time now",
     "song_lyrics_url": "https://genius.com/Drake-9-lyrics",
     "song_name": 9,
     "artist_name": "Drake",
@@ -11457,7 +11457,7 @@ module.exports = [
   },
   {
     "id": 1433,
-    "line": "Trust me when I say that shit is old moves",
+    "line": "Trust me when I say that s*** is old moves",
     "song_lyrics_url": "https://genius.com/Drake-9-lyrics",
     "song_name": 9,
     "artist_name": "Drake",
@@ -11513,7 +11513,7 @@ module.exports = [
   },
   {
     "id": 1440,
-    "line": "What these bitches want from a nigga?",
+    "line": "What these b****es want from a N****?",
     "song_lyrics_url": "https://genius.com/Drake-u-with-me-lyrics",
     "song_name": "U With Me?",
     "artist_name": "Drake",
@@ -11521,7 +11521,7 @@ module.exports = [
   },
   {
     "id": 1441,
-    "line": "On some DMX shit",
+    "line": "On some DMX s***",
     "song_lyrics_url": "https://genius.com/Drake-u-with-me-lyrics",
     "song_name": "U With Me?",
     "artist_name": "Drake",
@@ -11585,7 +11585,7 @@ module.exports = [
   },
   {
     "id": 1449,
-    "line": "LOLOL, I'm glad you find this shit amusin'",
+    "line": "LOLOL, I'm glad you find this s*** amusin'",
     "song_lyrics_url": "https://genius.com/Drake-u-with-me-lyrics",
     "song_name": "U With Me?",
     "artist_name": "Drake",
@@ -11657,7 +11657,7 @@ module.exports = [
   },
   {
     "id": 1458,
-    "line": "Without runnin' into one of my niggas",
+    "line": "Without runnin' into one of my N****s",
     "song_lyrics_url": "https://genius.com/Drake-u-with-me-lyrics",
     "song_name": "U With Me?",
     "artist_name": "Drake",
@@ -11849,7 +11849,7 @@ module.exports = [
   },
   {
     "id": 1482,
-    "line": "That's that shit that I don't like",
+    "line": "That's that s*** that I don't like",
     "song_lyrics_url": "https://genius.com/Drake-u-with-me-lyrics",
     "song_name": "U With Me?",
     "artist_name": "Drake",
@@ -12057,7 +12057,7 @@ module.exports = [
   },
   {
     "id": 1508,
-    "line": "Act like you know it, fuck them stories, fuck the shade they throwin'",
+    "line": "Act like you know it, f**k them stories, f**k the shade they throwin'",
     "song_lyrics_url": "https://genius.com/Drake-u-with-me-lyrics",
     "song_name": "U With Me?",
     "artist_name": "Drake",
@@ -12081,7 +12081,7 @@ module.exports = [
   },
   {
     "id": 1511,
-    "line": "A lot of niggas cut the check so they can take this flow",
+    "line": "A lot of N****s cut the check so they can take this flow",
     "song_lyrics_url": "https://genius.com/Drake-u-with-me-lyrics",
     "song_name": "U With Me?",
     "artist_name": "Drake",
@@ -12089,7 +12089,7 @@ module.exports = [
   },
   {
     "id": 1512,
-    "line": "A lot of niggas cut the check so they can take this flow",
+    "line": "A lot of N****s cut the check so they can take this flow",
     "song_lyrics_url": "https://genius.com/Drake-u-with-me-lyrics",
     "song_name": "U With Me?",
     "artist_name": "Drake",
@@ -12145,7 +12145,7 @@ module.exports = [
   },
   {
     "id": 1519,
-    "line": "And that's some real shit",
+    "line": "And that's some real s***",
     "song_lyrics_url": "https://genius.com/Drake-u-with-me-lyrics",
     "song_name": "U With Me?",
     "artist_name": "Drake",
@@ -12297,7 +12297,7 @@ module.exports = [
   },
   {
     "id": 1538,
-    "line": "Feel a way, feel a way, young nigga feel a way",
+    "line": "Feel a way, feel a way, young N**** feel a way",
     "song_lyrics_url": "https://genius.com/Drake-feel-no-ways-lyrics",
     "song_name": "Feel No Ways",
     "artist_name": "Drake",
@@ -12321,7 +12321,7 @@ module.exports = [
   },
   {
     "id": 1541,
-    "line": "Feel a way, feel a way, young nigga feel a way",
+    "line": "Feel a way, feel a way, young N**** feel a way",
     "song_lyrics_url": "https://genius.com/Drake-feel-no-ways-lyrics",
     "song_name": "Feel No Ways",
     "artist_name": "Drake",
@@ -12441,7 +12441,7 @@ module.exports = [
   },
   {
     "id": 1556,
-    "line": "Feel a way, feel a way, young nigga feel a way",
+    "line": "Feel a way, feel a way, young N**** feel a way",
     "song_lyrics_url": "https://genius.com/Drake-feel-no-ways-lyrics",
     "song_name": "Feel No Ways",
     "artist_name": "Drake",
@@ -12457,7 +12457,7 @@ module.exports = [
   },
   {
     "id": 1558,
-    "line": "Feel a way, feel a way, young nigga feel a way",
+    "line": "Feel a way, feel a way, young N**** feel a way",
     "song_lyrics_url": "https://genius.com/Drake-feel-no-ways-lyrics",
     "song_name": "Feel No Ways",
     "artist_name": "Drake",
@@ -12809,7 +12809,7 @@ module.exports = [
   },
   {
     "id": 1602,
-    "line": "I don't take this shit for granted",
+    "line": "I don't take this s*** for granted",
     "song_lyrics_url": "https://genius.com/Drake-hype-lyrics",
     "song_name": "Hype",
     "artist_name": "Drake",
@@ -12873,7 +12873,7 @@ module.exports = [
   },
   {
     "id": 1610,
-    "line": "Her gram too poppin' to fuck her",
+    "line": "Her gram too poppin' to f**k her",
     "song_lyrics_url": "https://genius.com/Drake-hype-lyrics",
     "song_name": "Hype",
     "artist_name": "Drake",
@@ -12945,7 +12945,7 @@ module.exports = [
   },
   {
     "id": 1619,
-    "line": "Niggas done being silent",
+    "line": "N****s done being silent",
     "song_lyrics_url": "https://genius.com/Drake-hype-lyrics",
     "song_name": "Hype",
     "artist_name": "Drake",
@@ -13017,7 +13017,7 @@ module.exports = [
   },
   {
     "id": 1628,
-    "line": "They cannot fuck with the legacy",
+    "line": "They cannot f**k with the legacy",
     "song_lyrics_url": "https://genius.com/Drake-hype-lyrics",
     "song_name": "Hype",
     "artist_name": "Drake",
@@ -13129,7 +13129,7 @@ module.exports = [
   },
   {
     "id": 1642,
-    "line": "Weston Road Flows, I did this shit for my nigga Renny",
+    "line": "Weston Road Flows, I did this s*** for my N**** Renny",
     "song_lyrics_url": "https://genius.com/Drake-weston-road-flows-lyrics",
     "song_name": "Weston Road Flows",
     "artist_name": "Drake",
@@ -13233,7 +13233,7 @@ module.exports = [
   },
   {
     "id": 1655,
-    "line": "I gave niggas like you a reason for celebration",
+    "line": "I gave N****s like you a reason for celebration",
     "song_lyrics_url": "https://genius.com/Drake-weston-road-flows-lyrics",
     "song_name": "Weston Road Flows",
     "artist_name": "Drake",
@@ -13369,7 +13369,7 @@ module.exports = [
   },
   {
     "id": 1672,
-    "line": "On Hershey's boy, that shit is worthless",
+    "line": "On Hershey's boy, that s*** is worthless",
     "song_lyrics_url": "https://genius.com/Drake-weston-road-flows-lyrics",
     "song_name": "Weston Road Flows",
     "artist_name": "Drake",
@@ -13497,7 +13497,7 @@ module.exports = [
   },
   {
     "id": 1688,
-    "line": "Leave it to niggas like you to show em' light in the darkness",
+    "line": "Leave it to N****s like you to show em' light in the darkness",
     "song_lyrics_url": "https://genius.com/Drake-weston-road-flows-lyrics",
     "song_name": "Weston Road Flows",
     "artist_name": "Drake",
@@ -13577,7 +13577,7 @@ module.exports = [
   },
   {
     "id": 1698,
-    "line": "But shit ain�t how it always seems when it�s so together",
+    "line": "But s*** ain�t how it always seems when it�s so together",
     "song_lyrics_url": "https://genius.com/Drake-weston-road-flows-lyrics",
     "song_name": "Weston Road Flows",
     "artist_name": "Drake",
@@ -13633,7 +13633,7 @@ module.exports = [
   },
   {
     "id": 1705,
-    "line": "Was on some through the legs arm in the hoop shit",
+    "line": "Was on some through the legs arm in the hoop s***",
     "song_lyrics_url": "https://genius.com/Drake-weston-road-flows-lyrics",
     "song_name": "Weston Road Flows",
     "artist_name": "Drake",
@@ -13697,7 +13697,7 @@ module.exports = [
   },
   {
     "id": 1713,
-    "line": "And we be walkin' in that bitch like we already knew it",
+    "line": "And we be walkin' in that b**** like we already knew it",
     "song_lyrics_url": "https://genius.com/Drake-weston-road-flows-lyrics",
     "song_name": "Weston Road Flows",
     "artist_name": "Drake",
@@ -14033,7 +14033,7 @@ module.exports = [
   },
   {
     "id": 1755,
-    "line": "Really gon' spend the winter with this other nigga?",
+    "line": "Really gon' spend the winter with this other N****?",
     "song_lyrics_url": "https://genius.com/Drake-redemption-lyrics",
     "song_name": "Redemption",
     "artist_name": "Drake",
@@ -14257,7 +14257,7 @@ module.exports = [
   },
   {
     "id": 1783,
-    "line": "I wonder, when my shit drop, do they listen?",
+    "line": "I wonder, when my s*** drop, do they listen?",
     "song_lyrics_url": "https://genius.com/Drake-redemption-lyrics",
     "song_name": "Redemption",
     "artist_name": "Drake",
@@ -14273,7 +14273,7 @@ module.exports = [
   },
   {
     "id": 1785,
-    "line": "I hate the number 2, that shit is unforgiven",
+    "line": "I hate the number 2, that s*** is unforgiven",
     "song_lyrics_url": "https://genius.com/Drake-redemption-lyrics",
     "song_name": "Redemption",
     "artist_name": "Drake",
@@ -14745,7 +14745,7 @@ module.exports = [
   },
   {
     "id": 1844,
-    "line": "Check, 1-2, 1-2, bitch",
+    "line": "Check, 1-2, 1-2, b****",
     "song_lyrics_url": "https://genius.com/Drake-faithful-lyrics",
     "song_name": "Faithful",
     "artist_name": "Drake",
@@ -14793,7 +14793,7 @@ module.exports = [
   },
   {
     "id": 1850,
-    "line": "Niggas like to play games",
+    "line": "N****s like to play games",
     "song_lyrics_url": "https://genius.com/Drake-faithful-lyrics",
     "song_name": "Faithful",
     "artist_name": "Drake",
@@ -14809,7 +14809,7 @@ module.exports = [
   },
   {
     "id": 1852,
-    "line": "You don't know me, nigga, I done changed (I done changed)",
+    "line": "You don't know me, N****, I done changed (I done changed)",
     "song_lyrics_url": "https://genius.com/Drake-faithful-lyrics",
     "song_name": "Faithful",
     "artist_name": "Drake",
@@ -14817,7 +14817,7 @@ module.exports = [
   },
   {
     "id": 1853,
-    "line": "So don't be trying to be putting on shit off in the game (game)",
+    "line": "So don't be trying to be putting on s*** off in the game (game)",
     "song_lyrics_url": "https://genius.com/Drake-faithful-lyrics",
     "song_name": "Faithful",
     "artist_name": "Drake",
@@ -14825,7 +14825,7 @@ module.exports = [
   },
   {
     "id": 1854,
-    "line": "This ain't no motherfucking ninety-one",
+    "line": "This ain't no motherf**king ninety-one",
     "song_lyrics_url": "https://genius.com/Drake-faithful-lyrics",
     "song_name": "Faithful",
     "artist_name": "Drake",
@@ -14833,7 +14833,7 @@ module.exports = [
   },
   {
     "id": 1855,
-    "line": "We out here rapping for money, you niggas rapping for fun",
+    "line": "We out here rapping for money, you N****s rapping for fun",
     "song_lyrics_url": "https://genius.com/Drake-faithful-lyrics",
     "song_name": "Faithful",
     "artist_name": "Drake",
@@ -14841,7 +14841,7 @@ module.exports = [
   },
   {
     "id": 1856,
-    "line": "I don't fuck with nobody in this shit but Bun",
+    "line": "I don't f**k with nobody in this s*** but Bun",
     "song_lyrics_url": "https://genius.com/Drake-faithful-lyrics",
     "song_name": "Faithful",
     "artist_name": "Drake",
@@ -14849,7 +14849,7 @@ module.exports = [
   },
   {
     "id": 1857,
-    "line": "(In this shit but Bun)",
+    "line": "(In this s*** but Bun)",
     "song_lyrics_url": "https://genius.com/Drake-faithful-lyrics",
     "song_name": "Faithful",
     "artist_name": "Drake",
@@ -15265,7 +15265,7 @@ module.exports = [
   },
   {
     "id": 1909,
-    "line": "Me and all my niggas doin' well, doin' well, dog",
+    "line": "Me and all my N****s doin' well, doin' well, dog",
     "song_lyrics_url": "https://genius.com/Drake-still-here-lyrics",
     "song_name": "Still Here",
     "artist_name": "Drake",
@@ -15297,7 +15297,7 @@ module.exports = [
   },
   {
     "id": 1913,
-    "line": "How did I finesse all of this shit from Jane and Weston?",
+    "line": "How did I finesse all of this s*** from Jane and Weston?",
     "song_lyrics_url": "https://genius.com/Drake-still-here-lyrics",
     "song_name": "Still Here",
     "artist_name": "Drake",
@@ -15321,7 +15321,7 @@ module.exports = [
   },
   {
     "id": 1916,
-    "line": "I can't fuck with you no more cause you be actin' extra",
+    "line": "I can't f**k with you no more cause you be actin' extra",
     "song_lyrics_url": "https://genius.com/Drake-still-here-lyrics",
     "song_name": "Still Here",
     "artist_name": "Drake",
@@ -15345,7 +15345,7 @@ module.exports = [
   },
   {
     "id": 1919,
-    "line": "All you niggas fightin' over crumbs, where the bread at?",
+    "line": "All you N****s fightin' over crumbs, where the bread at?",
     "song_lyrics_url": "https://genius.com/Drake-still-here-lyrics",
     "song_name": "Still Here",
     "artist_name": "Drake",
@@ -15401,7 +15401,7 @@ module.exports = [
   },
   {
     "id": 1926,
-    "line": "Me and all my niggas doin' well, doin' well, dog",
+    "line": "Me and all my N****s doin' well, doin' well, dog",
     "song_lyrics_url": "https://genius.com/Drake-still-here-lyrics",
     "song_name": "Still Here",
     "artist_name": "Drake",
@@ -15513,7 +15513,7 @@ module.exports = [
   },
   {
     "id": 1940,
-    "line": "All my niggas ain't off rockin' Gucci",
+    "line": "All my N****s ain't off rockin' Gucci",
     "song_lyrics_url": "https://genius.com/Drake-still-here-lyrics",
     "song_name": "Still Here",
     "artist_name": "Drake",
@@ -15553,7 +15553,7 @@ module.exports = [
   },
   {
     "id": 1945,
-    "line": "Me and all my niggas doin' well, doin' well, dog",
+    "line": "Me and all my N****s doin' well, doin' well, dog",
     "song_lyrics_url": "https://genius.com/Drake-still-here-lyrics",
     "song_name": "Still Here",
     "artist_name": "Drake",
@@ -16689,7 +16689,7 @@ module.exports = [
   },
   {
     "id": 2087,
-    "line": "Most niggas with a deal",
+    "line": "Most N****s with a deal",
     "song_lyrics_url": "https://genius.com/Drake-grammys-lyrics",
     "song_name": "Grammys",
     "artist_name": "Drake",
@@ -16817,7 +16817,7 @@ module.exports = [
   },
   {
     "id": 2103,
-    "line": "Same niggas from the old days",
+    "line": "Same N****s from the old days",
     "song_lyrics_url": "https://genius.com/Drake-grammys-lyrics",
     "song_name": "Grammys",
     "artist_name": "Drake",
@@ -16953,7 +16953,7 @@ module.exports = [
   },
   {
     "id": 2120,
-    "line": "Knew my niggas from the basement",
+    "line": "Knew my N****s from the basement",
     "song_lyrics_url": "https://genius.com/Drake-grammys-lyrics",
     "song_name": "Grammys",
     "artist_name": "Drake",
@@ -16961,7 +16961,7 @@ module.exports = [
   },
   {
     "id": 2121,
-    "line": "This ain't no met-along-the-way shit",
+    "line": "This ain't no met-along-the-way s***",
     "song_lyrics_url": "https://genius.com/Drake-grammys-lyrics",
     "song_name": "Grammys",
     "artist_name": "Drake",
@@ -17001,7 +17001,7 @@ module.exports = [
   },
   {
     "id": 2126,
-    "line": "You actin' like you fuckin' won a trophy and shit",
+    "line": "You actin' like you f**kin' won a trophy and s***",
     "song_lyrics_url": "https://genius.com/Drake-grammys-lyrics",
     "song_name": "Grammys",
     "artist_name": "Drake",
@@ -17009,7 +17009,7 @@ module.exports = [
   },
   {
     "id": 2127,
-    "line": "This nigga turnt the fuck up",
+    "line": "This N**** turnt the f**k up",
     "song_lyrics_url": "https://genius.com/Drake-grammys-lyrics",
     "song_name": "Grammys",
     "artist_name": "Drake",
@@ -17265,7 +17265,7 @@ module.exports = [
   },
   {
     "id": 2159,
-    "line": "I'm cashin' out, fuck a cosign",
+    "line": "I'm cashin' out, f**k a cosign",
     "song_lyrics_url": "https://genius.com/Drake-grammys-lyrics",
     "song_name": "Grammys",
     "artist_name": "Drake",
@@ -17465,7 +17465,7 @@ module.exports = [
   },
   {
     "id": 2184,
-    "line": "Breaking news, my niggas",
+    "line": "Breaking news, my N****s",
     "song_lyrics_url": "https://genius.com/Drake-childs-play-lyrics",
     "song_name": "Child's Play",
     "artist_name": "Drake",
@@ -17489,7 +17489,7 @@ module.exports = [
   },
   {
     "id": 2187,
-    "line": "Best believe, she's fucking some niggas on that team",
+    "line": "Best believe, she's f**king some N****s on that team",
     "song_lyrics_url": "https://genius.com/Drake-childs-play-lyrics",
     "song_name": "Child's Play",
     "artist_name": "Drake",
@@ -17497,7 +17497,7 @@ module.exports = [
   },
   {
     "id": 2188,
-    "line": "She's fucking somebody on the basketball team",
+    "line": "She's f**king somebody on the basketball team",
     "song_lyrics_url": "https://genius.com/Drake-childs-play-lyrics",
     "song_name": "Child's Play",
     "artist_name": "Drake",
@@ -17521,7 +17521,7 @@ module.exports = [
   },
   {
     "id": 2191,
-    "line": "I say bounce that shit like woah",
+    "line": "I say bounce that s*** like woah",
     "song_lyrics_url": "https://genius.com/Drake-childs-play-lyrics",
     "song_name": "Child's Play",
     "artist_name": "Drake",
@@ -17529,7 +17529,7 @@ module.exports = [
   },
   {
     "id": 2192,
-    "line": "Yeah, bounce that shit like woah",
+    "line": "Yeah, bounce that s*** like woah",
     "song_lyrics_url": "https://genius.com/Drake-childs-play-lyrics",
     "song_name": "Child's Play",
     "artist_name": "Drake",
@@ -17561,7 +17561,7 @@ module.exports = [
   },
   {
     "id": 2196,
-    "line": "Bounce that shit like woah, woah, woah",
+    "line": "Bounce that s*** like woah, woah, woah",
     "song_lyrics_url": "https://genius.com/Drake-childs-play-lyrics",
     "song_name": "Child's Play",
     "artist_name": "Drake",
@@ -17601,7 +17601,7 @@ module.exports = [
   },
   {
     "id": 2201,
-    "line": "Bounce that shit like woah, yeah",
+    "line": "Bounce that s*** like woah, yeah",
     "song_lyrics_url": "https://genius.com/Drake-childs-play-lyrics",
     "song_name": "Child's Play",
     "artist_name": "Drake",
@@ -17609,7 +17609,7 @@ module.exports = [
   },
   {
     "id": 2202,
-    "line": "Bounce that shit like woah",
+    "line": "Bounce that s*** like woah",
     "song_lyrics_url": "https://genius.com/Drake-childs-play-lyrics",
     "song_name": "Child's Play",
     "artist_name": "Drake",
@@ -17721,7 +17721,7 @@ module.exports = [
   },
   {
     "id": 2216,
-    "line": "I say bounce that shit like woah",
+    "line": "I say bounce that s*** like woah",
     "song_lyrics_url": "https://genius.com/Drake-childs-play-lyrics",
     "song_name": "Child's Play",
     "artist_name": "Drake",
@@ -17729,7 +17729,7 @@ module.exports = [
   },
   {
     "id": 2217,
-    "line": "Yeah, bounce that shit like woah",
+    "line": "Yeah, bounce that s*** like woah",
     "song_lyrics_url": "https://genius.com/Drake-childs-play-lyrics",
     "song_name": "Child's Play",
     "artist_name": "Drake",
@@ -17761,7 +17761,7 @@ module.exports = [
   },
   {
     "id": 2221,
-    "line": "Bounce that shit like woah, woah, woah",
+    "line": "Bounce that s*** like woah, woah, woah",
     "song_lyrics_url": "https://genius.com/Drake-childs-play-lyrics",
     "song_name": "Child's Play",
     "artist_name": "Drake",
@@ -17801,7 +17801,7 @@ module.exports = [
   },
   {
     "id": 2226,
-    "line": "Bounce that shit like woah, yeah",
+    "line": "Bounce that s*** like woah, yeah",
     "song_lyrics_url": "https://genius.com/Drake-childs-play-lyrics",
     "song_name": "Child's Play",
     "artist_name": "Drake",
@@ -17809,7 +17809,7 @@ module.exports = [
   },
   {
     "id": 2227,
-    "line": "Bounce that shit like woah",
+    "line": "Bounce that s*** like woah",
     "song_lyrics_url": "https://genius.com/Drake-childs-play-lyrics",
     "song_name": "Child's Play",
     "artist_name": "Drake",
@@ -17969,7 +17969,7 @@ module.exports = [
   },
   {
     "id": 2247,
-    "line": "Whippin' on this shit, I'm getting ready, where you at?",
+    "line": "Whippin' on this s***, I'm getting ready, where you at?",
     "song_lyrics_url": "https://genius.com/Drake-childs-play-lyrics",
     "song_name": "Child's Play",
     "artist_name": "Drake",
@@ -18113,7 +18113,7 @@ module.exports = [
   },
   {
     "id": 2265,
-    "line": "Motherfuckers drunk and tired",
+    "line": "Motherf**kers drunk and tired",
     "song_lyrics_url": "https://genius.com/Drake-childs-play-lyrics",
     "song_name": "Child's Play",
     "artist_name": "Drake",
@@ -18137,7 +18137,7 @@ module.exports = [
   },
   {
     "id": 2268,
-    "line": "This sound like some forty-three-oh-one shit (one shit)",
+    "line": "This sound like some forty-three-oh-one s*** (one s***)",
     "song_lyrics_url": "https://genius.com/Drake-pop-style-lyrics",
     "song_name": "Pop Style",
     "artist_name": "Drake",
@@ -18145,7 +18145,7 @@ module.exports = [
   },
   {
     "id": 2269,
-    "line": "All my niggas wanna do is pop style (pop style)",
+    "line": "All my N****s wanna do is pop style (pop style)",
     "song_lyrics_url": "https://genius.com/Drake-pop-style-lyrics",
     "song_name": "Pop Style",
     "artist_name": "Drake",
@@ -18273,7 +18273,7 @@ module.exports = [
   },
   {
     "id": 2285,
-    "line": "I can't trust no fuckin' body",
+    "line": "I can't trust no f**kin' body",
     "song_lyrics_url": "https://genius.com/Drake-pop-style-lyrics",
     "song_name": "Pop Style",
     "artist_name": "Drake",
@@ -18305,7 +18305,7 @@ module.exports = [
   },
   {
     "id": 2289,
-    "line": "Give a real nigga the number one",
+    "line": "Give a real N**** the number one",
     "song_lyrics_url": "https://genius.com/Drake-pop-style-lyrics",
     "song_name": "Pop Style",
     "artist_name": "Drake",
@@ -18457,7 +18457,7 @@ module.exports = [
   },
   {
     "id": 2308,
-    "line": "I can't trust no fuckin' body",
+    "line": "I can't trust no f**kin' body",
     "song_lyrics_url": "https://genius.com/Drake-pop-style-lyrics",
     "song_name": "Pop Style",
     "artist_name": "Drake",
@@ -18481,7 +18481,7 @@ module.exports = [
   },
   {
     "id": 2311,
-    "line": "This sound like some forty-three-oh-one shit (one shit)",
+    "line": "This sound like some forty-three-oh-one s*** (one s***)",
     "song_lyrics_url": "https://genius.com/Drake-pop-style-lyrics",
     "song_name": "Pop Style",
     "artist_name": "Drake",
@@ -18489,7 +18489,7 @@ module.exports = [
   },
   {
     "id": 2312,
-    "line": "All my niggas wanna do is pop style (pop style)",
+    "line": "All my N****s wanna do is pop style (pop style)",
     "song_lyrics_url": "https://genius.com/Drake-pop-style-lyrics",
     "song_name": "Pop Style",
     "artist_name": "Drake",
@@ -19433,7 +19433,7 @@ module.exports = [
   },
   {
     "id": 2430,
-    "line": "Your other nigga tired",
+    "line": "Your other N**** tired",
     "song_lyrics_url": "https://genius.com/Drake-fire-and-desire-lyrics",
     "song_name": "Fire & Desire",
     "artist_name": "Drake",
@@ -19785,7 +19785,7 @@ module.exports = [
   },
   {
     "id": 2474,
-    "line": "OVO on me while y'all niggas was playin' dress-up",
+    "line": "OVO on me while y'all N****s was playin' dress-up",
     "song_lyrics_url": "https://genius.com/Drake-views-lyrics",
     "song_name": "Views",
     "artist_name": "Drake",
@@ -19929,7 +19929,7 @@ module.exports = [
   },
   {
     "id": 2492,
-    "line": "Need y'all to know that I never needed none of y'all niggas",
+    "line": "Need y'all to know that I never needed none of y'all N****s",
     "song_lyrics_url": "https://genius.com/Drake-views-lyrics",
     "song_name": "Views",
     "artist_name": "Drake",
@@ -19937,7 +19937,7 @@ module.exports = [
   },
   {
     "id": 2493,
-    "line": "Fuck bein' all buddy buddy with the opposition",
+    "line": "f**k bein' all buddy buddy with the opposition",
     "song_lyrics_url": "https://genius.com/Drake-views-lyrics",
     "song_name": "Views",
     "artist_name": "Drake",
@@ -19945,7 +19945,7 @@ module.exports = [
   },
   {
     "id": 2494,
-    "line": "It's like the front of the plane, nigga, it's all business",
+    "line": "It's like the front of the plane, N****, it's all business",
     "song_lyrics_url": "https://genius.com/Drake-views-lyrics",
     "song_name": "Views",
     "artist_name": "Drake",
@@ -19969,7 +19969,7 @@ module.exports = [
   },
   {
     "id": 2497,
-    "line": "My niggas still hit the club when it's 20 below",
+    "line": "My N****s still hit the club when it's 20 below",
     "song_lyrics_url": "https://genius.com/Drake-views-lyrics",
     "song_name": "Views",
     "artist_name": "Drake",
@@ -20057,7 +20057,7 @@ module.exports = [
   },
   {
     "id": 2508,
-    "line": "Niggas quick to double cross like both of us Christian",
+    "line": "N****s quick to double cross like both of us Christian",
     "song_lyrics_url": "https://genius.com/Drake-views-lyrics",
     "song_name": "Views",
     "artist_name": "Drake",
@@ -20209,7 +20209,7 @@ module.exports = [
   },
   {
     "id": 2527,
-    "line": "It's farfetched like I threw that shit a hundred meters",
+    "line": "It's farfetched like I threw that s*** a hundred meters",
     "song_lyrics_url": "https://genius.com/Drake-views-lyrics",
     "song_name": "Views",
     "artist_name": "Drake",
@@ -20753,7 +20753,7 @@ module.exports = [
   },
   {
     "id": 2595,
-    "line": "When I pull up on a nigga tell that nigga back, back",
+    "line": "When I pull up on a N**** tell that N**** back, back",
     "song_lyrics_url": "https://genius.com/Drake-legend-lyrics",
     "song_name": "Legend",
     "artist_name": "Drake",
@@ -20761,7 +20761,7 @@ module.exports = [
   },
   {
     "id": 2596,
-    "line": "I'm too good with these words, watch a nigga backtrack",
+    "line": "I'm too good with these words, watch a N**** backtrack",
     "song_lyrics_url": "https://genius.com/Drake-legend-lyrics",
     "song_name": "Legend",
     "artist_name": "Drake",
@@ -20769,7 +20769,7 @@ module.exports = [
   },
   {
     "id": 2597,
-    "line": "If I die, all I know is I'm a mothafuckin' legend",
+    "line": "If I die, all I know is I'm a mothaf**kin' legend",
     "song_lyrics_url": "https://genius.com/Drake-legend-lyrics",
     "song_name": "Legend",
     "artist_name": "Drake",
@@ -20777,7 +20777,7 @@ module.exports = [
   },
   {
     "id": 2598,
-    "line": "It's too late for my city, I'm the youngest nigga reppin",
+    "line": "It's too late for my city, I'm the youngest N**** reppin",
     "song_lyrics_url": "https://genius.com/Drake-legend-lyrics",
     "song_name": "Legend",
     "artist_name": "Drake",
@@ -20865,7 +20865,7 @@ module.exports = [
   },
   {
     "id": 2609,
-    "line": "Fuck 'em all, they only pussy niggas shootin' at the star",
+    "line": "f**k 'em all, they only pussy N****s shootin' at the star",
     "song_lyrics_url": "https://genius.com/Drake-legend-lyrics",
     "song_name": "Legend",
     "artist_name": "Drake",
@@ -20897,7 +20897,7 @@ module.exports = [
   },
   {
     "id": 2613,
-    "line": "I got this shit mapped out strong",
+    "line": "I got this s*** mapped out strong",
     "song_lyrics_url": "https://genius.com/Drake-legend-lyrics",
     "song_name": "Legend",
     "artist_name": "Drake",
@@ -20905,7 +20905,7 @@ module.exports = [
   },
   {
     "id": 2614,
-    "line": "When I pull up on a nigga tell that nigga back, back",
+    "line": "When I pull up on a N**** tell that N**** back, back",
     "song_lyrics_url": "https://genius.com/Drake-legend-lyrics",
     "song_name": "Legend",
     "artist_name": "Drake",
@@ -20913,7 +20913,7 @@ module.exports = [
   },
   {
     "id": 2615,
-    "line": "I'm too good with these words, watch a nigga backtrack",
+    "line": "I'm too good with these words, watch a N**** backtrack",
     "song_lyrics_url": "https://genius.com/Drake-legend-lyrics",
     "song_name": "Legend",
     "artist_name": "Drake",
@@ -20921,7 +20921,7 @@ module.exports = [
   },
   {
     "id": 2616,
-    "line": "All I know, if I die, I'm a mothafuckin' legend",
+    "line": "All I know, if I die, I'm a mothaf**kin' legend",
     "song_lyrics_url": "https://genius.com/Drake-legend-lyrics",
     "song_name": "Legend",
     "artist_name": "Drake",
@@ -20929,7 +20929,7 @@ module.exports = [
   },
   {
     "id": 2617,
-    "line": "It's too late for my city, I'm the youngest nigga reppin",
+    "line": "It's too late for my city, I'm the youngest N**** reppin",
     "song_lyrics_url": "https://genius.com/Drake-legend-lyrics",
     "song_name": "Legend",
     "artist_name": "Drake",
@@ -21049,7 +21049,7 @@ module.exports = [
   },
   {
     "id": 2632,
-    "line": "I can't change, this shit set in stone",
+    "line": "I can't change, this s*** set in stone",
     "song_lyrics_url": "https://genius.com/Drake-legend-lyrics",
     "song_name": "Legend",
     "artist_name": "Drake",
@@ -21073,7 +21073,7 @@ module.exports = [
   },
   {
     "id": 2635,
-    "line": "I got this shit mapped out strong",
+    "line": "I got this s*** mapped out strong",
     "song_lyrics_url": "https://genius.com/Drake-legend-lyrics",
     "song_name": "Legend",
     "artist_name": "Drake",
@@ -21081,7 +21081,7 @@ module.exports = [
   },
   {
     "id": 2636,
-    "line": "When I pull up on a nigga tell that nigga back, back",
+    "line": "When I pull up on a N**** tell that N**** back, back",
     "song_lyrics_url": "https://genius.com/Drake-legend-lyrics",
     "song_name": "Legend",
     "artist_name": "Drake",
@@ -21089,7 +21089,7 @@ module.exports = [
   },
   {
     "id": 2637,
-    "line": "I'm too good with these words, watch a nigga backtrack",
+    "line": "I'm too good with these words, watch a N**** backtrack",
     "song_lyrics_url": "https://genius.com/Drake-legend-lyrics",
     "song_name": "Legend",
     "artist_name": "Drake",
@@ -21097,7 +21097,7 @@ module.exports = [
   },
   {
     "id": 2638,
-    "line": "All I know, if I die,  I'm a mothafuckin' legend",
+    "line": "All I know, if I die,  I'm a mothaf**kin' legend",
     "song_lyrics_url": "https://genius.com/Drake-legend-lyrics",
     "song_name": "Legend",
     "artist_name": "Drake",
@@ -21105,7 +21105,7 @@ module.exports = [
   },
   {
     "id": 2639,
-    "line": "It's too late for my city, I'm the youngest nigga reppin",
+    "line": "It's too late for my city, I'm the youngest N**** reppin",
     "song_lyrics_url": "https://genius.com/Drake-legend-lyrics",
     "song_name": "Legend",
     "artist_name": "Drake",
@@ -21201,7 +21201,7 @@ module.exports = [
   },
   {
     "id": 2651,
-    "line": "They tryna take the wave from a nigga",
+    "line": "They tryna take the wave from a N****",
     "song_lyrics_url": "https://genius.com/Drake-energy-lyrics",
     "song_name": "Energy",
     "artist_name": "Drake",
@@ -21209,7 +21209,7 @@ module.exports = [
   },
   {
     "id": 2652,
-    "line": "Fuckin� with the kid and pray for your nigga",
+    "line": "f**kinwith the kid and pray for your N****",
     "song_lyrics_url": "https://genius.com/Drake-energy-lyrics",
     "song_name": "Energy",
     "artist_name": "Drake",
@@ -21217,7 +21217,7 @@ module.exports = [
   },
   {
     "id": 2653,
-    "line": "I got girls in real life tryna fuck up my day",
+    "line": "I got girls in real life tryna f**k up my day",
     "song_lyrics_url": "https://genius.com/Drake-energy-lyrics",
     "song_name": "Energy",
     "artist_name": "Drake",
@@ -21225,7 +21225,7 @@ module.exports = [
   },
   {
     "id": 2654,
-    "line": "Fuck goin� online, that ain�t part of my day",
+    "line": "f**k goinonline, that ain�t part of my day",
     "song_lyrics_url": "https://genius.com/Drake-energy-lyrics",
     "song_name": "Energy",
     "artist_name": "Drake",
@@ -21233,7 +21233,7 @@ module.exports = [
   },
   {
     "id": 2655,
-    "line": "I got real shit poppin� with my family too",
+    "line": "I got real s*** poppinwith my family too",
     "song_lyrics_url": "https://genius.com/Drake-energy-lyrics",
     "song_name": "Energy",
     "artist_name": "Drake",
@@ -21241,7 +21241,7 @@ module.exports = [
   },
   {
     "id": 2656,
-    "line": "I got niggas that can never leave Canada too",
+    "line": "I got N****s that can never leave Canada too",
     "song_lyrics_url": "https://genius.com/Drake-energy-lyrics",
     "song_name": "Energy",
     "artist_name": "Drake",
@@ -21257,7 +21257,7 @@ module.exports = [
   },
   {
     "id": 2658,
-    "line": "I got niggas that�ll still try fuckin� me over",
+    "line": "I got N****s that�ll still try f**kinme over",
     "song_lyrics_url": "https://genius.com/Drake-energy-lyrics",
     "song_name": "Energy",
     "artist_name": "Drake",
@@ -21265,7 +21265,7 @@ module.exports = [
   },
   {
     "id": 2659,
-    "line": "I got rap niggas that I gotta act like I like",
+    "line": "I got rap N****s that I gotta act like I like",
     "song_lyrics_url": "https://genius.com/Drake-energy-lyrics",
     "song_name": "Energy",
     "artist_name": "Drake",
@@ -21273,7 +21273,7 @@ module.exports = [
   },
   {
     "id": 2660,
-    "line": "But my actin� days are over, fuck them niggas for life, yeah",
+    "line": "But my actindays are over, f**k them N****s for life, yeah",
     "song_lyrics_url": "https://genius.com/Drake-energy-lyrics",
     "song_name": "Energy",
     "artist_name": "Drake",
@@ -21297,7 +21297,7 @@ module.exports = [
   },
   {
     "id": 2663,
-    "line": "They tryna take the wave from a nigga",
+    "line": "They tryna take the wave from a N****",
     "song_lyrics_url": "https://genius.com/Drake-energy-lyrics",
     "song_name": "Energy",
     "artist_name": "Drake",
@@ -21305,7 +21305,7 @@ module.exports = [
   },
   {
     "id": 2664,
-    "line": "Fuckin� with the kid and pray for your nigga",
+    "line": "f**kinwith the kid and pray for your N****",
     "song_lyrics_url": "https://genius.com/Drake-energy-lyrics",
     "song_name": "Energy",
     "artist_name": "Drake",
@@ -21313,7 +21313,7 @@ module.exports = [
   },
   {
     "id": 2665,
-    "line": "I got people talkin� down, man, like I give a fuck",
+    "line": "I got people talkindown, man, like I give a f**k",
     "song_lyrics_url": "https://genius.com/Drake-energy-lyrics",
     "song_name": "Energy",
     "artist_name": "Drake",
@@ -21337,7 +21337,7 @@ module.exports = [
   },
   {
     "id": 2668,
-    "line": "I keep buyin� shit, just make sure you keep track of it all",
+    "line": "I keep buyins***, just make sure you keep track of it all",
     "song_lyrics_url": "https://genius.com/Drake-energy-lyrics",
     "song_name": "Energy",
     "artist_name": "Drake",
@@ -21345,7 +21345,7 @@ module.exports = [
   },
   {
     "id": 2669,
-    "line": "I got bitches askin� me about the code for the Wi-Fi",
+    "line": "I got b****es askinme about the code for the Wi-Fi",
     "song_lyrics_url": "https://genius.com/Drake-energy-lyrics",
     "song_name": "Energy",
     "artist_name": "Drake",
@@ -21401,7 +21401,7 @@ module.exports = [
   },
   {
     "id": 2676,
-    "line": "I got high hopes for you niggas, we gon� see",
+    "line": "I got high hopes for you N****s, we gonsee",
     "song_lyrics_url": "https://genius.com/Drake-energy-lyrics",
     "song_name": "Energy",
     "artist_name": "Drake",
@@ -21409,7 +21409,7 @@ module.exports = [
   },
   {
     "id": 2677,
-    "line": "I got money in the courts 'til all my niggas are free",
+    "line": "I got money in the courts 'til all my N****s are free",
     "song_lyrics_url": "https://genius.com/Drake-energy-lyrics",
     "song_name": "Energy",
     "artist_name": "Drake",
@@ -21425,7 +21425,7 @@ module.exports = [
   },
   {
     "id": 2679,
-    "line": "I hear fairy tales �bout how they gon� run up on me",
+    "line": "I hear fairy tales �bout how they gonrun up on me",
     "song_lyrics_url": "https://genius.com/Drake-energy-lyrics",
     "song_name": "Energy",
     "artist_name": "Drake",
@@ -21433,7 +21433,7 @@ module.exports = [
   },
   {
     "id": 2680,
-    "line": "Well, run up when you see me, then, and we gon� see",
+    "line": "Well, run up when you see me, then, and we gonsee",
     "song_lyrics_url": "https://genius.com/Drake-energy-lyrics",
     "song_name": "Energy",
     "artist_name": "Drake",
@@ -21457,7 +21457,7 @@ module.exports = [
   },
   {
     "id": 2683,
-    "line": "They tryna take the wave from a nigga",
+    "line": "They tryna take the wave from a N****",
     "song_lyrics_url": "https://genius.com/Drake-energy-lyrics",
     "song_name": "Energy",
     "artist_name": "Drake",
@@ -21465,7 +21465,7 @@ module.exports = [
   },
   {
     "id": 2684,
-    "line": "Fuckin� with the kid and pray for your nigga",
+    "line": "f**kinwith the kid and pray for your N****",
     "song_lyrics_url": "https://genius.com/Drake-energy-lyrics",
     "song_name": "Energy",
     "artist_name": "Drake",
@@ -21473,7 +21473,7 @@ module.exports = [
   },
   {
     "id": 2685,
-    "line": "Nah, fuck all of you niggas, I ain�t finished",
+    "line": "Nah, f**k all of you N****s, I ain�t finished",
     "song_lyrics_url": "https://genius.com/Drake-energy-lyrics",
     "song_name": "Energy",
     "artist_name": "Drake",
@@ -21497,7 +21497,7 @@ module.exports = [
   },
   {
     "id": 2688,
-    "line": "I got real ones livin� past Kennedy Road",
+    "line": "I got real ones livinpast Kennedy Road",
     "song_lyrics_url": "https://genius.com/Drake-energy-lyrics",
     "song_name": "Energy",
     "artist_name": "Drake",
@@ -21521,7 +21521,7 @@ module.exports = [
   },
   {
     "id": 2691,
-    "line": "Every time I see �em, somethin� wrong with their memory",
+    "line": "Every time I see �em, somethinwrong with their memory",
     "song_lyrics_url": "https://genius.com/Drake-energy-lyrics",
     "song_name": "Energy",
     "artist_name": "Drake",
@@ -21529,7 +21529,7 @@ module.exports = [
   },
   {
     "id": 2692,
-    "line": "Tryna take it away from a nigga",
+    "line": "Tryna take it away from a N****",
     "song_lyrics_url": "https://genius.com/Drake-energy-lyrics",
     "song_name": "Energy",
     "artist_name": "Drake",
@@ -21537,7 +21537,7 @@ module.exports = [
   },
   {
     "id": 2693,
-    "line": "So tired of savin� all these niggas, mayne",
+    "line": "So tired of savinall these N****s, mayne",
     "song_lyrics_url": "https://genius.com/Drake-energy-lyrics",
     "song_name": "Energy",
     "artist_name": "Drake",
@@ -21569,7 +21569,7 @@ module.exports = [
   },
   {
     "id": 2697,
-    "line": "They tryna take the wave from a nigga",
+    "line": "They tryna take the wave from a N****",
     "song_lyrics_url": "https://genius.com/Drake-energy-lyrics",
     "song_name": "Energy",
     "artist_name": "Drake",
@@ -21577,7 +21577,7 @@ module.exports = [
   },
   {
     "id": 2698,
-    "line": "Fuckin� with the kid and pray for your nigga",
+    "line": "f**kinwith the kid and pray for your N****",
     "song_lyrics_url": "https://genius.com/Drake-energy-lyrics",
     "song_name": "Energy",
     "artist_name": "Drake",
@@ -21585,7 +21585,7 @@ module.exports = [
   },
   {
     "id": 2699,
-    "line": "10 Bands, 50 bands, 100 bands, fuck it, man",
+    "line": "10 Bands, 50 bands, 100 bands, f**k it, man",
     "song_lyrics_url": "https://genius.com/Drake-10-bands-lyrics",
     "song_name": "10 Bands",
     "artist_name": "Drake",
@@ -21601,7 +21601,7 @@ module.exports = [
   },
   {
     "id": 2701,
-    "line": "OMG, niggas sleep, I ain't trippin', I'mma let 'em sleep",
+    "line": "OMG, N****s sleep, I ain't trippin', I'mma let 'em sleep",
     "song_lyrics_url": "https://genius.com/Drake-10-bands-lyrics",
     "song_name": "10 Bands",
     "artist_name": "Drake",
@@ -21681,7 +21681,7 @@ module.exports = [
   },
   {
     "id": 2711,
-    "line": "10 Bands, 50 bands, 100 bands, fuck it, man",
+    "line": "10 Bands, 50 bands, 100 bands, f**k it, man",
     "song_lyrics_url": "https://genius.com/Drake-10-bands-lyrics",
     "song_name": "10 Bands",
     "artist_name": "Drake",
@@ -21697,7 +21697,7 @@ module.exports = [
   },
   {
     "id": 2713,
-    "line": "OMG, niggas sleep, I ain't trippin', I'mma let 'em sleep",
+    "line": "OMG, N****s sleep, I ain't trippin', I'mma let 'em sleep",
     "song_lyrics_url": "https://genius.com/Drake-10-bands-lyrics",
     "song_name": "10 Bands",
     "artist_name": "Drake",
@@ -21729,7 +21729,7 @@ module.exports = [
   },
   {
     "id": 2717,
-    "line": "I done hit the stride got my shit goin'",
+    "line": "I done hit the stride got my s*** goin'",
     "song_lyrics_url": "https://genius.com/Drake-10-bands-lyrics",
     "song_name": "10 Bands",
     "artist_name": "Drake",
@@ -21777,7 +21777,7 @@ module.exports = [
   },
   {
     "id": 2723,
-    "line": "10 Bands, 50 bands, 100 bands, fuck it, man",
+    "line": "10 Bands, 50 bands, 100 bands, f**k it, man",
     "song_lyrics_url": "https://genius.com/Drake-10-bands-lyrics",
     "song_name": "10 Bands",
     "artist_name": "Drake",
@@ -21793,7 +21793,7 @@ module.exports = [
   },
   {
     "id": 2725,
-    "line": "OMG, niggas sleep, I ain't trippin', I'mma let 'em sleep",
+    "line": "OMG, N****s sleep, I ain't trippin', I'mma let 'em sleep",
     "song_lyrics_url": "https://genius.com/Drake-10-bands-lyrics",
     "song_name": "10 Bands",
     "artist_name": "Drake",
@@ -21833,7 +21833,7 @@ module.exports = [
   },
   {
     "id": 2730,
-    "line": "How much I make off the deal, how the fuck should I know?",
+    "line": "How much I make off the deal, how the f**k should I know?",
     "song_lyrics_url": "https://genius.com/Drake-10-bands-lyrics",
     "song_name": "10 Bands",
     "artist_name": "Drake",
@@ -21937,7 +21937,7 @@ module.exports = [
   },
   {
     "id": 2743,
-    "line": "10 Bands, 50 bands, 100 bands, fuck it, man",
+    "line": "10 Bands, 50 bands, 100 bands, f**k it, man",
     "song_lyrics_url": "https://genius.com/Drake-10-bands-lyrics",
     "song_name": "10 Bands",
     "artist_name": "Drake",
@@ -21953,7 +21953,7 @@ module.exports = [
   },
   {
     "id": 2745,
-    "line": "OMG, niggas sleep, I ain't trippin', I'mma let 'em sleep",
+    "line": "OMG, N****s sleep, I ain't trippin', I'mma let 'em sleep",
     "song_lyrics_url": "https://genius.com/Drake-10-bands-lyrics",
     "song_name": "10 Bands",
     "artist_name": "Drake",
@@ -21985,7 +21985,7 @@ module.exports = [
   },
   {
     "id": 2749,
-    "line": "I done hit the stride, got my shit going",
+    "line": "I done hit the stride, got my s*** going",
     "song_lyrics_url": "https://genius.com/Drake-10-bands-lyrics",
     "song_name": "10 Bands",
     "artist_name": "Drake",
@@ -22025,7 +22025,7 @@ module.exports = [
   },
   {
     "id": 2754,
-    "line": "Yeah, this that Oliver, 40, Niko shit man",
+    "line": "Yeah, this that Oliver, 40, Niko s*** man",
     "song_lyrics_url": "https://genius.com/Drake-know-yourself-lyrics",
     "song_name": "Know Yourself",
     "artist_name": "Drake",
@@ -22033,7 +22033,7 @@ module.exports = [
   },
   {
     "id": 2755,
-    "line": "15 Fort York shit, y'know?",
+    "line": "15 Fort York s***, y'know?",
     "song_lyrics_url": "https://genius.com/Drake-know-yourself-lyrics",
     "song_name": "Know Yourself",
     "artist_name": "Drake",
@@ -22113,7 +22113,7 @@ module.exports = [
   },
   {
     "id": 2765,
-    "line": "Niggas want my spot and don't deserve it",
+    "line": "N****s want my spot and don't deserve it",
     "song_lyrics_url": "https://genius.com/Drake-know-yourself-lyrics",
     "song_name": "Know Yourself",
     "artist_name": "Drake",
@@ -22169,7 +22169,7 @@ module.exports = [
   },
   {
     "id": 2772,
-    "line": "I know a nigga named Johnny Bling",
+    "line": "I know a N**** named Johnny Bling",
     "song_lyrics_url": "https://genius.com/Drake-know-yourself-lyrics",
     "song_name": "Know Yourself",
     "artist_name": "Drake",
@@ -22305,7 +22305,7 @@ module.exports = [
   },
   {
     "id": 2789,
-    "line": "Don't fuck with them niggas, they too irrational, woah",
+    "line": "Don't f**k with them N****s, they too irrational, woah",
     "song_lyrics_url": "https://genius.com/Drake-know-yourself-lyrics",
     "song_name": "Know Yourself",
     "artist_name": "Drake",
@@ -22321,7 +22321,7 @@ module.exports = [
   },
   {
     "id": 2791,
-    "line": "Top boy in this shit, I'm so international",
+    "line": "Top boy in this s***, I'm so international",
     "song_lyrics_url": "https://genius.com/Drake-know-yourself-lyrics",
     "song_name": "Know Yourself",
     "artist_name": "Drake",
@@ -22345,7 +22345,7 @@ module.exports = [
   },
   {
     "id": 2794,
-    "line": "Yeah, and you know how that shit go",
+    "line": "Yeah, and you know how that s*** go",
     "song_lyrics_url": "https://genius.com/Drake-know-yourself-lyrics",
     "song_name": "Know Yourself",
     "artist_name": "Drake",
@@ -22361,7 +22361,7 @@ module.exports = [
   },
   {
     "id": 2796,
-    "line": "Yeah, but you know how that shit go",
+    "line": "Yeah, but you know how that s*** go",
     "song_lyrics_url": "https://genius.com/Drake-know-yourself-lyrics",
     "song_name": "Know Yourself",
     "artist_name": "Drake",
@@ -22385,7 +22385,7 @@ module.exports = [
   },
   {
     "id": 2799,
-    "line": "My nigga Jibba, he whip it, I ride in the passenger",
+    "line": "My N**** Jibba, he whip it, I ride in the passenger",
     "song_lyrics_url": "https://genius.com/Drake-know-yourself-lyrics",
     "song_name": "Know Yourself",
     "artist_name": "Drake",
@@ -22409,7 +22409,7 @@ module.exports = [
   },
   {
     "id": 2802,
-    "line": "I'm turnin' into a nigga that thinks about money and women",
+    "line": "I'm turnin' into a N**** that thinks about money and women",
     "song_lyrics_url": "https://genius.com/Drake-know-yourself-lyrics",
     "song_name": "Know Yourself",
     "artist_name": "Drake",
@@ -22425,7 +22425,7 @@ module.exports = [
   },
   {
     "id": 2804,
-    "line": "That's just how shit happened to go",
+    "line": "That's just how s*** happened to go",
     "song_lyrics_url": "https://genius.com/Drake-know-yourself-lyrics",
     "song_name": "Know Yourself",
     "artist_name": "Drake",
@@ -22641,7 +22641,7 @@ module.exports = [
   },
   {
     "id": 2831,
-    "line": "When I go to check a bitch, ain't no tellin'",
+    "line": "When I go to check a b****, ain't no tellin'",
     "song_lyrics_url": "https://genius.com/Drake-no-tellin-lyrics",
     "song_name": "No Tellin'",
     "artist_name": "Drake",
@@ -22721,7 +22721,7 @@ module.exports = [
   },
   {
     "id": 2841,
-    "line": "Fuck it, all you niggas two-faced",
+    "line": "f**k it, all you N****s two-faced",
     "song_lyrics_url": "https://genius.com/Drake-no-tellin-lyrics",
     "song_name": "No Tellin'",
     "artist_name": "Drake",
@@ -22801,7 +22801,7 @@ module.exports = [
   },
   {
     "id": 2851,
-    "line": "Yeah, I gave these boys a shot and they fuckin' failed",
+    "line": "Yeah, I gave these boys a shot and they f**kin' failed",
     "song_lyrics_url": "https://genius.com/Drake-no-tellin-lyrics",
     "song_name": "No Tellin'",
     "artist_name": "Drake",
@@ -22809,7 +22809,7 @@ module.exports = [
   },
   {
     "id": 2852,
-    "line": "Niggas like \"You took the summer off? We couldn't tell",
+    "line": "N****s like \"You took the summer off? We couldn't tell",
     "song_lyrics_url": "https://genius.com/Drake-no-tellin-lyrics",
     "song_name": "No Tellin'",
     "artist_name": "Drake",
@@ -22841,7 +22841,7 @@ module.exports = [
   },
   {
     "id": 2856,
-    "line": "But fuck it, somebody gotta do it",
+    "line": "But f**k it, somebody gotta do it",
     "song_lyrics_url": "https://genius.com/Drake-no-tellin-lyrics",
     "song_name": "No Tellin'",
     "artist_name": "Drake",
@@ -22857,7 +22857,7 @@ module.exports = [
   },
   {
     "id": 2858,
-    "line": "Fuck, I may as well do it",
+    "line": "f**k, I may as well do it",
     "song_lyrics_url": "https://genius.com/Drake-no-tellin-lyrics",
     "song_name": "No Tellin'",
     "artist_name": "Drake",
@@ -22889,7 +22889,7 @@ module.exports = [
   },
   {
     "id": 2862,
-    "line": "When I go to check a bitch, ain't no tellin'",
+    "line": "When I go to check a b****, ain't no tellin'",
     "song_lyrics_url": "https://genius.com/Drake-no-tellin-lyrics",
     "song_name": "No Tellin'",
     "artist_name": "Drake",
@@ -22945,7 +22945,7 @@ module.exports = [
   },
   {
     "id": 2869,
-    "line": "Okay, I had to switch the flow up on you niggas",
+    "line": "Okay, I had to switch the flow up on you N****s",
     "song_lyrics_url": "https://genius.com/Drake-no-tellin-lyrics",
     "song_name": "No Tellin'",
     "artist_name": "Drake",
@@ -22953,7 +22953,7 @@ module.exports = [
   },
   {
     "id": 2870,
-    "line": "The shit was gettin' too predictable",
+    "line": "The s*** was gettin' too predictable",
     "song_lyrics_url": "https://genius.com/Drake-no-tellin-lyrics",
     "song_name": "No Tellin'",
     "artist_name": "Drake",
@@ -22961,7 +22961,7 @@ module.exports = [
   },
   {
     "id": 2871,
-    "line": "The new shit is on steroids, I would never pass a physical",
+    "line": "The new s*** is on steroids, I would never pass a physical",
     "song_lyrics_url": "https://genius.com/Drake-no-tellin-lyrics",
     "song_name": "No Tellin'",
     "artist_name": "Drake",
@@ -23025,7 +23025,7 @@ module.exports = [
   },
   {
     "id": 2879,
-    "line": "Buncha' niggas chasing after all these women",
+    "line": "Buncha' N****s chasing after all these women",
     "song_lyrics_url": "https://genius.com/Drake-no-tellin-lyrics",
     "song_name": "No Tellin'",
     "artist_name": "Drake",
@@ -23041,7 +23041,7 @@ module.exports = [
   },
   {
     "id": 2881,
-    "line": "Buncha' out of season women fuckin' off-season niggas",
+    "line": "Buncha' out of season women f**kin' off-season N****s",
     "song_lyrics_url": "https://genius.com/Drake-no-tellin-lyrics",
     "song_name": "No Tellin'",
     "artist_name": "Drake",
@@ -23105,7 +23105,7 @@ module.exports = [
   },
   {
     "id": 2889,
-    "line": "From the six to the fucking 876",
+    "line": "From the six to the f**king 876",
     "song_lyrics_url": "https://genius.com/Drake-no-tellin-lyrics",
     "song_name": "No Tellin'",
     "artist_name": "Drake",
@@ -23137,7 +23137,7 @@ module.exports = [
   },
   {
     "id": 2893,
-    "line": "When I go to check a bitch, ain't no tellin'",
+    "line": "When I go to check a b****, ain't no tellin'",
     "song_lyrics_url": "https://genius.com/Drake-no-tellin-lyrics",
     "song_name": "No Tellin'",
     "artist_name": "Drake",
@@ -23225,7 +23225,7 @@ module.exports = [
   },
   {
     "id": 2904,
-    "line": "Niggas think they can come take what I got",
+    "line": "N****s think they can come take what I got",
     "song_lyrics_url": "https://genius.com/Drake-no-tellin-lyrics",
     "song_name": "No Tellin'",
     "artist_name": "Drake",
@@ -23585,7 +23585,7 @@ module.exports = [
   },
   {
     "id": 2949,
-    "line": "Plan this shit out on my own, the way it should go",
+    "line": "Plan this s*** out on my own, the way it should go",
     "song_lyrics_url": "https://genius.com/Drake-madonna-lyrics",
     "song_name": "Madonna",
     "artist_name": "Drake",
@@ -23689,7 +23689,7 @@ module.exports = [
   },
   {
     "id": 2962,
-    "line": "Watch your motherfuckin' tone, boy, get hurt, boy (get hurt)",
+    "line": "Watch your motherf**kin' tone, boy, get hurt, boy (get hurt)",
     "song_lyrics_url": "https://genius.com/Drake-6-god-lyrics",
     "song_name": "6 God",
     "artist_name": "Drake",
@@ -23697,7 +23697,7 @@ module.exports = [
   },
   {
     "id": 2963,
-    "line": "Aww, here go another mo'fucker that don't understand",
+    "line": "Aww, here go another mo'f**ker that don't understand",
     "song_lyrics_url": "https://genius.com/Drake-6-god-lyrics",
     "song_name": "6 God",
     "artist_name": "Drake",
@@ -23729,7 +23729,7 @@ module.exports = [
   },
   {
     "id": 2967,
-    "line": "I hate comin' through stuntin' on niggas that I know",
+    "line": "I hate comin' through stuntin' on N****s that I know",
     "song_lyrics_url": "https://genius.com/Drake-6-god-lyrics",
     "song_name": "6 God",
     "artist_name": "Drake",
@@ -23817,7 +23817,7 @@ module.exports = [
   },
   {
     "id": 2978,
-    "line": "You too worried 'bout the bitches",
+    "line": "You too worried 'bout the b****es",
     "song_lyrics_url": "https://genius.com/Drake-6-god-lyrics",
     "song_name": "6 God",
     "artist_name": "Drake",
@@ -23841,7 +23841,7 @@ module.exports = [
   },
   {
     "id": 2981,
-    "line": "She ain't fuckin' with you niggas",
+    "line": "She ain't f**kin' with you N****s",
     "song_lyrics_url": "https://genius.com/Drake-6-god-lyrics",
     "song_name": "6 God",
     "artist_name": "Drake",
@@ -23865,7 +23865,7 @@ module.exports = [
   },
   {
     "id": 2984,
-    "line": "I hear the talk on road is I'm the shit, boy",
+    "line": "I hear the talk on road is I'm the s***, boy",
     "song_lyrics_url": "https://genius.com/Drake-6-god-lyrics",
     "song_name": "6 God",
     "artist_name": "Drake",
@@ -23873,7 +23873,7 @@ module.exports = [
   },
   {
     "id": 2985,
-    "line": "Phone call back home, shit is hot up in the 6, boy (hot up in the 6)",
+    "line": "Phone call back home, s*** is hot up in the 6, boy (hot up in the 6)",
     "song_lyrics_url": "https://genius.com/Drake-6-god-lyrics",
     "song_name": "6 God",
     "artist_name": "Drake",
@@ -23881,7 +23881,7 @@ module.exports = [
   },
   {
     "id": 2986,
-    "line": "Shit hot up in the 6 right now, shit hot up in the 6, boy (hot up in the 6)",
+    "line": "s*** hot up in the 6 right now, s*** hot up in the 6, boy (hot up in the 6)",
     "song_lyrics_url": "https://genius.com/Drake-6-god-lyrics",
     "song_name": "6 God",
     "artist_name": "Drake",
@@ -23889,7 +23889,7 @@ module.exports = [
   },
   {
     "id": 2987,
-    "line": "Shit is hot up in the 6 right now",
+    "line": "s*** is hot up in the 6 right now",
     "song_lyrics_url": "https://genius.com/Drake-6-god-lyrics",
     "song_name": "6 God",
     "artist_name": "Drake",
@@ -23913,7 +23913,7 @@ module.exports = [
   },
   {
     "id": 2990,
-    "line": "Sold a couple Bentley last week, them were my old toys (man this shit is old)",
+    "line": "Sold a couple Bentley last week, them were my old toys (man this s*** is old)",
     "song_lyrics_url": "https://genius.com/Drake-6-god-lyrics",
     "song_name": "6 God",
     "artist_name": "Drake",
@@ -23921,7 +23921,7 @@ module.exports = [
   },
   {
     "id": 2991,
-    "line": "I give a fuck about old boy (man that boy old)",
+    "line": "I give a f**k about old boy (man that boy old)",
     "song_lyrics_url": "https://genius.com/Drake-6-god-lyrics",
     "song_name": "6 God",
     "artist_name": "Drake",
@@ -23929,7 +23929,7 @@ module.exports = [
   },
   {
     "id": 2992,
-    "line": "I give a fuck about his squad, boy (man that thing old)",
+    "line": "I give a f**k about his squad, boy (man that thing old)",
     "song_lyrics_url": "https://genius.com/Drake-6-god-lyrics",
     "song_name": "6 God",
     "artist_name": "Drake",
@@ -23937,7 +23937,7 @@ module.exports = [
   },
   {
     "id": 2993,
-    "line": "I give a fuck about your mob, boy",
+    "line": "I give a f**k about your mob, boy",
     "song_lyrics_url": "https://genius.com/Drake-6-god-lyrics",
     "song_name": "6 God",
     "artist_name": "Drake",
@@ -24009,7 +24009,7 @@ module.exports = [
   },
   {
     "id": 3002,
-    "line": "Bitch, I know you heard things",
+    "line": "b****, I know you heard things",
     "song_lyrics_url": "https://genius.com/Drake-6-god-lyrics",
     "song_name": "6 God",
     "artist_name": "Drake",
@@ -24033,7 +24033,7 @@ module.exports = [
   },
   {
     "id": 3005,
-    "line": "Coming from the motherfucking 6 side",
+    "line": "Coming from the motherf**king 6 side",
     "song_lyrics_url": "https://genius.com/Drake-6-god-lyrics",
     "song_name": "6 God",
     "artist_name": "Drake",
@@ -24049,7 +24049,7 @@ module.exports = [
   },
   {
     "id": 3007,
-    "line": "Niggas wouldn't make it on this side",
+    "line": "N****s wouldn't make it on this side",
     "song_lyrics_url": "https://genius.com/Drake-6-god-lyrics",
     "song_name": "6 God",
     "artist_name": "Drake",
@@ -24105,7 +24105,7 @@ module.exports = [
   },
   {
     "id": 3014,
-    "line": "Yeah, so I don't give a fuck about what anybody sayin' right now",
+    "line": "Yeah, so I don't give a f**k about what anybody sayin' right now",
     "song_lyrics_url": "https://genius.com/Drake-6-god-lyrics",
     "song_name": "6 God",
     "artist_name": "Drake",
@@ -24145,7 +24145,7 @@ module.exports = [
   },
   {
     "id": 3019,
-    "line": "Go in the studio with fuckin' clips, clips, ammo!",
+    "line": "Go in the studio with f**kin' clips, clips, ammo!",
     "song_lyrics_url": "https://genius.com/Drake-star67-lyrics",
     "song_name": "Star67",
     "artist_name": "Drake",
@@ -24177,7 +24177,7 @@ module.exports = [
   },
   {
     "id": 3023,
-    "line": "Shut the fuck up, text from a centerfold, I ain't reply",
+    "line": "Shut the f**k up, text from a centerfold, I ain't reply",
     "song_lyrics_url": "https://genius.com/Drake-star67-lyrics",
     "song_name": "Star67",
     "artist_name": "Drake",
@@ -24201,7 +24201,7 @@ module.exports = [
   },
   {
     "id": 3026,
-    "line": "Niggas know I'm credible, ain't no pussy on a pedestal",
+    "line": "N****s know I'm credible, ain't no pussy on a pedestal",
     "song_lyrics_url": "https://genius.com/Drake-star67-lyrics",
     "song_name": "Star67",
     "artist_name": "Drake",
@@ -24217,7 +24217,7 @@ module.exports = [
   },
   {
     "id": 3028,
-    "line": "Doin' 90 on the bridge like, \"nigga you already know",
+    "line": "Doin' 90 on the bridge like, \"N**** you already know",
     "song_lyrics_url": "https://genius.com/Drake-star67-lyrics",
     "song_name": "Star67",
     "artist_name": "Drake",
@@ -24257,7 +24257,7 @@ module.exports = [
   },
   {
     "id": 3033,
-    "line": "My nigga Biz said, \"the first mill gon' change you",
+    "line": "My N**** Biz said, \"the first mill gon' change you",
     "song_lyrics_url": "https://genius.com/Drake-star67-lyrics",
     "song_name": "Star67",
     "artist_name": "Drake",
@@ -24273,7 +24273,7 @@ module.exports = [
   },
   {
     "id": 3035,
-    "line": "That's my vendetta, keep this shit together",
+    "line": "That's my vendetta, keep this s*** together",
     "song_lyrics_url": "https://genius.com/Drake-star67-lyrics",
     "song_name": "Star67",
     "artist_name": "Drake",
@@ -24369,7 +24369,7 @@ module.exports = [
   },
   {
     "id": 3047,
-    "line": "After helpin' mama out, the shit would disappear",
+    "line": "After helpin' mama out, the s*** would disappear",
     "song_lyrics_url": "https://genius.com/Drake-star67-lyrics",
     "song_name": "Star67",
     "artist_name": "Drake",
@@ -24433,7 +24433,7 @@ module.exports = [
   },
   {
     "id": 3055,
-    "line": "But I just couldn't do it, had to leave that shit alone, man",
+    "line": "But I just couldn't do it, had to leave that s*** alone, man",
     "song_lyrics_url": "https://genius.com/Drake-star67-lyrics",
     "song_name": "Star67",
     "artist_name": "Drake",
@@ -24505,7 +24505,7 @@ module.exports = [
   },
   {
     "id": 3064,
-    "line": "Blowin' up, my niggas really need the whole thing",
+    "line": "Blowin' up, my N****s really need the whole thing",
     "song_lyrics_url": "https://genius.com/Drake-star67-lyrics",
     "song_name": "Star67",
     "artist_name": "Drake",
@@ -24521,7 +24521,7 @@ module.exports = [
   },
   {
     "id": 3066,
-    "line": "Blowin' up, my niggas really need the whole thing",
+    "line": "Blowin' up, my N****s really need the whole thing",
     "song_lyrics_url": "https://genius.com/Drake-star67-lyrics",
     "song_name": "Star67",
     "artist_name": "Drake",
@@ -24617,7 +24617,7 @@ module.exports = [
   },
   {
     "id": 3078,
-    "line": "Blowin' up, my niggas really need the whole thing",
+    "line": "Blowin' up, my N****s really need the whole thing",
     "song_lyrics_url": "https://genius.com/Drake-star67-lyrics",
     "song_name": "Star67",
     "artist_name": "Drake",
@@ -24625,7 +24625,7 @@ module.exports = [
   },
   {
     "id": 3079,
-    "line": "Young nigga preach",
+    "line": "Young N**** preach",
     "song_lyrics_url": "https://genius.com/Drake-preach-lyrics",
     "song_name": "Preach",
     "artist_name": "Drake",
@@ -24641,7 +24641,7 @@ module.exports = [
   },
   {
     "id": 3081,
-    "line": "Young nigga preach",
+    "line": "Young N**** preach",
     "song_lyrics_url": "https://genius.com/Drake-preach-lyrics",
     "song_name": "Preach",
     "artist_name": "Drake",
@@ -24753,7 +24753,7 @@ module.exports = [
   },
   {
     "id": 3095,
-    "line": "You old niggas boring as bones",
+    "line": "You old N****s boring as bones",
     "song_lyrics_url": "https://genius.com/Drake-preach-lyrics",
     "song_name": "Preach",
     "artist_name": "Drake",
@@ -24817,7 +24817,7 @@ module.exports = [
   },
   {
     "id": 3103,
-    "line": "Drink one, fuck you",
+    "line": "Drink one, f**k you",
     "song_lyrics_url": "https://genius.com/Drake-preach-lyrics",
     "song_name": "Preach",
     "artist_name": "Drake",
@@ -24825,7 +24825,7 @@ module.exports = [
   },
   {
     "id": 3104,
-    "line": "Young nigga preach",
+    "line": "Young N**** preach",
     "song_lyrics_url": "https://genius.com/Drake-preach-lyrics",
     "song_name": "Preach",
     "artist_name": "Drake",
@@ -24841,7 +24841,7 @@ module.exports = [
   },
   {
     "id": 3106,
-    "line": "Young nigga preach",
+    "line": "Young N**** preach",
     "song_lyrics_url": "https://genius.com/Drake-preach-lyrics",
     "song_name": "Preach",
     "artist_name": "Drake",
@@ -24857,7 +24857,7 @@ module.exports = [
   },
   {
     "id": 3108,
-    "line": "Young nigga preach",
+    "line": "Young N**** preach",
     "song_lyrics_url": "https://genius.com/Drake-preach-lyrics",
     "song_name": "Preach",
     "artist_name": "Drake",
@@ -24993,7 +24993,7 @@ module.exports = [
   },
   {
     "id": 3125,
-    "line": "Niggas is all in their feelings these days",
+    "line": "N****s is all in their feelings these days",
     "song_lyrics_url": "https://genius.com/Drake-preach-lyrics",
     "song_name": "Preach",
     "artist_name": "Drake",
@@ -25025,7 +25025,7 @@ module.exports = [
   },
   {
     "id": 3129,
-    "line": "Young nigga preach",
+    "line": "Young N**** preach",
     "song_lyrics_url": "https://genius.com/Drake-preach-lyrics",
     "song_name": "Preach",
     "artist_name": "Drake",
@@ -25041,7 +25041,7 @@ module.exports = [
   },
   {
     "id": 3131,
-    "line": "Young nigga preach",
+    "line": "Young N**** preach",
     "song_lyrics_url": "https://genius.com/Drake-preach-lyrics",
     "song_name": "Preach",
     "artist_name": "Drake",
@@ -25057,7 +25057,7 @@ module.exports = [
   },
   {
     "id": 3133,
-    "line": "Young nigga preach",
+    "line": "Young N**** preach",
     "song_lyrics_url": "https://genius.com/Drake-preach-lyrics",
     "song_name": "Preach",
     "artist_name": "Drake",
@@ -25169,7 +25169,7 @@ module.exports = [
   },
   {
     "id": 3147,
-    "line": "That shit ain�t my fault, girl cause I'm lonely",
+    "line": "That s*** ain�t my fault, girl cause I'm lonely",
     "song_lyrics_url": "https://genius.com/Drake-wednesday-night-interlude-lyrics",
     "song_name": "Wednesday Night Interlude",
     "artist_name": "Drake",
@@ -25241,7 +25241,7 @@ module.exports = [
   },
   {
     "id": 3156,
-    "line": "Cause fuck it, I�m not here to judge",
+    "line": "Cause f**k it, I�m not here to judge",
     "song_lyrics_url": "https://genius.com/Drake-wednesday-night-interlude-lyrics",
     "song_name": "Wednesday Night Interlude",
     "artist_name": "Drake",
@@ -25249,7 +25249,7 @@ module.exports = [
   },
   {
     "id": 3157,
-    "line": "Fuck it, I�m not here to love everything you did to ball",
+    "line": "f**k it, I�m not here to love everything you did to ball",
     "song_lyrics_url": "https://genius.com/Drake-wednesday-night-interlude-lyrics",
     "song_name": "Wednesday Night Interlude",
     "artist_name": "Drake",
@@ -25257,7 +25257,7 @@ module.exports = [
   },
   {
     "id": 3158,
-    "line": "Fuck it, I'm just glad you called",
+    "line": "f**k it, I'm just glad you called",
     "song_lyrics_url": "https://genius.com/Drake-wednesday-night-interlude-lyrics",
     "song_name": "Wednesday Night Interlude",
     "artist_name": "Drake",
@@ -25329,7 +25329,7 @@ module.exports = [
   },
   {
     "id": 3167,
-    "line": "This shit ain�t my fault",
+    "line": "This s*** ain�t my fault",
     "song_lyrics_url": "https://genius.com/Drake-wednesday-night-interlude-lyrics",
     "song_name": "Wednesday Night Interlude",
     "artist_name": "Drake",
@@ -25337,7 +25337,7 @@ module.exports = [
   },
   {
     "id": 3168,
-    "line": "Boys, now listen, we got more motherfuckin' TV screens",
+    "line": "Boys, now listen, we got more motherf**kin' TV screens",
     "song_lyrics_url": "https://genius.com/Drake-used-to-lyrics",
     "song_name": "Used To",
     "artist_name": "Drake",
@@ -25345,7 +25345,7 @@ module.exports = [
   },
   {
     "id": 3169,
-    "line": "On the outside the damn tour bus than on that motherfucker",
+    "line": "On the outside the damn tour bus than on that motherf**ker",
     "song_lyrics_url": "https://genius.com/Drake-used-to-lyrics",
     "song_name": "Used To",
     "artist_name": "Drake",
@@ -25361,7 +25361,7 @@ module.exports = [
   },
   {
     "id": 3171,
-    "line": "We come through motherfuckin' hang gliding",
+    "line": "We come through motherf**kin' hang gliding",
     "song_lyrics_url": "https://genius.com/Drake-used-to-lyrics",
     "song_name": "Used To",
     "artist_name": "Drake",
@@ -25369,7 +25369,7 @@ module.exports = [
   },
   {
     "id": 3172,
-    "line": "Off motherfuckin' Versace skyscrapers",
+    "line": "Off motherf**kin' Versace skyscrapers",
     "song_lyrics_url": "https://genius.com/Drake-used-to-lyrics",
     "song_name": "Used To",
     "artist_name": "Drake",
@@ -25393,7 +25393,7 @@ module.exports = [
   },
   {
     "id": 3175,
-    "line": "Yeah, real 6 side shit",
+    "line": "Yeah, real 6 side s***",
     "song_lyrics_url": "https://genius.com/Drake-used-to-lyrics",
     "song_name": "Used To",
     "artist_name": "Drake",
@@ -25417,7 +25417,7 @@ module.exports = [
   },
   {
     "id": 3178,
-    "line": "You gotta remind 'em where the fuck you at",
+    "line": "You gotta remind 'em where the f**k you at",
     "song_lyrics_url": "https://genius.com/Drake-used-to-lyrics",
     "song_name": "Used To",
     "artist_name": "Drake",
@@ -25457,7 +25457,7 @@ module.exports = [
   },
   {
     "id": 3183,
-    "line": "Jewels look like I found a motherfuckin' treasure map",
+    "line": "Jewels look like I found a motherf**kin' treasure map",
     "song_lyrics_url": "https://genius.com/Drake-used-to-lyrics",
     "song_name": "Used To",
     "artist_name": "Drake",
@@ -25465,7 +25465,7 @@ module.exports = [
   },
   {
     "id": 3184,
-    "line": "And ain't told no one where the fuck it's at",
+    "line": "And ain't told no one where the f**k it's at",
     "song_lyrics_url": "https://genius.com/Drake-used-to-lyrics",
     "song_name": "Used To",
     "artist_name": "Drake",
@@ -25545,7 +25545,7 @@ module.exports = [
   },
   {
     "id": 3194,
-    "line": "Like a nigga went to Jackson State or Grambling",
+    "line": "Like a N**** went to Jackson State or Grambling",
     "song_lyrics_url": "https://genius.com/Drake-used-to-lyrics",
     "song_name": "Used To",
     "artist_name": "Drake",
@@ -25569,7 +25569,7 @@ module.exports = [
   },
   {
     "id": 3197,
-    "line": "Bring it to the bedroom, you know that shit is candle lit",
+    "line": "Bring it to the bedroom, you know that s*** is candle lit",
     "song_lyrics_url": "https://genius.com/Drake-used-to-lyrics",
     "song_name": "Used To",
     "artist_name": "Drake",
@@ -25697,7 +25697,7 @@ module.exports = [
   },
   {
     "id": 3213,
-    "line": "Yea, I'm fuckin' glowin' up",
+    "line": "Yea, I'm f**kin' glowin' up",
     "song_lyrics_url": "https://genius.com/Drake-used-to-lyrics",
     "song_name": "Used To",
     "artist_name": "Drake",
@@ -25705,7 +25705,7 @@ module.exports = [
   },
   {
     "id": 3214,
-    "line": "Shaq postin' up on niggas that I used to have posters of",
+    "line": "Shaq postin' up on N****s that I used to have posters of",
     "song_lyrics_url": "https://genius.com/Drake-used-to-lyrics",
     "song_name": "Used To",
     "artist_name": "Drake",
@@ -25721,7 +25721,7 @@ module.exports = [
   },
   {
     "id": 3216,
-    "line": "Let's be real, nigga, you couldn't have made it that",
+    "line": "Let's be real, N****, you couldn't have made it that",
     "song_lyrics_url": "https://genius.com/Drake-used-to-lyrics",
     "song_name": "Used To",
     "artist_name": "Drake",
@@ -25737,7 +25737,7 @@ module.exports = [
   },
   {
     "id": 3218,
-    "line": "You're fuckin' with the best, man, I'm too advanced",
+    "line": "You're f**kin' with the best, man, I'm too advanced",
     "song_lyrics_url": "https://genius.com/Drake-used-to-lyrics",
     "song_name": "Used To",
     "artist_name": "Drake",
@@ -25785,7 +25785,7 @@ module.exports = [
   },
   {
     "id": 3224,
-    "line": "Think I got the shit that had the city going crazy",
+    "line": "Think I got the s*** that had the city going crazy",
     "song_lyrics_url": "https://genius.com/Drake-used-to-lyrics",
     "song_name": "Used To",
     "artist_name": "Drake",
@@ -25857,7 +25857,7 @@ module.exports = [
   },
   {
     "id": 3233,
-    "line": "When you get to where the fuck I'm at",
+    "line": "When you get to where the f**k I'm at",
     "song_lyrics_url": "https://genius.com/Drake-used-to-lyrics",
     "song_name": "Used To",
     "artist_name": "Drake",
@@ -25921,7 +25921,7 @@ module.exports = [
   },
   {
     "id": 3241,
-    "line": "Goin' at a nigga throat like a herringbone",
+    "line": "Goin' at a N**** throat like a herringbone",
     "song_lyrics_url": "https://genius.com/Drake-used-to-lyrics",
     "song_name": "Used To",
     "artist_name": "Drake",
@@ -25937,7 +25937,7 @@ module.exports = [
   },
   {
     "id": 3243,
-    "line": "Got a fuckin' halo over my devil horns",
+    "line": "Got a f**kin' halo over my devil horns",
     "song_lyrics_url": "https://genius.com/Drake-used-to-lyrics",
     "song_name": "Used To",
     "artist_name": "Drake",
@@ -25953,7 +25953,7 @@ module.exports = [
   },
   {
     "id": 3245,
-    "line": "Suck a nigga dick for a iPhone 6",
+    "line": "Suck a N**** dick for a iPhone 6",
     "song_lyrics_url": "https://genius.com/Drake-used-to-lyrics",
     "song_name": "Used To",
     "artist_name": "Drake",
@@ -25961,7 +25961,7 @@ module.exports = [
   },
   {
     "id": 3246,
-    "line": "Fuck my nigga Terry for a new Blackberry",
+    "line": "f**k my N**** Terry for a new Blackberry",
     "song_lyrics_url": "https://genius.com/Drake-used-to-lyrics",
     "song_name": "Used To",
     "artist_name": "Drake",
@@ -25985,7 +25985,7 @@ module.exports = [
   },
   {
     "id": 3249,
-    "line": "Lord, tell 'em bitches I ain't got no times",
+    "line": "Lord, tell 'em b****es I ain't got no times",
     "song_lyrics_url": "https://genius.com/Drake-used-to-lyrics",
     "song_name": "Used To",
     "artist_name": "Drake",
@@ -26009,7 +26009,7 @@ module.exports = [
   },
   {
     "id": 3252,
-    "line": "In the same sentence, I'm fuckin' her mind",
+    "line": "In the same sentence, I'm f**kin' her mind",
     "song_lyrics_url": "https://genius.com/Drake-used-to-lyrics",
     "song_name": "Used To",
     "artist_name": "Drake",
@@ -26033,7 +26033,7 @@ module.exports = [
   },
   {
     "id": 3255,
-    "line": "And when my bloods start shootin' that's B-roll, bitch",
+    "line": "And when my bloods start shootin' that's B-roll, b****",
     "song_lyrics_url": "https://genius.com/Drake-used-to-lyrics",
     "song_name": "Used To",
     "artist_name": "Drake",
@@ -26177,7 +26177,7 @@ module.exports = [
   },
   {
     "id": 3273,
-    "line": "These motherfuckers trippin' so hard I had to look down and double check cause I thought they had their shoes tied together�motherfuckers got they shoes tied together",
+    "line": "These motherf**kers trippin' so hard I had to look down and double check cause I thought they had their shoes tied together�motherf**kers got they shoes tied together",
     "song_lyrics_url": "https://genius.com/Drake-used-to-lyrics",
     "song_name": "Used To",
     "artist_name": "Drake",
@@ -26201,7 +26201,7 @@ module.exports = [
   },
   {
     "id": 3276,
-    "line": "How about this? How about don't ask me no more motherfucking questions? We ain't doing no interview!",
+    "line": "How about this? How about don't ask me no more motherf**king questions? We ain't doing no interview!",
     "song_lyrics_url": "https://genius.com/Drake-used-to-lyrics",
     "song_name": "Used To",
     "artist_name": "Drake",
@@ -26241,7 +26241,7 @@ module.exports = [
   },
   {
     "id": 3281,
-    "line": "No ho shit, no fuckin' ho shit, save that for your shit",
+    "line": "No ho s***, no f**kin' ho s***, save that for your s***",
     "song_lyrics_url": "https://genius.com/Drake-6-man-lyrics",
     "song_name": "6 Man",
     "artist_name": "Drake",
@@ -26249,7 +26249,7 @@ module.exports = [
   },
   {
     "id": 3282,
-    "line": "I don't need no fuckin' body, I run my own shit",
+    "line": "I don't need no f**kin' body, I run my own s***",
     "song_lyrics_url": "https://genius.com/Drake-6-man-lyrics",
     "song_name": "6 Man",
     "artist_name": "Drake",
@@ -26281,7 +26281,7 @@ module.exports = [
   },
   {
     "id": 3286,
-    "line": "I kill careers and cut the lights off, this shit is frightenin'",
+    "line": "I kill careers and cut the lights off, this s*** is frightenin'",
     "song_lyrics_url": "https://genius.com/Drake-6-man-lyrics",
     "song_name": "6 Man",
     "artist_name": "Drake",
@@ -26289,7 +26289,7 @@ module.exports = [
   },
   {
     "id": 3287,
-    "line": "I knew it would end up like this, I'm fuckin' psychic",
+    "line": "I knew it would end up like this, I'm f**kin' psychic",
     "song_lyrics_url": "https://genius.com/Drake-6-man-lyrics",
     "song_name": "6 Man",
     "artist_name": "Drake",
@@ -26329,7 +26329,7 @@ module.exports = [
   },
   {
     "id": 3292,
-    "line": "Young but I'm gettin' every single motherfuckin' thing I'm owed",
+    "line": "Young but I'm gettin' every single motherf**kin' thing I'm owed",
     "song_lyrics_url": "https://genius.com/Drake-6-man-lyrics",
     "song_name": "6 Man",
     "artist_name": "Drake",
@@ -26345,7 +26345,7 @@ module.exports = [
   },
   {
     "id": 3294,
-    "line": "I'm here to fuck with nigga's souls, my heart is cold",
+    "line": "I'm here to f**k with N****'s souls, my heart is cold",
     "song_lyrics_url": "https://genius.com/Drake-6-man-lyrics",
     "song_name": "6 Man",
     "artist_name": "Drake",
@@ -26409,7 +26409,7 @@ module.exports = [
   },
   {
     "id": 3302,
-    "line": "I didn't do this fuckin' tape for CNN",
+    "line": "I didn't do this f**kin' tape for CNN",
     "song_lyrics_url": "https://genius.com/Drake-6-man-lyrics",
     "song_name": "6 Man",
     "artist_name": "Drake",
@@ -26417,7 +26417,7 @@ module.exports = [
   },
   {
     "id": 3303,
-    "line": "I am not tryna win awards, that shit looked forced",
+    "line": "I am not tryna win awards, that s*** looked forced",
     "song_lyrics_url": "https://genius.com/Drake-6-man-lyrics",
     "song_name": "6 Man",
     "artist_name": "Drake",
@@ -26769,7 +26769,7 @@ module.exports = [
   },
   {
     "id": 3347,
-    "line": "I can't be out here on no laid back shit",
+    "line": "I can't be out here on no laid back s***",
     "song_lyrics_url": "https://genius.com/Drake-now-and-forever-lyrics",
     "song_name": "Now & Forever",
     "artist_name": "Drake",
@@ -26777,7 +26777,7 @@ module.exports = [
   },
   {
     "id": 3348,
-    "line": "I can't be out here on no laid back shit",
+    "line": "I can't be out here on no laid back s***",
     "song_lyrics_url": "https://genius.com/Drake-now-and-forever-lyrics",
     "song_name": "Now & Forever",
     "artist_name": "Drake",
@@ -26985,7 +26985,7 @@ module.exports = [
   },
   {
     "id": 3374,
-    "line": "I got some shit for you to come and get",
+    "line": "I got some s*** for you to come and get",
     "song_lyrics_url": "https://genius.com/Drake-company-lyrics",
     "song_name": "Company",
     "artist_name": "Drake",
@@ -27009,7 +27009,7 @@ module.exports = [
   },
   {
     "id": 3377,
-    "line": "Oh, you pullin' shit together, I can tell, baby",
+    "line": "Oh, you pullin' s*** together, I can tell, baby",
     "song_lyrics_url": "https://genius.com/Drake-company-lyrics",
     "song_name": "Company",
     "artist_name": "Drake",
@@ -27041,7 +27041,7 @@ module.exports = [
   },
   {
     "id": 3381,
-    "line": "I need a girl who gon' trust me, someone to fuck me",
+    "line": "I need a girl who gon' trust me, someone to f**k me",
     "song_lyrics_url": "https://genius.com/Drake-company-lyrics",
     "song_name": "Company",
     "artist_name": "Drake",
@@ -27129,7 +27129,7 @@ module.exports = [
   },
   {
     "id": 3392,
-    "line": "I know a girl I should propose to, but we just on some different shit",
+    "line": "I know a girl I should propose to, but we just on some different s***",
     "song_lyrics_url": "https://genius.com/Drake-company-lyrics",
     "song_name": "Company",
     "artist_name": "Drake",
@@ -27137,7 +27137,7 @@ module.exports = [
   },
   {
     "id": 3393,
-    "line": "She on some up at 9AM already cookin' in the kitchen shit",
+    "line": "She on some up at 9AM already cookin' in the kitchen s***",
     "song_lyrics_url": "https://genius.com/Drake-company-lyrics",
     "song_name": "Company",
     "artist_name": "Drake",
@@ -27145,7 +27145,7 @@ module.exports = [
   },
   {
     "id": 3394,
-    "line": "And lately we've been fightin' on some, \"why-you-love-the-stripper-shit",
+    "line": "And lately we've been fightin' on some, \"why-you-love-the-stripper-s***",
     "song_lyrics_url": "https://genius.com/Drake-company-lyrics",
     "song_name": "Company",
     "artist_name": "Drake",
@@ -27153,7 +27153,7 @@ module.exports = [
   },
   {
     "id": 3395,
-    "line": "Yeah, she workin' with the spatula, I know she love flippin' shit",
+    "line": "Yeah, she workin' with the spatula, I know she love flippin' s***",
     "song_lyrics_url": "https://genius.com/Drake-company-lyrics",
     "song_name": "Company",
     "artist_name": "Drake",
@@ -27305,7 +27305,7 @@ module.exports = [
   },
   {
     "id": 3414,
-    "line": "It's a couple faces in here that a nigga piped down",
+    "line": "It's a couple faces in here that a N**** piped down",
     "song_lyrics_url": "https://genius.com/Drake-company-lyrics",
     "song_name": "Company",
     "artist_name": "Drake",
@@ -27321,7 +27321,7 @@ module.exports = [
   },
   {
     "id": 3416,
-    "line": "Tour 'round the city, it's the shit right now",
+    "line": "Tour 'round the city, it's the s*** right now",
     "song_lyrics_url": "https://genius.com/Drake-company-lyrics",
     "song_name": "Company",
     "artist_name": "Drake",
@@ -27393,7 +27393,7 @@ module.exports = [
   },
   {
     "id": 3425,
-    "line": "Bitch so bad, coulda thought I owed her somethin'",
+    "line": "b**** so bad, coulda thought I owed her somethin'",
     "song_lyrics_url": "https://genius.com/Drake-company-lyrics",
     "song_name": "Company",
     "artist_name": "Drake",
@@ -27473,7 +27473,7 @@ module.exports = [
   },
   {
     "id": 3435,
-    "line": "She got Google Alerts, them shits go straight to her phone",
+    "line": "She got Google Alerts, them s***s go straight to her phone",
     "song_lyrics_url": "https://genius.com/Drake-you-and-the-6-lyrics",
     "song_name": "You & The 6",
     "artist_name": "Drake",
@@ -27729,7 +27729,7 @@ module.exports = [
   },
   {
     "id": 3467,
-    "line": "Them niggas wannabes, momma",
+    "line": "Them N****s wannabes, momma",
     "song_lyrics_url": "https://genius.com/Drake-you-and-the-6-lyrics",
     "song_name": "You & The 6",
     "artist_name": "Drake",
@@ -27801,7 +27801,7 @@ module.exports = [
   },
   {
     "id": 3476,
-    "line": "You and the six raised me right, that shit saved my life",
+    "line": "You and the six raised me right, that s*** saved my life",
     "song_lyrics_url": "https://genius.com/Drake-you-and-the-6-lyrics",
     "song_name": "You & The 6",
     "artist_name": "Drake",
@@ -27833,7 +27833,7 @@ module.exports = [
   },
   {
     "id": 3480,
-    "line": "That nigga still wearing linen, that nigga still in the club",
+    "line": "That N**** still wearing linen, that N**** still in the club",
     "song_lyrics_url": "https://genius.com/Drake-you-and-the-6-lyrics",
     "song_name": "You & The 6",
     "artist_name": "Drake",
@@ -27849,7 +27849,7 @@ module.exports = [
   },
   {
     "id": 3482,
-    "line": "That nigga Memphis for real, girl, he love you to death",
+    "line": "That N**** Memphis for real, girl, he love you to death",
     "song_lyrics_url": "https://genius.com/Drake-you-and-the-6-lyrics",
     "song_name": "You & The 6",
     "artist_name": "Drake",
@@ -27865,7 +27865,7 @@ module.exports = [
   },
   {
     "id": 3484,
-    "line": "But he just want our forgiveness, and fuck it, look how we living",
+    "line": "But he just want our forgiveness, and f**k it, look how we living",
     "song_lyrics_url": "https://genius.com/Drake-you-and-the-6-lyrics",
     "song_name": "You & The 6",
     "artist_name": "Drake",
@@ -27905,7 +27905,7 @@ module.exports = [
   },
   {
     "id": 3489,
-    "line": "Let's just call this shit even, we got some things to believe in",
+    "line": "Let's just call this s*** even, we got some things to believe in",
     "song_lyrics_url": "https://genius.com/Drake-you-and-the-6-lyrics",
     "song_name": "You & The 6",
     "artist_name": "Drake",
@@ -27929,7 +27929,7 @@ module.exports = [
   },
   {
     "id": 3492,
-    "line": "Shit could've gone south for me, he looked out for me, ma",
+    "line": "s*** could've gone south for me, he looked out for me, ma",
     "song_lyrics_url": "https://genius.com/Drake-you-and-the-6-lyrics",
     "song_name": "You & The 6",
     "artist_name": "Drake",
@@ -27961,7 +27961,7 @@ module.exports = [
   },
   {
     "id": 3496,
-    "line": "Shit that can only be created if you go through it",
+    "line": "s*** that can only be created if you go through it",
     "song_lyrics_url": "https://genius.com/Drake-you-and-the-6-lyrics",
     "song_name": "You & The 6",
     "artist_name": "Drake",
@@ -28065,7 +28065,7 @@ module.exports = [
   },
   {
     "id": 3509,
-    "line": "You and the six raised me right, that shit saved my life",
+    "line": "You and the six raised me right, that s*** saved my life",
     "song_lyrics_url": "https://genius.com/Drake-you-and-the-6-lyrics",
     "song_name": "You & The 6",
     "artist_name": "Drake",
@@ -28177,7 +28177,7 @@ module.exports = [
   },
   {
     "id": 3523,
-    "line": "But fuck what they talkin' about on your timeline",
+    "line": "But f**k what they talkin' about on your timeline",
     "song_lyrics_url": "https://genius.com/Drake-jungle-lyrics",
     "song_name": "Jungle",
     "artist_name": "Drake",
@@ -28193,7 +28193,7 @@ module.exports = [
   },
   {
     "id": 3525,
-    "line": "Fuck what they talkin' about on your timeline",
+    "line": "f**k what they talkin' about on your timeline",
     "song_lyrics_url": "https://genius.com/Drake-jungle-lyrics",
     "song_name": "Jungle",
     "artist_name": "Drake",
@@ -28281,7 +28281,7 @@ module.exports = [
   },
   {
     "id": 3536,
-    "line": "Trust me girl, this shit is everything to me",
+    "line": "Trust me girl, this s*** is everything to me",
     "song_lyrics_url": "https://genius.com/Drake-jungle-lyrics",
     "song_name": "Jungle",
     "artist_name": "Drake",
@@ -28305,7 +28305,7 @@ module.exports = [
   },
   {
     "id": 3539,
-    "line": "This shit is everything to me, this shit is everything",
+    "line": "This s*** is everything to me, this s*** is everything",
     "song_lyrics_url": "https://genius.com/Drake-jungle-lyrics",
     "song_name": "Jungle",
     "artist_name": "Drake",
@@ -28625,7 +28625,7 @@ module.exports = [
   },
   {
     "id": 3579,
-    "line": "Allen Iverson shoe deal, these niggas all in question",
+    "line": "Allen Iverson shoe deal, these N****s all in question",
     "song_lyrics_url": "https://genius.com/Drake-6pm-in-new-york-lyrics",
     "song_name": "6PM in New York",
     "artist_name": "Drake",
@@ -28657,7 +28657,7 @@ module.exports = [
   },
   {
     "id": 3583,
-    "line": "Not to change shit, just to feel a couple things twice",
+    "line": "Not to change s***, just to feel a couple things twice",
     "song_lyrics_url": "https://genius.com/Drake-6pm-in-new-york-lyrics",
     "song_name": "6PM in New York",
     "artist_name": "Drake",
@@ -28801,7 +28801,7 @@ module.exports = [
   },
   {
     "id": 3601,
-    "line": "I'd rather give that 15% to people I fuck with",
+    "line": "I'd rather give that 15% to people I f**k with",
     "song_lyrics_url": "https://genius.com/Drake-6pm-in-new-york-lyrics",
     "song_name": "6PM in New York",
     "artist_name": "Drake",
@@ -28857,7 +28857,7 @@ module.exports = [
   },
   {
     "id": 3608,
-    "line": "Bitches alter my messages like we had words",
+    "line": "b****es alter my messages like we had words",
     "song_lyrics_url": "https://genius.com/Drake-6pm-in-new-york-lyrics",
     "song_name": "6PM in New York",
     "artist_name": "Drake",
@@ -28881,7 +28881,7 @@ module.exports = [
   },
   {
     "id": 3611,
-    "line": "Crazy this year�fuckin' with my image",
+    "line": "Crazy this year�f**kin' with my image",
     "song_lyrics_url": "https://genius.com/Drake-6pm-in-new-york-lyrics",
     "song_name": "6PM in New York",
     "artist_name": "Drake",
@@ -28897,7 +28897,7 @@ module.exports = [
   },
   {
     "id": 3613,
-    "line": "Fuck it, I guess I gotta wait til next year",
+    "line": "f**k it, I guess I gotta wait til next year",
     "song_lyrics_url": "https://genius.com/Drake-6pm-in-new-york-lyrics",
     "song_name": "6PM in New York",
     "artist_name": "Drake",
@@ -28993,7 +28993,7 @@ module.exports = [
   },
   {
     "id": 3625,
-    "line": "I've been whippin' Mercedes and nigga try to budget",
+    "line": "I've been whippin' Mercedes and N**** try to budget",
     "song_lyrics_url": "https://genius.com/Drake-6pm-in-new-york-lyrics",
     "song_name": "6PM in New York",
     "artist_name": "Drake",
@@ -29057,7 +29057,7 @@ module.exports = [
   },
   {
     "id": 3633,
-    "line": "But fuck all the blushin' and fuck your discussions",
+    "line": "But f**k all the blushin' and f**k your discussions",
     "song_lyrics_url": "https://genius.com/Drake-6pm-in-new-york-lyrics",
     "song_name": "6PM in New York",
     "artist_name": "Drake",
@@ -29065,7 +29065,7 @@ module.exports = [
   },
   {
     "id": 3634,
-    "line": "And fuck all the judgement",
+    "line": "And f**k all the judgement",
     "song_lyrics_url": "https://genius.com/Drake-6pm-in-new-york-lyrics",
     "song_name": "6PM in New York",
     "artist_name": "Drake",
@@ -29081,7 +29081,7 @@ module.exports = [
   },
   {
     "id": 3636,
-    "line": "Shit is gettin' so personal in your verses too",
+    "line": "s*** is gettin' so personal in your verses too",
     "song_lyrics_url": "https://genius.com/Drake-6pm-in-new-york-lyrics",
     "song_name": "6PM in New York",
     "artist_name": "Drake",
@@ -29089,7 +29089,7 @@ module.exports = [
   },
   {
     "id": 3637,
-    "line": "I wanna prove that I'm number one over all these niggas",
+    "line": "I wanna prove that I'm number one over all these N****s",
     "song_lyrics_url": "https://genius.com/Drake-6pm-in-new-york-lyrics",
     "song_name": "6PM in New York",
     "artist_name": "Drake",
@@ -29129,7 +29129,7 @@ module.exports = [
   },
   {
     "id": 3642,
-    "line": "Let's drop a tape on these niggas then we'll see what's up",
+    "line": "Let's drop a tape on these N****s then we'll see what's up",
     "song_lyrics_url": "https://genius.com/Drake-6pm-in-new-york-lyrics",
     "song_name": "6PM in New York",
     "artist_name": "Drake",
@@ -29201,7 +29201,7 @@ module.exports = [
   },
   {
     "id": 3651,
-    "line": "Phantom slidin' like the shit just hit a puddle of grease",
+    "line": "Phantom slidin' like the s*** just hit a puddle of grease",
     "song_lyrics_url": "https://genius.com/Drake-6pm-in-new-york-lyrics",
     "song_name": "6PM in New York",
     "artist_name": "Drake",
@@ -29225,7 +29225,7 @@ module.exports = [
   },
   {
     "id": 3654,
-    "line": "Shit you probably flinch if somebody sneeze",
+    "line": "s*** you probably flinch if somebody sneeze",
     "song_lyrics_url": "https://genius.com/Drake-6pm-in-new-york-lyrics",
     "song_name": "6PM in New York",
     "artist_name": "Drake",
@@ -29337,7 +29337,7 @@ module.exports = [
   },
   {
     "id": 3668,
-    "line": "Young nigga from the city�you gotta love it",
+    "line": "Young N**** from the city�you gotta love it",
     "song_lyrics_url": "https://genius.com/Drake-6pm-in-new-york-lyrics",
     "song_name": "6PM in New York",
     "artist_name": "Drake",
@@ -29345,7 +29345,7 @@ module.exports = [
   },
   {
     "id": 3669,
-    "line": "That's the shit I'm talking 'bout though, like you changed up, you don't even fuckin' link nobody no more, you just dash me away like a cyattie. Yo, you cheesed me dog",
+    "line": "That's the s*** I'm talking 'bout though, like you changed up, you don't even f**kin' link nobody no more, you just dash me away like a cyattie. Yo, you cheesed me dog",
     "song_lyrics_url": "https://genius.com/Drake-how-about-now-lyrics",
     "song_name": "How About Now",
     "artist_name": "Drake",
@@ -29393,7 +29393,7 @@ module.exports = [
   },
   {
     "id": 3675,
-    "line": "Shit'll come back around and get you",
+    "line": "s***'ll come back around and get you",
     "song_lyrics_url": "https://genius.com/Drake-how-about-now-lyrics",
     "song_name": "How About Now",
     "artist_name": "Drake",
@@ -29401,7 +29401,7 @@ module.exports = [
   },
   {
     "id": 3676,
-    "line": "Crazy like all my niggas, crazy like all my niggas",
+    "line": "Crazy like all my N****s, crazy like all my N****s",
     "song_lyrics_url": "https://genius.com/Drake-how-about-now-lyrics",
     "song_name": "How About Now",
     "artist_name": "Drake",
@@ -29441,7 +29441,7 @@ module.exports = [
   },
   {
     "id": 3681,
-    "line": "You probably don't remember half the shit a nigga did for you",
+    "line": "You probably don't remember half the s*** a N**** did for you",
     "song_lyrics_url": "https://genius.com/Drake-how-about-now-lyrics",
     "song_name": "How About Now",
     "artist_name": "Drake",
@@ -29449,7 +29449,7 @@ module.exports = [
   },
   {
     "id": 3682,
-    "line": "Yeah, you ain't really fuck with me way back then, girl",
+    "line": "Yeah, you ain't really f**k with me way back then, girl",
     "song_lyrics_url": "https://genius.com/Drake-how-about-now-lyrics",
     "song_name": "How About Now",
     "artist_name": "Drake",
@@ -29545,7 +29545,7 @@ module.exports = [
   },
   {
     "id": 3694,
-    "line": "I bought your dad a bunch of shit for Christmas",
+    "line": "I bought your dad a bunch of s*** for Christmas",
     "song_lyrics_url": "https://genius.com/Drake-how-about-now-lyrics",
     "song_name": "How About Now",
     "artist_name": "Drake",
@@ -29569,7 +29569,7 @@ module.exports = [
   },
   {
     "id": 3697,
-    "line": "I used to always try and burn you CDs of my new shit",
+    "line": "I used to always try and burn you CDs of my new s***",
     "song_lyrics_url": "https://genius.com/Drake-how-about-now-lyrics",
     "song_name": "How About Now",
     "artist_name": "Drake",
@@ -29585,7 +29585,7 @@ module.exports = [
   },
   {
     "id": 3699,
-    "line": "You be like \"oh, word, true shit?",
+    "line": "You be like \"oh, word, true s***?",
     "song_lyrics_url": "https://genius.com/Drake-how-about-now-lyrics",
     "song_name": "How About Now",
     "artist_name": "Drake",
@@ -29681,7 +29681,7 @@ module.exports = [
   },
   {
     "id": 3711,
-    "line": "Yeah, you ain't really fuck with me way back then",
+    "line": "Yeah, you ain't really f**k with me way back then",
     "song_lyrics_url": "https://genius.com/Drake-how-about-now-lyrics",
     "song_name": "How About Now",
     "artist_name": "Drake",
@@ -29809,7 +29809,7 @@ module.exports = [
   },
   {
     "id": 3727,
-    "line": "This shit sound like what being rich feel like, fo real",
+    "line": "This s*** sound like what being rich feel like, fo real",
     "song_lyrics_url": "https://genius.com/Drake-my-side-lyrics",
     "song_name": "My Side",
     "artist_name": "Drake",
@@ -29817,7 +29817,7 @@ module.exports = [
   },
   {
     "id": 3728,
-    "line": "This life shit is everywhere, you can't control it",
+    "line": "This life s*** is everywhere, you can't control it",
     "song_lyrics_url": "https://genius.com/Drake-my-side-lyrics",
     "song_name": "My Side",
     "artist_name": "Drake",
@@ -30073,7 +30073,7 @@ module.exports = [
   },
   {
     "id": 3760,
-    "line": "I don't mean to do that shit on purpose",
+    "line": "I don't mean to do that s*** on purpose",
     "song_lyrics_url": "https://genius.com/Drake-my-side-lyrics",
     "song_name": "My Side",
     "artist_name": "Drake",
@@ -30193,7 +30193,7 @@ module.exports = [
   },
   {
     "id": 3775,
-    "line": "Just to off these records, nigga that's a record",
+    "line": "Just to off these records, N**** that's a record",
     "song_lyrics_url": "https://genius.com/Drake-tuscan-leather-lyrics",
     "song_name": "Tuscan Leather",
     "artist_name": "Drake",
@@ -30241,7 +30241,7 @@ module.exports = [
   },
   {
     "id": 3781,
-    "line": "We keep it thorough, nigga, rap like this for all of my borough niggas",
+    "line": "We keep it thorough, N****, rap like this for all of my borough N****s",
     "song_lyrics_url": "https://genius.com/Drake-tuscan-leather-lyrics",
     "song_name": "Tuscan Leather",
     "artist_name": "Drake",
@@ -30249,7 +30249,7 @@ module.exports = [
   },
   {
     "id": 3782,
-    "line": "I reached the point where don't shit matter to me, nigga",
+    "line": "I reached the point where don't s*** matter to me, N****",
     "song_lyrics_url": "https://genius.com/Drake-tuscan-leather-lyrics",
     "song_name": "Tuscan Leather",
     "artist_name": "Drake",
@@ -30257,7 +30257,7 @@ module.exports = [
   },
   {
     "id": 3783,
-    "line": "I reached heights that Dwight Howard couldn't reach, nigga",
+    "line": "I reached heights that Dwight Howard couldn't reach, N****",
     "song_lyrics_url": "https://genius.com/Drake-tuscan-leather-lyrics",
     "song_name": "Tuscan Leather",
     "artist_name": "Drake",
@@ -30265,7 +30265,7 @@ module.exports = [
   },
   {
     "id": 3784,
-    "line": "Prince Akeem, they throw flowers at my feet, nigga",
+    "line": "Prince Akeem, they throw flowers at my feet, N****",
     "song_lyrics_url": "https://genius.com/Drake-tuscan-leather-lyrics",
     "song_name": "Tuscan Leather",
     "artist_name": "Drake",
@@ -30273,7 +30273,7 @@ module.exports = [
   },
   {
     "id": 3785,
-    "line": "I could go a hour on this beat, nigga",
+    "line": "I could go a hour on this beat, N****",
     "song_lyrics_url": "https://genius.com/Drake-tuscan-leather-lyrics",
     "song_name": "Tuscan Leather",
     "artist_name": "Drake",
@@ -30321,7 +30321,7 @@ module.exports = [
   },
   {
     "id": 3791,
-    "line": "Here's a reason for niggas that's hatin' without one",
+    "line": "Here's a reason for N****s that's hatin' without one",
     "song_lyrics_url": "https://genius.com/Drake-tuscan-leather-lyrics",
     "song_name": "Tuscan Leather",
     "artist_name": "Drake",
@@ -30345,7 +30345,7 @@ module.exports = [
   },
   {
     "id": 3794,
-    "line": "Started from the bottom, now we here, nigga, we made it",
+    "line": "Started from the bottom, now we here, N****, we made it",
     "song_lyrics_url": "https://genius.com/Drake-tuscan-leather-lyrics",
     "song_name": "Tuscan Leather",
     "artist_name": "Drake",
@@ -30361,7 +30361,7 @@ module.exports = [
   },
   {
     "id": 3796,
-    "line": "Degenerates, but even Ellen love our shit",
+    "line": "Degenerates, but even Ellen love our s***",
     "song_lyrics_url": "https://genius.com/Drake-tuscan-leather-lyrics",
     "song_name": "Tuscan Leather",
     "artist_name": "Drake",
@@ -30425,7 +30425,7 @@ module.exports = [
   },
   {
     "id": 3804,
-    "line": "I dropped the ball on some personal shit, I need to embrace it",
+    "line": "I dropped the ball on some personal s***, I need to embrace it",
     "song_lyrics_url": "https://genius.com/Drake-tuscan-leather-lyrics",
     "song_name": "Tuscan Leather",
     "artist_name": "Drake",
@@ -30465,7 +30465,7 @@ module.exports = [
   },
   {
     "id": 3809,
-    "line": "Them strep throat flows, them shits to stop all of the talkin'",
+    "line": "Them strep throat flows, them s***s to stop all of the talkin'",
     "song_lyrics_url": "https://genius.com/Drake-tuscan-leather-lyrics",
     "song_name": "Tuscan Leather",
     "artist_name": "Drake",
@@ -30481,7 +30481,7 @@ module.exports = [
   },
   {
     "id": 3811,
-    "line": "Fuck what you think, I'm too busy, that's why you leave a message",
+    "line": "f**k what you think, I'm too busy, that's why you leave a message",
     "song_lyrics_url": "https://genius.com/Drake-tuscan-leather-lyrics",
     "song_name": "Tuscan Leather",
     "artist_name": "Drake",
@@ -30497,7 +30497,7 @@ module.exports = [
   },
   {
     "id": 3813,
-    "line": "That shit I heard from you lately really relieved some pressure",
+    "line": "That s*** I heard from you lately really relieved some pressure",
     "song_lyrics_url": "https://genius.com/Drake-tuscan-leather-lyrics",
     "song_name": "Tuscan Leather",
     "artist_name": "Drake",
@@ -30561,7 +30561,7 @@ module.exports = [
   },
   {
     "id": 3821,
-    "line": "How much time is this nigga spendin' on the intro?",
+    "line": "How much time is this N**** spendin' on the intro?",
     "song_lyrics_url": "https://genius.com/Drake-tuscan-leather-lyrics",
     "song_name": "Tuscan Leather",
     "artist_name": "Drake",
@@ -30577,7 +30577,7 @@ module.exports = [
   },
   {
     "id": 3823,
-    "line": "I just set the bar, niggas fall under it like a limbo",
+    "line": "I just set the bar, N****s fall under it like a limbo",
     "song_lyrics_url": "https://genius.com/Drake-tuscan-leather-lyrics",
     "song_name": "Tuscan Leather",
     "artist_name": "Drake",
@@ -30649,7 +30649,7 @@ module.exports = [
   },
   {
     "id": 3832,
-    "line": "That's just me on my solo like fuck it, like YOLO",
+    "line": "That's just me on my solo like f**k it, like YOLO",
     "song_lyrics_url": "https://genius.com/Drake-tuscan-leather-lyrics",
     "song_name": "Tuscan Leather",
     "artist_name": "Drake",
@@ -30665,7 +30665,7 @@ module.exports = [
   },
   {
     "id": 3834,
-    "line": "You don't have to prove shit to no one except yourself",
+    "line": "You don't have to prove s*** to no one except yourself",
     "song_lyrics_url": "https://genius.com/Drake-tuscan-leather-lyrics",
     "song_name": "Tuscan Leather",
     "artist_name": "Drake",
@@ -30681,7 +30681,7 @@ module.exports = [
   },
   {
     "id": 3836,
-    "line": "You know, back on your feet and shit",
+    "line": "You know, back on your feet and s***",
     "song_lyrics_url": "https://genius.com/Drake-tuscan-leather-lyrics",
     "song_name": "Tuscan Leather",
     "artist_name": "Drake",
@@ -30689,7 +30689,7 @@ module.exports = [
   },
   {
     "id": 3837,
-    "line": "Tryna get my karma up, fuck the guilty and greedy shit",
+    "line": "Tryna get my karma up, f**k the guilty and greedy s***",
     "song_lyrics_url": "https://genius.com/Drake-tuscan-leather-lyrics",
     "song_name": "Tuscan Leather",
     "artist_name": "Drake",
@@ -30697,7 +30697,7 @@ module.exports = [
   },
   {
     "id": 3838,
-    "line": "How much time is this nigga spendin' on the intro?",
+    "line": "How much time is this N**** spendin' on the intro?",
     "song_lyrics_url": "https://genius.com/Drake-tuscan-leather-lyrics",
     "song_name": "Tuscan Leather",
     "artist_name": "Drake",
@@ -30705,7 +30705,7 @@ module.exports = [
   },
   {
     "id": 3839,
-    "line": "How this nigga workin' like he got a fuckin' twin though?",
+    "line": "How this N**** workin' like he got a f**kin' twin though?",
     "song_lyrics_url": "https://genius.com/Drake-tuscan-leather-lyrics",
     "song_name": "Tuscan Leather",
     "artist_name": "Drake",
@@ -30721,7 +30721,7 @@ module.exports = [
   },
   {
     "id": 3841,
-    "line": "And I wouldn't change a thing if you paid me, now real nigga wassup",
+    "line": "And I wouldn't change a thing if you paid me, now real N**** wassup",
     "song_lyrics_url": "https://genius.com/Drake-tuscan-leather-lyrics",
     "song_name": "Tuscan Leather",
     "artist_name": "Drake",
@@ -30729,7 +30729,7 @@ module.exports = [
   },
   {
     "id": 3842,
-    "line": "How much time is this nigga spendin' on the intro?",
+    "line": "How much time is this N**** spendin' on the intro?",
     "song_lyrics_url": "https://genius.com/Drake-tuscan-leather-lyrics",
     "song_name": "Tuscan Leather",
     "artist_name": "Drake",
@@ -30849,7 +30849,7 @@ module.exports = [
   },
   {
     "id": 3857,
-    "line": "Fuckin' on the low, smokin' on the low",
+    "line": "f**kin' on the low, smokin' on the low",
     "song_lyrics_url": "https://genius.com/Drake-furthest-thing-lyrics",
     "song_name": "Furthest Thing",
     "artist_name": "Drake",
@@ -30881,7 +30881,7 @@ module.exports = [
   },
   {
     "id": 3861,
-    "line": "Fuckin' on the low, smokin' on the low",
+    "line": "f**kin' on the low, smokin' on the low",
     "song_lyrics_url": "https://genius.com/Drake-furthest-thing-lyrics",
     "song_name": "Furthest Thing",
     "artist_name": "Drake",
@@ -30913,7 +30913,7 @@ module.exports = [
   },
   {
     "id": 3865,
-    "line": "Just too busy runnin' shit to run home to ya",
+    "line": "Just too busy runnin' s*** to run home to ya",
     "song_lyrics_url": "https://genius.com/Drake-furthest-thing-lyrics",
     "song_name": "Furthest Thing",
     "artist_name": "Drake",
@@ -31009,7 +31009,7 @@ module.exports = [
   },
   {
     "id": 3877,
-    "line": "Fuckin' on the low, smokin' on the low",
+    "line": "f**kin' on the low, smokin' on the low",
     "song_lyrics_url": "https://genius.com/Drake-furthest-thing-lyrics",
     "song_name": "Furthest Thing",
     "artist_name": "Drake",
@@ -31041,7 +31041,7 @@ module.exports = [
   },
   {
     "id": 3881,
-    "line": "Fuckin' on the low, smokin' on the low",
+    "line": "f**kin' on the low, smokin' on the low",
     "song_lyrics_url": "https://genius.com/Drake-furthest-thing-lyrics",
     "song_name": "Furthest Thing",
     "artist_name": "Drake",
@@ -31065,7 +31065,7 @@ module.exports = [
   },
   {
     "id": 3884,
-    "line": "Drinkin', smokin', fuckin', plottin'",
+    "line": "Drinkin', smokin', f**kin', plottin'",
     "song_lyrics_url": "https://genius.com/Drake-furthest-thing-lyrics",
     "song_name": "Furthest Thing",
     "artist_name": "Drake",
@@ -31081,7 +31081,7 @@ module.exports = [
   },
   {
     "id": 3886,
-    "line": "Drinkin', fuckin', smokin', plottin'",
+    "line": "Drinkin', f**kin', smokin', plottin'",
     "song_lyrics_url": "https://genius.com/Drake-furthest-thing-lyrics",
     "song_name": "Furthest Thing",
     "artist_name": "Drake",
@@ -31145,7 +31145,7 @@ module.exports = [
   },
   {
     "id": 3894,
-    "line": "This the shit I wanna go out to",
+    "line": "This the s*** I wanna go out to",
     "song_lyrics_url": "https://genius.com/Drake-furthest-thing-lyrics",
     "song_name": "Furthest Thing",
     "artist_name": "Drake",
@@ -31153,7 +31153,7 @@ module.exports = [
   },
   {
     "id": 3895,
-    "line": "Play this shit at my funeral if they catch me slippin'",
+    "line": "Play this s*** at my funeral if they catch me slippin'",
     "song_lyrics_url": "https://genius.com/Drake-furthest-thing-lyrics",
     "song_name": "Furthest Thing",
     "artist_name": "Drake",
@@ -31177,7 +31177,7 @@ module.exports = [
   },
   {
     "id": 3898,
-    "line": "A nigga fillin' up arenas, who the fuck could see us?",
+    "line": "A N**** fillin' up arenas, who the f**k could see us?",
     "song_lyrics_url": "https://genius.com/Drake-furthest-thing-lyrics",
     "song_name": "Furthest Thing",
     "artist_name": "Drake",
@@ -31201,7 +31201,7 @@ module.exports = [
   },
   {
     "id": 3901,
-    "line": "I just build and build more, y'all niggas build to destroy",
+    "line": "I just build and build more, y'all N****s build to destroy",
     "song_lyrics_url": "https://genius.com/Drake-furthest-thing-lyrics",
     "song_name": "Furthest Thing",
     "artist_name": "Drake",
@@ -31209,7 +31209,7 @@ module.exports = [
   },
   {
     "id": 3902,
-    "line": "Y'all niggas party too much, man, I just chill and record",
+    "line": "Y'all N****s party too much, man, I just chill and record",
     "song_lyrics_url": "https://genius.com/Drake-furthest-thing-lyrics",
     "song_name": "Furthest Thing",
     "artist_name": "Drake",
@@ -31225,7 +31225,7 @@ module.exports = [
   },
   {
     "id": 3904,
-    "line": "Yes, Lord, this the shit I wanna go out to",
+    "line": "Yes, Lord, this the s*** I wanna go out to",
     "song_lyrics_url": "https://genius.com/Drake-furthest-thing-lyrics",
     "song_name": "Furthest Thing",
     "artist_name": "Drake",
@@ -31233,7 +31233,7 @@ module.exports = [
   },
   {
     "id": 3905,
-    "line": "Yeah yeah, this the shit I wanna go out to",
+    "line": "Yeah yeah, this the s*** I wanna go out to",
     "song_lyrics_url": "https://genius.com/Drake-furthest-thing-lyrics",
     "song_name": "Furthest Thing",
     "artist_name": "Drake",
@@ -31265,7 +31265,7 @@ module.exports = [
   },
   {
     "id": 3909,
-    "line": "Started from the bottom, now my whole team fuckin' here",
+    "line": "Started from the bottom, now my whole team f**kin' here",
     "song_lyrics_url": "https://genius.com/Drake-started-from-the-bottom-lyrics",
     "song_name": "Started from the Bottom",
     "artist_name": "Drake",
@@ -31281,7 +31281,7 @@ module.exports = [
   },
   {
     "id": 3911,
-    "line": "Started from the bottom, now the whole team here, nigga",
+    "line": "Started from the bottom, now the whole team here, N****",
     "song_lyrics_url": "https://genius.com/Drake-started-from-the-bottom-lyrics",
     "song_name": "Started from the Bottom",
     "artist_name": "Drake",
@@ -31297,7 +31297,7 @@ module.exports = [
   },
   {
     "id": 3913,
-    "line": "Started from the bottom, now my whole team here, nigga",
+    "line": "Started from the bottom, now my whole team here, N****",
     "song_lyrics_url": "https://genius.com/Drake-started-from-the-bottom-lyrics",
     "song_name": "Started from the Bottom",
     "artist_name": "Drake",
@@ -31313,7 +31313,7 @@ module.exports = [
   },
   {
     "id": 3915,
-    "line": "Started from the bottom, now the whole team fuckin' here",
+    "line": "Started from the bottom, now the whole team f**kin' here",
     "song_lyrics_url": "https://genius.com/Drake-started-from-the-bottom-lyrics",
     "song_name": "Started from the Bottom",
     "artist_name": "Drake",
@@ -31337,7 +31337,7 @@ module.exports = [
   },
   {
     "id": 3918,
-    "line": "Nigga, I was tryna get it on my own",
+    "line": "N****, I was tryna get it on my own",
     "song_lyrics_url": "https://genius.com/Drake-started-from-the-bottom-lyrics",
     "song_name": "Started from the Bottom",
     "artist_name": "Drake",
@@ -31369,7 +31369,7 @@ module.exports = [
   },
   {
     "id": 3922,
-    "line": "Nigga, I just think it's funny how it goes",
+    "line": "N****, I just think it's funny how it goes",
     "song_lyrics_url": "https://genius.com/Drake-started-from-the-bottom-lyrics",
     "song_name": "Started from the Bottom",
     "artist_name": "Drake",
@@ -31393,7 +31393,7 @@ module.exports = [
   },
   {
     "id": 3925,
-    "line": "Started from the bottom, now my whole team fuckin' here",
+    "line": "Started from the bottom, now my whole team f**kin' here",
     "song_lyrics_url": "https://genius.com/Drake-started-from-the-bottom-lyrics",
     "song_name": "Started from the Bottom",
     "artist_name": "Drake",
@@ -31409,7 +31409,7 @@ module.exports = [
   },
   {
     "id": 3927,
-    "line": "Started from the bottom, now the whole team here, nigga",
+    "line": "Started from the bottom, now the whole team here, N****",
     "song_lyrics_url": "https://genius.com/Drake-started-from-the-bottom-lyrics",
     "song_name": "Started from the Bottom",
     "artist_name": "Drake",
@@ -31425,7 +31425,7 @@ module.exports = [
   },
   {
     "id": 3929,
-    "line": "Started from the bottom, now the whole team fuckin' here",
+    "line": "Started from the bottom, now the whole team f**kin' here",
     "song_lyrics_url": "https://genius.com/Drake-started-from-the-bottom-lyrics",
     "song_name": "Started from the Bottom",
     "artist_name": "Drake",
@@ -31441,7 +31441,7 @@ module.exports = [
   },
   {
     "id": 3931,
-    "line": "Started from the bottom, now the whole team here, nigga",
+    "line": "Started from the bottom, now the whole team here, N****",
     "song_lyrics_url": "https://genius.com/Drake-started-from-the-bottom-lyrics",
     "song_name": "Started from the Bottom",
     "artist_name": "Drake",
@@ -31465,7 +31465,7 @@ module.exports = [
   },
   {
     "id": 3934,
-    "line": "Nigga, I could turn your boy into the man",
+    "line": "N****, I could turn your boy into the man",
     "song_lyrics_url": "https://genius.com/Drake-started-from-the-bottom-lyrics",
     "song_name": "Started from the Bottom",
     "artist_name": "Drake",
@@ -31481,7 +31481,7 @@ module.exports = [
   },
   {
     "id": 3936,
-    "line": "Nigga, we just want the credit where it's due",
+    "line": "N****, we just want the credit where it's due",
     "song_lyrics_url": "https://genius.com/Drake-started-from-the-bottom-lyrics",
     "song_name": "Started from the Bottom",
     "artist_name": "Drake",
@@ -31489,7 +31489,7 @@ module.exports = [
   },
   {
     "id": 3937,
-    "line": "I'ma worry 'bout me, give a fuck about you",
+    "line": "I'ma worry 'bout me, give a f**k about you",
     "song_lyrics_url": "https://genius.com/Drake-started-from-the-bottom-lyrics",
     "song_name": "Started from the Bottom",
     "artist_name": "Drake",
@@ -31497,7 +31497,7 @@ module.exports = [
   },
   {
     "id": 3938,
-    "line": "Nigga, just as a reminder to myself",
+    "line": "N****, just as a reminder to myself",
     "song_lyrics_url": "https://genius.com/Drake-started-from-the-bottom-lyrics",
     "song_name": "Started from the Bottom",
     "artist_name": "Drake",
@@ -31529,7 +31529,7 @@ module.exports = [
   },
   {
     "id": 3942,
-    "line": "Started from the bottom, now my whole team fuckin' here",
+    "line": "Started from the bottom, now my whole team f**kin' here",
     "song_lyrics_url": "https://genius.com/Drake-started-from-the-bottom-lyrics",
     "song_name": "Started from the Bottom",
     "artist_name": "Drake",
@@ -31545,7 +31545,7 @@ module.exports = [
   },
   {
     "id": 3944,
-    "line": "Started from the bottom, now the whole team here, nigga",
+    "line": "Started from the bottom, now the whole team here, N****",
     "song_lyrics_url": "https://genius.com/Drake-started-from-the-bottom-lyrics",
     "song_name": "Started from the Bottom",
     "artist_name": "Drake",
@@ -31553,7 +31553,7 @@ module.exports = [
   },
   {
     "id": 3945,
-    "line": "No new niggas, nigga, we don't feel that",
+    "line": "No new N****s, N****, we don't feel that",
     "song_lyrics_url": "https://genius.com/Drake-started-from-the-bottom-lyrics",
     "song_name": "Started from the Bottom",
     "artist_name": "Drake",
@@ -31561,7 +31561,7 @@ module.exports = [
   },
   {
     "id": 3946,
-    "line": "Fuck a fake friend, where your real friends at?",
+    "line": "f**k a fake friend, where your real friends at?",
     "song_lyrics_url": "https://genius.com/Drake-started-from-the-bottom-lyrics",
     "song_name": "Started from the Bottom",
     "artist_name": "Drake",
@@ -31585,7 +31585,7 @@ module.exports = [
   },
   {
     "id": 3949,
-    "line": "No new niggas, nigga, we don't feel that",
+    "line": "No new N****s, N****, we don't feel that",
     "song_lyrics_url": "https://genius.com/Drake-started-from-the-bottom-lyrics",
     "song_name": "Started from the Bottom",
     "artist_name": "Drake",
@@ -31593,7 +31593,7 @@ module.exports = [
   },
   {
     "id": 3950,
-    "line": "Fuck a fake friend, where you real friends at?",
+    "line": "f**k a fake friend, where you real friends at?",
     "song_lyrics_url": "https://genius.com/Drake-started-from-the-bottom-lyrics",
     "song_name": "Started from the Bottom",
     "artist_name": "Drake",
@@ -31633,7 +31633,7 @@ module.exports = [
   },
   {
     "id": 3955,
-    "line": "Started from the bottom, now my whole team fuckin' here",
+    "line": "Started from the bottom, now my whole team f**kin' here",
     "song_lyrics_url": "https://genius.com/Drake-started-from-the-bottom-lyrics",
     "song_name": "Started from the Bottom",
     "artist_name": "Drake",
@@ -31649,7 +31649,7 @@ module.exports = [
   },
   {
     "id": 3957,
-    "line": "Started from the bottom, now the whole team here, nigga",
+    "line": "Started from the bottom, now the whole team here, N****",
     "song_lyrics_url": "https://genius.com/Drake-started-from-the-bottom-lyrics",
     "song_name": "Started from the Bottom",
     "artist_name": "Drake",
@@ -31665,7 +31665,7 @@ module.exports = [
   },
   {
     "id": 3959,
-    "line": "Started from the bottom, now my whole team here, nigga",
+    "line": "Started from the bottom, now my whole team here, N****",
     "song_lyrics_url": "https://genius.com/Drake-started-from-the-bottom-lyrics",
     "song_name": "Started from the Bottom",
     "artist_name": "Drake",
@@ -31681,7 +31681,7 @@ module.exports = [
   },
   {
     "id": 3961,
-    "line": "Started from the bottom, now the whole team here, nigga",
+    "line": "Started from the bottom, now the whole team here, N****",
     "song_lyrics_url": "https://genius.com/Drake-started-from-the-bottom-lyrics",
     "song_name": "Started from the Bottom",
     "artist_name": "Drake",
@@ -31689,7 +31689,7 @@ module.exports = [
   },
   {
     "id": 3962,
-    "line": "I just love when I'm with you, yeah, this shit is on ten",
+    "line": "I just love when I'm with you, yeah, this s*** is on ten",
     "song_lyrics_url": "https://genius.com/Drake-wu-tang-forever-lyrics",
     "song_name": "Wu-Tang Forever",
     "artist_name": "Drake",
@@ -31713,7 +31713,7 @@ module.exports = [
   },
   {
     "id": 3965,
-    "line": "Nobody else's, yeah, this shit belong to nobody, it's yours",
+    "line": "Nobody else's, yeah, this s*** belong to nobody, it's yours",
     "song_lyrics_url": "https://genius.com/Drake-wu-tang-forever-lyrics",
     "song_name": "Wu-Tang Forever",
     "artist_name": "Drake",
@@ -31721,7 +31721,7 @@ module.exports = [
   },
   {
     "id": 3966,
-    "line": "Nobody else's, yeah, this shit belong to nobody and that",
+    "line": "Nobody else's, yeah, this s*** belong to nobody and that",
     "song_lyrics_url": "https://genius.com/Drake-wu-tang-forever-lyrics",
     "song_name": "Wu-Tang Forever",
     "artist_name": "Drake",
@@ -31745,7 +31745,7 @@ module.exports = [
   },
   {
     "id": 3969,
-    "line": "Young nigga came through on his Wu-Tang",
+    "line": "Young N**** came through on his Wu-Tang",
     "song_lyrics_url": "https://genius.com/Drake-wu-tang-forever-lyrics",
     "song_name": "Wu-Tang Forever",
     "artist_name": "Drake",
@@ -31761,7 +31761,7 @@ module.exports = [
   },
   {
     "id": 3971,
-    "line": "Nobody else's, yeah, this shit belong to nobody, it's yours",
+    "line": "Nobody else's, yeah, this s*** belong to nobody, it's yours",
     "song_lyrics_url": "https://genius.com/Drake-wu-tang-forever-lyrics",
     "song_name": "Wu-Tang Forever",
     "artist_name": "Drake",
@@ -31769,7 +31769,7 @@ module.exports = [
   },
   {
     "id": 3972,
-    "line": "Nobody else's, yeah, this shit belong to nobody, it's yours",
+    "line": "Nobody else's, yeah, this s*** belong to nobody, it's yours",
     "song_lyrics_url": "https://genius.com/Drake-wu-tang-forever-lyrics",
     "song_name": "Wu-Tang Forever",
     "artist_name": "Drake",
@@ -31793,7 +31793,7 @@ module.exports = [
   },
   {
     "id": 3975,
-    "line": "How you feel about comin' home with a nigga for the night?",
+    "line": "How you feel about comin' home with a N**** for the night?",
     "song_lyrics_url": "https://genius.com/Drake-wu-tang-forever-lyrics",
     "song_name": "Wu-Tang Forever",
     "artist_name": "Drake",
@@ -31801,7 +31801,7 @@ module.exports = [
   },
   {
     "id": 3976,
-    "line": "If you nervous, hit the lights, I know we only fuckin' out of spite",
+    "line": "If you nervous, hit the lights, I know we only f**kin' out of spite",
     "song_lyrics_url": "https://genius.com/Drake-wu-tang-forever-lyrics",
     "song_name": "Wu-Tang Forever",
     "artist_name": "Drake",
@@ -31809,7 +31809,7 @@ module.exports = [
   },
   {
     "id": 3977,
-    "line": "Cause your man don't do you right, do you right, I could fuck you so good",
+    "line": "Cause your man don't do you right, do you right, I could f**k you so good",
     "song_lyrics_url": "https://genius.com/Drake-wu-tang-forever-lyrics",
     "song_name": "Wu-Tang Forever",
     "artist_name": "Drake",
@@ -31825,7 +31825,7 @@ module.exports = [
   },
   {
     "id": 3979,
-    "line": "Machine gun raps for all my niggas in the back",
+    "line": "Machine gun raps for all my N****s in the back",
     "song_lyrics_url": "https://genius.com/Drake-wu-tang-forever-lyrics",
     "song_name": "Wu-Tang Forever",
     "artist_name": "Drake",
@@ -31849,7 +31849,7 @@ module.exports = [
   },
   {
     "id": 3982,
-    "line": "It's 'bout who did it right, niggas looking like \"Preach",
+    "line": "It's 'bout who did it right, N****s looking like \"Preach",
     "song_lyrics_url": "https://genius.com/Drake-wu-tang-forever-lyrics",
     "song_name": "Wu-Tang Forever",
     "artist_name": "Drake",
@@ -31881,7 +31881,7 @@ module.exports = [
   },
   {
     "id": 3986,
-    "line": "I would only go there cause niggas that I know there",
+    "line": "I would only go there cause N****s that I know there",
     "song_lyrics_url": "https://genius.com/Drake-wu-tang-forever-lyrics",
     "song_name": "Wu-Tang Forever",
     "artist_name": "Drake",
@@ -31945,7 +31945,7 @@ module.exports = [
   },
   {
     "id": 3994,
-    "line": "And fuckin' with me mentally, I think it's meant to be",
+    "line": "And f**kin' with me mentally, I think it's meant to be",
     "song_lyrics_url": "https://genius.com/Drake-wu-tang-forever-lyrics",
     "song_name": "Wu-Tang Forever",
     "artist_name": "Drake",
@@ -31953,7 +31953,7 @@ module.exports = [
   },
   {
     "id": 3995,
-    "line": "Paranoid, always rolling with my mothafuckin' boys",
+    "line": "Paranoid, always rolling with my mothaf**kin' boys",
     "song_lyrics_url": "https://genius.com/Drake-wu-tang-forever-lyrics",
     "song_name": "Wu-Tang Forever",
     "artist_name": "Drake",
@@ -31969,7 +31969,7 @@ module.exports = [
   },
   {
     "id": 3997,
-    "line": "They don't really leave your ass with a mothafuckin' choice, man",
+    "line": "They don't really leave your ass with a mothaf**kin' choice, man",
     "song_lyrics_url": "https://genius.com/Drake-wu-tang-forever-lyrics",
     "song_name": "Wu-Tang Forever",
     "artist_name": "Drake",
@@ -31977,7 +31977,7 @@ module.exports = [
   },
   {
     "id": 3998,
-    "line": "I just love when I'm with you, yeah, this shit is on ten",
+    "line": "I just love when I'm with you, yeah, this s*** is on ten",
     "song_lyrics_url": "https://genius.com/Drake-wu-tang-forever-lyrics",
     "song_name": "Wu-Tang Forever",
     "artist_name": "Drake",
@@ -32001,7 +32001,7 @@ module.exports = [
   },
   {
     "id": 4001,
-    "line": "Nobody else's, yeah, this shit belong to nobody, it's yours",
+    "line": "Nobody else's, yeah, this s*** belong to nobody, it's yours",
     "song_lyrics_url": "https://genius.com/Drake-wu-tang-forever-lyrics",
     "song_name": "Wu-Tang Forever",
     "artist_name": "Drake",
@@ -32009,7 +32009,7 @@ module.exports = [
   },
   {
     "id": 4002,
-    "line": "Nobody else's, yeah, this shit belong to nobody and that",
+    "line": "Nobody else's, yeah, this s*** belong to nobody and that",
     "song_lyrics_url": "https://genius.com/Drake-wu-tang-forever-lyrics",
     "song_name": "Wu-Tang Forever",
     "artist_name": "Drake",
@@ -32033,7 +32033,7 @@ module.exports = [
   },
   {
     "id": 4005,
-    "line": "Young nigga came through on his Wu-Tang",
+    "line": "Young N**** came through on his Wu-Tang",
     "song_lyrics_url": "https://genius.com/Drake-wu-tang-forever-lyrics",
     "song_name": "Wu-Tang Forever",
     "artist_name": "Drake",
@@ -32049,7 +32049,7 @@ module.exports = [
   },
   {
     "id": 4007,
-    "line": "Nobody else's, yeah, this shit belong to nobody, it's yours",
+    "line": "Nobody else's, yeah, this s*** belong to nobody, it's yours",
     "song_lyrics_url": "https://genius.com/Drake-wu-tang-forever-lyrics",
     "song_name": "Wu-Tang Forever",
     "artist_name": "Drake",
@@ -32057,7 +32057,7 @@ module.exports = [
   },
   {
     "id": 4008,
-    "line": "Nobody else's, yeah, this shit belong to nobody, it's yours",
+    "line": "Nobody else's, yeah, this s*** belong to nobody, it's yours",
     "song_lyrics_url": "https://genius.com/Drake-wu-tang-forever-lyrics",
     "song_name": "Wu-Tang Forever",
     "artist_name": "Drake",
@@ -32169,7 +32169,7 @@ module.exports = [
   },
   {
     "id": 4022,
-    "line": "Next time we fuck, I don't wanna fuck, I wanna make love",
+    "line": "Next time we f**k, I don't wanna f**k, I wanna make love",
     "song_lyrics_url": "https://genius.com/Drake-own-it-lyrics",
     "song_name": "Own It",
     "artist_name": "Drake",
@@ -32249,7 +32249,7 @@ module.exports = [
   },
   {
     "id": 4032,
-    "line": "Go own that shit, own that shit, own that shit, own that shit",
+    "line": "Go own that s***, own that s***, own that s***, own that s***",
     "song_lyrics_url": "https://genius.com/Drake-own-it-lyrics",
     "song_name": "Own It",
     "artist_name": "Drake",
@@ -32257,7 +32257,7 @@ module.exports = [
   },
   {
     "id": 4033,
-    "line": "Go and own that shit, own that shit, own that shit, you own that shit, go and",
+    "line": "Go and own that s***, own that s***, own that s***, you own that s***, go and",
     "song_lyrics_url": "https://genius.com/Drake-own-it-lyrics",
     "song_name": "Own It",
     "artist_name": "Drake",
@@ -32281,7 +32281,7 @@ module.exports = [
   },
   {
     "id": 4036,
-    "line": "Go own that shit, own that shit, own that shit, own that shit",
+    "line": "Go own that s***, own that s***, own that s***, own that s***",
     "song_lyrics_url": "https://genius.com/Drake-own-it-lyrics",
     "song_name": "Own It",
     "artist_name": "Drake",
@@ -32289,7 +32289,7 @@ module.exports = [
   },
   {
     "id": 4037,
-    "line": "Go and own that shit, own that shit, own that shit, you own that shit, go and",
+    "line": "Go and own that s***, own that s***, own that s***, you own that s***, go and",
     "song_lyrics_url": "https://genius.com/Drake-own-it-lyrics",
     "song_name": "Own It",
     "artist_name": "Drake",
@@ -32297,7 +32297,7 @@ module.exports = [
   },
   {
     "id": 4038,
-    "line": "Niggas talk more than bitches these days (Just let that shit sink in)",
+    "line": "N****s talk more than b****es these days (Just let that s*** sink in)",
     "song_lyrics_url": "https://genius.com/Drake-own-it-lyrics",
     "song_name": "Own It",
     "artist_name": "Drake",
@@ -32305,7 +32305,7 @@ module.exports = [
   },
   {
     "id": 4039,
-    "line": "Niggas talk more than bitches these days",
+    "line": "N****s talk more than b****es these days",
     "song_lyrics_url": "https://genius.com/Drake-own-it-lyrics",
     "song_name": "Own It",
     "artist_name": "Drake",
@@ -32353,7 +32353,7 @@ module.exports = [
   },
   {
     "id": 4045,
-    "line": "Couple bitches tryna have me on the Maury",
+    "line": "Couple b****es tryna have me on the Maury",
     "song_lyrics_url": "https://genius.com/Drake-own-it-lyrics",
     "song_name": "Own It",
     "artist_name": "Drake",
@@ -32361,7 +32361,7 @@ module.exports = [
   },
   {
     "id": 4046,
-    "line": "Like nigga it's yours, you should be supportin'",
+    "line": "Like N**** it's yours, you should be supportin'",
     "song_lyrics_url": "https://genius.com/Drake-own-it-lyrics",
     "song_name": "Own It",
     "artist_name": "Drake",
@@ -32385,7 +32385,7 @@ module.exports = [
   },
   {
     "id": 4049,
-    "line": "You ain't even hit me when that nigga had threats for me, girl",
+    "line": "You ain't even hit me when that N**** had threats for me, girl",
     "song_lyrics_url": "https://genius.com/Drake-own-it-lyrics",
     "song_name": "Own It",
     "artist_name": "Drake",
@@ -32393,7 +32393,7 @@ module.exports = [
   },
   {
     "id": 4050,
-    "line": "You don't love me, you just say that shit to get to me, girl",
+    "line": "You don't love me, you just say that s*** to get to me, girl",
     "song_lyrics_url": "https://genius.com/Drake-own-it-lyrics",
     "song_name": "Own It",
     "artist_name": "Drake",
@@ -32417,7 +32417,7 @@ module.exports = [
   },
   {
     "id": 4053,
-    "line": "I swear to God, niggas talk more than bitches these days",
+    "line": "I swear to God, N****s talk more than b****es these days",
     "song_lyrics_url": "https://genius.com/Drake-own-it-lyrics",
     "song_name": "Own It",
     "artist_name": "Drake",
@@ -32441,7 +32441,7 @@ module.exports = [
   },
   {
     "id": 4056,
-    "line": "By the time it gets to you, shit switches these days",
+    "line": "By the time it gets to you, s*** switches these days",
     "song_lyrics_url": "https://genius.com/Drake-own-it-lyrics",
     "song_name": "Own It",
     "artist_name": "Drake",
@@ -32473,7 +32473,7 @@ module.exports = [
   },
   {
     "id": 4060,
-    "line": "Go own that shit, it's yours, it's yours, own it, own it, own it, own it",
+    "line": "Go own that s***, it's yours, it's yours, own it, own it, own it, own it",
     "song_lyrics_url": "https://genius.com/Drake-own-it-lyrics",
     "song_name": "Own It",
     "artist_name": "Drake",
@@ -32481,7 +32481,7 @@ module.exports = [
   },
   {
     "id": 4061,
-    "line": "Own it, baby, own it, it's yours, own that shit, own that shit, own that shit",
+    "line": "Own it, baby, own it, it's yours, own that s***, own that s***, own that s***",
     "song_lyrics_url": "https://genius.com/Drake-own-it-lyrics",
     "song_name": "Own It",
     "artist_name": "Drake",
@@ -32497,7 +32497,7 @@ module.exports = [
   },
   {
     "id": 4063,
-    "line": "Mothafucka never loved us",
+    "line": "Mothaf**ka never loved us",
     "song_lyrics_url": "https://genius.com/Drake-worst-behavior-lyrics",
     "song_name": "Worst Behavior",
     "artist_name": "Drake",
@@ -32505,7 +32505,7 @@ module.exports = [
   },
   {
     "id": 4064,
-    "line": "Fucka never loved us",
+    "line": "f**ka never loved us",
     "song_lyrics_url": "https://genius.com/Drake-worst-behavior-lyrics",
     "song_name": "Worst Behavior",
     "artist_name": "Drake",
@@ -32529,7 +32529,7 @@ module.exports = [
   },
   {
     "id": 4067,
-    "line": "Shit...",
+    "line": "s***...",
     "song_lyrics_url": "https://genius.com/Drake-worst-behavior-lyrics",
     "song_name": "Worst Behavior",
     "artist_name": "Drake",
@@ -32537,7 +32537,7 @@ module.exports = [
   },
   {
     "id": 4068,
-    "line": "Niggas still playing my old shit",
+    "line": "N****s still playing my old s***",
     "song_lyrics_url": "https://genius.com/Drake-worst-behavior-lyrics",
     "song_name": "Worst Behavior",
     "artist_name": "Drake",
@@ -32545,7 +32545,7 @@ module.exports = [
   },
   {
     "id": 4069,
-    "line": "But your shit is like the police askin' us questions",
+    "line": "But your s*** is like the police askin' us questions",
     "song_lyrics_url": "https://genius.com/Drake-worst-behavior-lyrics",
     "song_name": "Worst Behavior",
     "artist_name": "Drake",
@@ -32553,7 +32553,7 @@ module.exports = [
   },
   {
     "id": 4070,
-    "line": "Nigga, we don't know shit",
+    "line": "N****, we don't know s***",
     "song_lyrics_url": "https://genius.com/Drake-worst-behavior-lyrics",
     "song_name": "Worst Behavior",
     "artist_name": "Drake",
@@ -32569,7 +32569,7 @@ module.exports = [
   },
   {
     "id": 4072,
-    "line": "Nigga, I'm just flexin'",
+    "line": "N****, I'm just flexin'",
     "song_lyrics_url": "https://genius.com/Drake-worst-behavior-lyrics",
     "song_name": "Worst Behavior",
     "artist_name": "Drake",
@@ -32577,7 +32577,7 @@ module.exports = [
   },
   {
     "id": 4073,
-    "line": "Nigga never loved us",
+    "line": "N**** never loved us",
     "song_lyrics_url": "https://genius.com/Drake-worst-behavior-lyrics",
     "song_name": "Worst Behavior",
     "artist_name": "Drake",
@@ -32633,7 +32633,7 @@ module.exports = [
   },
   {
     "id": 4080,
-    "line": "Remember? Mothafucka never loved us",
+    "line": "Remember? Mothaf**ka never loved us",
     "song_lyrics_url": "https://genius.com/Drake-worst-behavior-lyrics",
     "song_name": "Worst Behavior",
     "artist_name": "Drake",
@@ -32641,7 +32641,7 @@ module.exports = [
   },
   {
     "id": 4081,
-    "line": "Remember? Mothafucka!",
+    "line": "Remember? Mothaf**ka!",
     "song_lyrics_url": "https://genius.com/Drake-worst-behavior-lyrics",
     "song_name": "Worst Behavior",
     "artist_name": "Drake",
@@ -32649,7 +32649,7 @@ module.exports = [
   },
   {
     "id": 4082,
-    "line": "Remember? Mothafucka never loved us",
+    "line": "Remember? Mothaf**ka never loved us",
     "song_lyrics_url": "https://genius.com/Drake-worst-behavior-lyrics",
     "song_name": "Worst Behavior",
     "artist_name": "Drake",
@@ -32657,7 +32657,7 @@ module.exports = [
   },
   {
     "id": 4083,
-    "line": "I'm on my worst behavior! Don't you ever get it fucked up!",
+    "line": "I'm on my worst behavior! Don't you ever get it f**ked up!",
     "song_lyrics_url": "https://genius.com/Drake-worst-behavior-lyrics",
     "song_name": "Worst Behavior",
     "artist_name": "Drake",
@@ -32665,7 +32665,7 @@ module.exports = [
   },
   {
     "id": 4084,
-    "line": "Mothafuckas never loved us! Man, mothafuckas never loved us",
+    "line": "Mothaf**kas never loved us! Man, mothaf**kas never loved us",
     "song_lyrics_url": "https://genius.com/Drake-worst-behavior-lyrics",
     "song_name": "Worst Behavior",
     "artist_name": "Drake",
@@ -32673,7 +32673,7 @@ module.exports = [
   },
   {
     "id": 4085,
-    "line": "Worst behavior! Mothafuckas never loved us",
+    "line": "Worst behavior! Mothaf**kas never loved us",
     "song_lyrics_url": "https://genius.com/Drake-worst-behavior-lyrics",
     "song_name": "Worst Behavior",
     "artist_name": "Drake",
@@ -32681,7 +32681,7 @@ module.exports = [
   },
   {
     "id": 4086,
-    "line": "Fucka never loved us! Worst behavior",
+    "line": "f**ka never loved us! Worst behavior",
     "song_lyrics_url": "https://genius.com/Drake-worst-behavior-lyrics",
     "song_name": "Worst Behavior",
     "artist_name": "Drake",
@@ -32697,7 +32697,7 @@ module.exports = [
   },
   {
     "id": 4088,
-    "line": "Mothafuckas never loved us",
+    "line": "Mothaf**kas never loved us",
     "song_lyrics_url": "https://genius.com/Drake-worst-behavior-lyrics",
     "song_name": "Worst Behavior",
     "artist_name": "Drake",
@@ -32705,7 +32705,7 @@ module.exports = [
   },
   {
     "id": 4089,
-    "line": "Fucka never loved us",
+    "line": "f**ka never loved us",
     "song_lyrics_url": "https://genius.com/Drake-worst-behavior-lyrics",
     "song_name": "Worst Behavior",
     "artist_name": "Drake",
@@ -32721,7 +32721,7 @@ module.exports = [
   },
   {
     "id": 4091,
-    "line": "Mothafucka never loved us",
+    "line": "Mothaf**ka never loved us",
     "song_lyrics_url": "https://genius.com/Drake-worst-behavior-lyrics",
     "song_name": "Worst Behavior",
     "artist_name": "Drake",
@@ -32745,7 +32745,7 @@ module.exports = [
   },
   {
     "id": 4094,
-    "line": "Mothafucka, I done grown up",
+    "line": "Mothaf**ka, I done grown up",
     "song_lyrics_url": "https://genius.com/Drake-worst-behavior-lyrics",
     "song_name": "Worst Behavior",
     "artist_name": "Drake",
@@ -32785,7 +32785,7 @@ module.exports = [
   },
   {
     "id": 4099,
-    "line": "Bitch, you better have my money",
+    "line": "b****, you better have my money",
     "song_lyrics_url": "https://genius.com/Drake-worst-behavior-lyrics",
     "song_name": "Worst Behavior",
     "artist_name": "Drake",
@@ -32793,7 +32793,7 @@ module.exports = [
   },
   {
     "id": 4100,
-    "line": "When I come for that shit like O.D.B",
+    "line": "When I come for that s*** like O.D.B",
     "song_lyrics_url": "https://genius.com/Drake-worst-behavior-lyrics",
     "song_name": "Worst Behavior",
     "artist_name": "Drake",
@@ -32809,7 +32809,7 @@ module.exports = [
   },
   {
     "id": 4102,
-    "line": "Remember? Mothafucka never loved us",
+    "line": "Remember? Mothaf**ka never loved us",
     "song_lyrics_url": "https://genius.com/Drake-worst-behavior-lyrics",
     "song_name": "Worst Behavior",
     "artist_name": "Drake",
@@ -32817,7 +32817,7 @@ module.exports = [
   },
   {
     "id": 4103,
-    "line": "Remember? Mothafucka!",
+    "line": "Remember? Mothaf**ka!",
     "song_lyrics_url": "https://genius.com/Drake-worst-behavior-lyrics",
     "song_name": "Worst Behavior",
     "artist_name": "Drake",
@@ -32825,7 +32825,7 @@ module.exports = [
   },
   {
     "id": 4104,
-    "line": "Remember? Mothafucka never loved us",
+    "line": "Remember? Mothaf**ka never loved us",
     "song_lyrics_url": "https://genius.com/Drake-worst-behavior-lyrics",
     "song_name": "Worst Behavior",
     "artist_name": "Drake",
@@ -32833,7 +32833,7 @@ module.exports = [
   },
   {
     "id": 4105,
-    "line": "I'm on my worst behavior! Don't you ever get it fucked up!",
+    "line": "I'm on my worst behavior! Don't you ever get it f**ked up!",
     "song_lyrics_url": "https://genius.com/Drake-worst-behavior-lyrics",
     "song_name": "Worst Behavior",
     "artist_name": "Drake",
@@ -32841,7 +32841,7 @@ module.exports = [
   },
   {
     "id": 4106,
-    "line": "Mothafuckas never loved us! Man, mothafuckas never loved us",
+    "line": "Mothaf**kas never loved us! Man, mothaf**kas never loved us",
     "song_lyrics_url": "https://genius.com/Drake-worst-behavior-lyrics",
     "song_name": "Worst Behavior",
     "artist_name": "Drake",
@@ -32849,7 +32849,7 @@ module.exports = [
   },
   {
     "id": 4107,
-    "line": "Worst behavior! Mothafuckas never loved us",
+    "line": "Worst behavior! Mothaf**kas never loved us",
     "song_lyrics_url": "https://genius.com/Drake-worst-behavior-lyrics",
     "song_name": "Worst Behavior",
     "artist_name": "Drake",
@@ -32857,7 +32857,7 @@ module.exports = [
   },
   {
     "id": 4108,
-    "line": "Fucka never loved us! Worst behavior",
+    "line": "f**ka never loved us! Worst behavior",
     "song_lyrics_url": "https://genius.com/Drake-worst-behavior-lyrics",
     "song_name": "Worst Behavior",
     "artist_name": "Drake",
@@ -32897,7 +32897,7 @@ module.exports = [
   },
   {
     "id": 4113,
-    "line": "With these funny style niggas, we done put on in the game",
+    "line": "With these funny style N****s, we done put on in the game",
     "song_lyrics_url": "https://genius.com/Drake-worst-behavior-lyrics",
     "song_name": "Worst Behavior",
     "artist_name": "Drake",
@@ -32953,7 +32953,7 @@ module.exports = [
   },
   {
     "id": 4120,
-    "line": "Nigga, where your shit from? I imported mine",
+    "line": "N****, where your s*** from? I imported mine",
     "song_lyrics_url": "https://genius.com/Drake-worst-behavior-lyrics",
     "song_name": "Worst Behavior",
     "artist_name": "Drake",
@@ -32969,7 +32969,7 @@ module.exports = [
   },
   {
     "id": 4122,
-    "line": "Fuck you bitch, I'm more than high",
+    "line": "f**k you b****, I'm more than high",
     "song_lyrics_url": "https://genius.com/Drake-worst-behavior-lyrics",
     "song_name": "Worst Behavior",
     "artist_name": "Drake",
@@ -33041,7 +33041,7 @@ module.exports = [
   },
   {
     "id": 4131,
-    "line": "Remember? Remember? Mothafucka, remember?",
+    "line": "Remember? Remember? Mothaf**ka, remember?",
     "song_lyrics_url": "https://genius.com/Drake-worst-behavior-lyrics",
     "song_name": "Worst Behavior",
     "artist_name": "Drake",
@@ -33057,7 +33057,7 @@ module.exports = [
   },
   {
     "id": 4133,
-    "line": "Remember? Mothafucka never loved us",
+    "line": "Remember? Mothaf**ka never loved us",
     "song_lyrics_url": "https://genius.com/Drake-worst-behavior-lyrics",
     "song_name": "Worst Behavior",
     "artist_name": "Drake",
@@ -33065,7 +33065,7 @@ module.exports = [
   },
   {
     "id": 4134,
-    "line": "Remember? Mothafucka, remember? Worst behavior",
+    "line": "Remember? Mothaf**ka, remember? Worst behavior",
     "song_lyrics_url": "https://genius.com/Drake-worst-behavior-lyrics",
     "song_name": "Worst Behavior",
     "artist_name": "Drake",
@@ -33081,7 +33081,7 @@ module.exports = [
   },
   {
     "id": 4136,
-    "line": "With them bitches, I don't get it, you're a star love",
+    "line": "With them b****es, I don't get it, you're a star love",
     "song_lyrics_url": "https://genius.com/Drake-from-time-lyrics",
     "song_name": "From Time",
     "artist_name": "Drake",
@@ -33137,7 +33137,7 @@ module.exports = [
   },
   {
     "id": 4143,
-    "line": "I needed to hear that shit, I hate when you're submissive",
+    "line": "I needed to hear that s***, I hate when you're submissive",
     "song_lyrics_url": "https://genius.com/Drake-from-time-lyrics",
     "song_name": "From Time",
     "artist_name": "Drake",
@@ -33153,7 +33153,7 @@ module.exports = [
   },
   {
     "id": 4145,
-    "line": "I look around the peers that surround me, these niggas tripping",
+    "line": "I look around the peers that surround me, these N****s tripping",
     "song_lyrics_url": "https://genius.com/Drake-from-time-lyrics",
     "song_name": "From Time",
     "artist_name": "Drake",
@@ -33225,7 +33225,7 @@ module.exports = [
   },
   {
     "id": 4154,
-    "line": "When he put that bottle down, girl that nigga's amazing",
+    "line": "When he put that bottle down, girl that N****'s amazing",
     "song_lyrics_url": "https://genius.com/Drake-from-time-lyrics",
     "song_name": "From Time",
     "artist_name": "Drake",
@@ -33233,7 +33233,7 @@ module.exports = [
   },
   {
     "id": 4155,
-    "line": "Well, fuck it, we had a couple Coronas",
+    "line": "Well, f**k it, we had a couple Coronas",
     "song_lyrics_url": "https://genius.com/Drake-from-time-lyrics",
     "song_name": "From Time",
     "artist_name": "Drake",
@@ -33289,7 +33289,7 @@ module.exports = [
   },
   {
     "id": 4162,
-    "line": "Who the fuck wants to be 70 and alone?",
+    "line": "Who the f**k wants to be 70 and alone?",
     "song_lyrics_url": "https://genius.com/Drake-from-time-lyrics",
     "song_name": "From Time",
     "artist_name": "Drake",
@@ -33481,7 +33481,7 @@ module.exports = [
   },
   {
     "id": 4186,
-    "line": "Know we were going through some shit, name a couple that isn't",
+    "line": "Know we were going through some s***, name a couple that isn't",
     "song_lyrics_url": "https://genius.com/Drake-from-time-lyrics",
     "song_name": "From Time",
     "artist_name": "Drake",
@@ -33497,7 +33497,7 @@ module.exports = [
   },
   {
     "id": 4188,
-    "line": "Girl I felt like we had it all planned out, I guess I fucked up the vision",
+    "line": "Girl I felt like we had it all planned out, I guess I f**ked up the vision",
     "song_lyrics_url": "https://genius.com/Drake-from-time-lyrics",
     "song_name": "From Time",
     "artist_name": "Drake",
@@ -34001,7 +34001,7 @@ module.exports = [
   },
   {
     "id": 4251,
-    "line": "Isn't it amazing how you talk all this shit and we still lack communication",
+    "line": "Isn't it amazing how you talk all this s*** and we still lack communication",
     "song_lyrics_url": "https://genius.com/Drake-connect-lyrics",
     "song_name": "Connect",
     "artist_name": "Drake",
@@ -34329,7 +34329,7 @@ module.exports = [
   },
   {
     "id": 4292,
-    "line": "Fuck I know I said that shit the last 7 weekends",
+    "line": "f**k I know I said that s*** the last 7 weekends",
     "song_lyrics_url": "https://genius.com/Drake-connect-lyrics",
     "song_name": "Connect",
     "artist_name": "Drake",
@@ -34353,7 +34353,7 @@ module.exports = [
   },
   {
     "id": 4295,
-    "line": "Cause there's niggas creepin and not like how we're creepin'",
+    "line": "Cause there's N****s creepin and not like how we're creepin'",
     "song_lyrics_url": "https://genius.com/Drake-connect-lyrics",
     "song_name": "Connect",
     "artist_name": "Drake",
@@ -34401,7 +34401,7 @@ module.exports = [
   },
   {
     "id": 4301,
-    "line": "I'm on my motherfuckin' way swangin'",
+    "line": "I'm on my motherf**kin' way swangin'",
     "song_lyrics_url": "https://genius.com/Drake-connect-lyrics",
     "song_name": "Connect",
     "artist_name": "Drake",
@@ -34441,7 +34441,7 @@ module.exports = [
   },
   {
     "id": 4306,
-    "line": "I know I'm late it's always the same shit",
+    "line": "I know I'm late it's always the same s***",
     "song_lyrics_url": "https://genius.com/Drake-connect-lyrics",
     "song_name": "Connect",
     "artist_name": "Drake",
@@ -34473,7 +34473,7 @@ module.exports = [
   },
   {
     "id": 4310,
-    "line": "But your shit is not that inspirin'",
+    "line": "But your s*** is not that inspirin'",
     "song_lyrics_url": "https://genius.com/Drake-the-language-lyrics",
     "song_name": "The Language",
     "artist_name": "Drake",
@@ -34497,7 +34497,7 @@ module.exports = [
   },
   {
     "id": 4313,
-    "line": "Fuck any nigga that's talking that shit just to get a reaction",
+    "line": "f**k any N**** that's talking that s*** just to get a reaction",
     "song_lyrics_url": "https://genius.com/Drake-the-language-lyrics",
     "song_name": "The Language",
     "artist_name": "Drake",
@@ -34505,7 +34505,7 @@ module.exports = [
   },
   {
     "id": 4314,
-    "line": "Fuck going platinum!",
+    "line": "f**k going platinum!",
     "song_lyrics_url": "https://genius.com/Drake-the-language-lyrics",
     "song_name": "The Language",
     "artist_name": "Drake",
@@ -34545,7 +34545,7 @@ module.exports = [
   },
   {
     "id": 4319,
-    "line": "Who is this nigga you heard about?",
+    "line": "Who is this N**** you heard about?",
     "song_lyrics_url": "https://genius.com/Drake-the-language-lyrics",
     "song_name": "The Language",
     "artist_name": "Drake",
@@ -34553,7 +34553,7 @@ module.exports = [
   },
   {
     "id": 4320,
-    "line": "Someone just talking that bullshit",
+    "line": "Someone just talking that bulls***",
     "song_lyrics_url": "https://genius.com/Drake-the-language-lyrics",
     "song_name": "The Language",
     "artist_name": "Drake",
@@ -34569,7 +34569,7 @@ module.exports = [
   },
   {
     "id": 4322,
-    "line": "Niggas downplayin' the money",
+    "line": "N****s downplayin' the money",
     "song_lyrics_url": "https://genius.com/Drake-the-language-lyrics",
     "song_name": "The Language",
     "artist_name": "Drake",
@@ -34641,7 +34641,7 @@ module.exports = [
   },
   {
     "id": 4331,
-    "line": "Bitch, I came up right under Stunna, you know it",
+    "line": "b****, I came up right under Stunna, you know it",
     "song_lyrics_url": "https://genius.com/Drake-the-language-lyrics",
     "song_name": "The Language",
     "artist_name": "Drake",
@@ -34673,7 +34673,7 @@ module.exports = [
   },
   {
     "id": 4335,
-    "line": "She just want to smoke and fuck",
+    "line": "She just want to smoke and f**k",
     "song_lyrics_url": "https://genius.com/Drake-the-language-lyrics",
     "song_name": "The Language",
     "artist_name": "Drake",
@@ -34729,7 +34729,7 @@ module.exports = [
   },
   {
     "id": 4342,
-    "line": "She just want to smoke and fuck",
+    "line": "She just want to smoke and f**k",
     "song_lyrics_url": "https://genius.com/Drake-the-language-lyrics",
     "song_name": "The Language",
     "artist_name": "Drake",
@@ -34753,7 +34753,7 @@ module.exports = [
   },
   {
     "id": 4345,
-    "line": "And fuck it, man, no one's invited",
+    "line": "And f**k it, man, no one's invited",
     "song_lyrics_url": "https://genius.com/Drake-the-language-lyrics",
     "song_name": "The Language",
     "artist_name": "Drake",
@@ -34761,7 +34761,7 @@ module.exports = [
   },
   {
     "id": 4346,
-    "line": "I got to kill off the weak shit",
+    "line": "I got to kill off the weak s***",
     "song_lyrics_url": "https://genius.com/Drake-the-language-lyrics",
     "song_name": "The Language",
     "artist_name": "Drake",
@@ -34769,7 +34769,7 @@ module.exports = [
   },
   {
     "id": 4347,
-    "line": "That's got all you niggas excited",
+    "line": "That's got all you N****s excited",
     "song_lyrics_url": "https://genius.com/Drake-the-language-lyrics",
     "song_name": "The Language",
     "artist_name": "Drake",
@@ -34817,7 +34817,7 @@ module.exports = [
   },
   {
     "id": 4353,
-    "line": "'Bout the shit that I been through",
+    "line": "'Bout the s*** that I been through",
     "song_lyrics_url": "https://genius.com/Drake-the-language-lyrics",
     "song_name": "The Language",
     "artist_name": "Drake",
@@ -34841,7 +34841,7 @@ module.exports = [
   },
   {
     "id": 4356,
-    "line": "Talkin' that shit with you back to me",
+    "line": "Talkin' that s*** with you back to me",
     "song_lyrics_url": "https://genius.com/Drake-the-language-lyrics",
     "song_name": "The Language",
     "artist_name": "Drake",
@@ -34961,7 +34961,7 @@ module.exports = [
   },
   {
     "id": 4371,
-    "line": "She just want to smoke and fuck",
+    "line": "She just want to smoke and f**k",
     "song_lyrics_url": "https://genius.com/Drake-the-language-lyrics",
     "song_name": "The Language",
     "artist_name": "Drake",
@@ -35017,7 +35017,7 @@ module.exports = [
   },
   {
     "id": 4378,
-    "line": "She just want to smoke and fuck",
+    "line": "She just want to smoke and f**k",
     "song_lyrics_url": "https://genius.com/Drake-the-language-lyrics",
     "song_name": "The Language",
     "artist_name": "Drake",
@@ -35065,7 +35065,7 @@ module.exports = [
   },
   {
     "id": 4384,
-    "line": "Stay fly, it's jet time � stunt, nigga!",
+    "line": "Stay fly, it's jet time stunt, N****!",
     "song_lyrics_url": "https://genius.com/Drake-the-language-lyrics",
     "song_name": "The Language",
     "artist_name": "Drake",
@@ -35073,7 +35073,7 @@ module.exports = [
   },
   {
     "id": 4385,
-    "line": "Every time you see a nigga � stunt, nigga!",
+    "line": "Every time you see a N**** stunt, N****!",
     "song_lyrics_url": "https://genius.com/Drake-the-language-lyrics",
     "song_name": "The Language",
     "artist_name": "Drake",
@@ -35081,7 +35081,7 @@ module.exports = [
   },
   {
     "id": 4386,
-    "line": "Every time you see a nigga � stunt, nigga!",
+    "line": "Every time you see a N**** stunt, N****!",
     "song_lyrics_url": "https://genius.com/Drake-the-language-lyrics",
     "song_name": "The Language",
     "artist_name": "Drake",
@@ -35089,7 +35089,7 @@ module.exports = [
   },
   {
     "id": 4387,
-    "line": "Swag on head to feet nigga � stunt, nigga!",
+    "line": "Swag on head to feet N**** stunt, N****!",
     "song_lyrics_url": "https://genius.com/Drake-the-language-lyrics",
     "song_name": "The Language",
     "artist_name": "Drake",
@@ -35113,7 +35113,7 @@ module.exports = [
   },
   {
     "id": 4390,
-    "line": "Drop down, drop-drop (Shit is real out here)",
+    "line": "Drop down, drop-drop (s*** is real out here)",
     "song_lyrics_url": "https://genius.com/Drake-305-to-my-city-lyrics",
     "song_name": "305 to My City",
     "artist_name": "Drake",
@@ -35225,7 +35225,7 @@ module.exports = [
   },
   {
     "id": 4404,
-    "line": "I get it I get it, man fuck all that talking, take shots to the kidney",
+    "line": "I get it I get it, man f**k all that talking, take shots to the kidney",
     "song_lyrics_url": "https://genius.com/Drake-305-to-my-city-lyrics",
     "song_name": "305 to My City",
     "artist_name": "Drake",
@@ -35249,7 +35249,7 @@ module.exports = [
   },
   {
     "id": 4407,
-    "line": "Connections are heavy, every real nigga they fuck with you",
+    "line": "Connections are heavy, every real N**** they f**k with you",
     "song_lyrics_url": "https://genius.com/Drake-305-to-my-city-lyrics",
     "song_name": "305 to My City",
     "artist_name": "Drake",
@@ -35257,7 +35257,7 @@ module.exports = [
   },
   {
     "id": 4408,
-    "line": "Nails chipped out in diamonds, you sparkle but fuck man",
+    "line": "Nails chipped out in diamonds, you sparkle but f**k man",
     "song_lyrics_url": "https://genius.com/Drake-305-to-my-city-lyrics",
     "song_name": "305 to My City",
     "artist_name": "Drake",
@@ -35385,7 +35385,7 @@ module.exports = [
   },
   {
     "id": 4424,
-    "line": "Shine on them hoes, let 'em know that you run shit",
+    "line": "Shine on them hoes, let 'em know that you run s***",
     "song_lyrics_url": "https://genius.com/Drake-305-to-my-city-lyrics",
     "song_name": "305 to My City",
     "artist_name": "Drake",
@@ -35393,7 +35393,7 @@ module.exports = [
   },
   {
     "id": 4425,
-    "line": "I get it I get it, I'm working too hard let's get into some fun shit",
+    "line": "I get it I get it, I'm working too hard let's get into some fun s***",
     "song_lyrics_url": "https://genius.com/Drake-305-to-my-city-lyrics",
     "song_name": "305 to My City",
     "artist_name": "Drake",
@@ -35665,7 +35665,7 @@ module.exports = [
   },
   {
     "id": 4459,
-    "line": "Fuck that, is anyone comin' 'fore I show up there and there's no one there?",
+    "line": "f**k that, is anyone comin' 'fore I show up there and there's no one there?",
     "song_lyrics_url": "https://genius.com/Drake-too-much-lyrics",
     "song_name": "Too Much",
     "artist_name": "Drake",
@@ -35801,7 +35801,7 @@ module.exports = [
   },
   {
     "id": 4476,
-    "line": "And now he's actin' like, \"Oh, well, this is life, I guess,\" Nah, fuck that shit",
+    "line": "And now he's actin' like, \"Oh, well, this is life, I guess,\" Nah, f**k that s***",
     "song_lyrics_url": "https://genius.com/Drake-too-much-lyrics",
     "song_name": "Too Much",
     "artist_name": "Drake",
@@ -35809,7 +35809,7 @@ module.exports = [
   },
   {
     "id": 4477,
-    "line": "Listen man, you can still do what you wanna do, you gotta trust that shit",
+    "line": "Listen man, you can still do what you wanna do, you gotta trust that s***",
     "song_lyrics_url": "https://genius.com/Drake-too-much-lyrics",
     "song_name": "Too Much",
     "artist_name": "Drake",
@@ -35841,7 +35841,7 @@ module.exports = [
   },
   {
     "id": 4481,
-    "line": "That she's too sick to get dressed up and go do shit, like that's true shit",
+    "line": "That she's too sick to get dressed up and go do s***, like that's true s***",
     "song_lyrics_url": "https://genius.com/Drake-too-much-lyrics",
     "song_name": "Too Much",
     "artist_name": "Drake",
@@ -35865,7 +35865,7 @@ module.exports = [
   },
   {
     "id": 4484,
-    "line": "Shit got me feeling pinned down, pick the pen up or put the pen down",
+    "line": "s*** got me feeling pinned down, pick the pen up or put the pen down",
     "song_lyrics_url": "https://genius.com/Drake-too-much-lyrics",
     "song_name": "Too Much",
     "artist_name": "Drake",
@@ -36017,7 +36017,7 @@ module.exports = [
   },
   {
     "id": 4503,
-    "line": "You know, years ago they had the A&R men to tell you what to play, how to play it and you know whether it's disco and rock but we just went in the studio and we did it. We had the champagne in the studio, of course�compliments of the company�and we just laid back and did it. So we hope you enjoy listening to this album half as much as we enjoyed playing it for you. Because we had a ball. Only real music is gonna last�all the other bullshit is here today and gone tomorrow...",
+    "line": "You know, years ago they had the A&R men to tell you what to play, how to play it and you know whether it's disco and rock but we just went in the studio and we did it. We had the champagne in the studio, of course�compliments of the company�and we just laid back and did it. So we hope you enjoy listening to this album half as much as we enjoyed playing it for you. Because we had a ball. Only real music is gonna last�all the other bulls*** is here today and gone tomorrow...",
     "song_lyrics_url": "https://genius.com/Drake-pound-cake-paris-morton-music-2-lyrics",
     "song_name": "Pound Cake / Paris Morton Music 2",
     "artist_name": "Drake",
@@ -36113,7 +36113,7 @@ module.exports = [
   },
   {
     "id": 4515,
-    "line": "I'm holdin' all the cards and niggas wanna play chess now",
+    "line": "I'm holdin' all the cards and N****s wanna play chess now",
     "song_lyrics_url": "https://genius.com/Drake-pound-cake-paris-morton-music-2-lyrics",
     "song_name": "Pound Cake / Paris Morton Music 2",
     "artist_name": "Drake",
@@ -36129,7 +36129,7 @@ module.exports = [
   },
   {
     "id": 4517,
-    "line": "Fuck it, I don't even tint it, they should know who's in it",
+    "line": "f**k it, I don't even tint it, they should know who's in it",
     "song_lyrics_url": "https://genius.com/Drake-pound-cake-paris-morton-music-2-lyrics",
     "song_name": "Pound Cake / Paris Morton Music 2",
     "artist_name": "Drake",
@@ -36145,7 +36145,7 @@ module.exports = [
   },
   {
     "id": 4519,
-    "line": "No game, no scrimmage, I ain't playin' with you niggas at all",
+    "line": "No game, no scrimmage, I ain't playin' with you N****s at all",
     "song_lyrics_url": "https://genius.com/Drake-pound-cake-paris-morton-music-2-lyrics",
     "song_name": "Pound Cake / Paris Morton Music 2",
     "artist_name": "Drake",
@@ -36201,7 +36201,7 @@ module.exports = [
   },
   {
     "id": 4526,
-    "line": "With the ink I could murder, word to my nigga Irv",
+    "line": "With the ink I could murder, word to my N**** Irv",
     "song_lyrics_url": "https://genius.com/Drake-pound-cake-paris-morton-music-2-lyrics",
     "song_name": "Pound Cake / Paris Morton Music 2",
     "artist_name": "Drake",
@@ -36209,7 +36209,7 @@ module.exports = [
   },
   {
     "id": 4527,
-    "line": "Yeah, I swear shit just started clickin' dog",
+    "line": "Yeah, I swear s*** just started clickin' dog",
     "song_lyrics_url": "https://genius.com/Drake-pound-cake-paris-morton-music-2-lyrics",
     "song_name": "Pound Cake / Paris Morton Music 2",
     "artist_name": "Drake",
@@ -36377,7 +36377,7 @@ module.exports = [
   },
   {
     "id": 4548,
-    "line": "I told 'em \"Less is more niggas, plenty of us",
+    "line": "I told 'em \"Less is more N****s, plenty of us",
     "song_lyrics_url": "https://genius.com/Drake-pound-cake-paris-morton-music-2-lyrics",
     "song_name": "Pound Cake / Paris Morton Music 2",
     "artist_name": "Drake",
@@ -36417,7 +36417,7 @@ module.exports = [
   },
   {
     "id": 4553,
-    "line": "Niggas is frontin', that's upside-down cake",
+    "line": "N****s is frontin', that's upside-down cake",
     "song_lyrics_url": "https://genius.com/Drake-pound-cake-paris-morton-music-2-lyrics",
     "song_name": "Pound Cake / Paris Morton Music 2",
     "artist_name": "Drake",
@@ -36465,7 +36465,7 @@ module.exports = [
   },
   {
     "id": 4559,
-    "line": "I'm just gettin' started, oh, yeah, we got it bitch",
+    "line": "I'm just gettin' started, oh, yeah, we got it b****",
     "song_lyrics_url": "https://genius.com/Drake-pound-cake-paris-morton-music-2-lyrics",
     "song_name": "Pound Cake / Paris Morton Music 2",
     "artist_name": "Drake",
@@ -36737,7 +36737,7 @@ module.exports = [
   },
   {
     "id": 4593,
-    "line": "But who the fuck can focus with this twerkin' going on",
+    "line": "But who the f**k can focus with this twerkin' going on",
     "song_lyrics_url": "https://genius.com/Drake-come-thru-lyrics",
     "song_name": "Come Thru",
     "artist_name": "Drake",
@@ -37009,7 +37009,7 @@ module.exports = [
   },
   {
     "id": 4627,
-    "line": "These bitches gotta start paying me for this",
+    "line": "These b****es gotta start paying me for this",
     "song_lyrics_url": "https://genius.com/Drake-all-me-lyrics",
     "song_name": "All Me",
     "artist_name": "Drake",
@@ -37049,7 +37049,7 @@ module.exports = [
   },
   {
     "id": 4632,
-    "line": "Fuck that, never mind what I got",
+    "line": "f**k that, never mind what I got",
     "song_lyrics_url": "https://genius.com/Drake-all-me-lyrics",
     "song_name": "All Me",
     "artist_name": "Drake",
@@ -37057,7 +37057,7 @@ module.exports = [
   },
   {
     "id": 4633,
-    "line": "Nigga don't watch that 'cause I�",
+    "line": "N**** don't watch that 'cause I�",
     "song_lyrics_url": "https://genius.com/Drake-all-me-lyrics",
     "song_name": "All Me",
     "artist_name": "Drake",
@@ -37121,7 +37121,7 @@ module.exports = [
   },
   {
     "id": 4641,
-    "line": "(Ah) She want all the fame, I hear that shit all the time",
+    "line": "(Ah) She want all the fame, I hear that s*** all the time",
     "song_lyrics_url": "https://genius.com/Drake-all-me-lyrics",
     "song_name": "All Me",
     "artist_name": "Drake",
@@ -37145,7 +37145,7 @@ module.exports = [
   },
   {
     "id": 4644,
-    "line": "Walked in, \"Ill nigga alert! Ill nigga alert!",
+    "line": "Walked in, \"Ill N**** alert! Ill N**** alert!",
     "song_lyrics_url": "https://genius.com/Drake-all-me-lyrics",
     "song_name": "All Me",
     "artist_name": "Drake",
@@ -37153,7 +37153,7 @@ module.exports = [
   },
   {
     "id": 4645,
-    "line": "You need that work, I got that work, got bitches in my condo",
+    "line": "You need that work, I got that work, got b****es in my condo",
     "song_lyrics_url": "https://genius.com/Drake-all-me-lyrics",
     "song_name": "All Me",
     "artist_name": "Drake",
@@ -37193,7 +37193,7 @@ module.exports = [
   },
   {
     "id": 4650,
-    "line": "Givenchy, nigga God bless you",
+    "line": "Givenchy, N**** God bless you",
     "song_lyrics_url": "https://genius.com/Drake-all-me-lyrics",
     "song_name": "All Me",
     "artist_name": "Drake",
@@ -37201,7 +37201,7 @@ module.exports = [
   },
   {
     "id": 4651,
-    "line": "If having a bad bitch was a crime, I'd be arrested (Tru)",
+    "line": "If having a bad b**** was a crime, I'd be arrested (Tru)",
     "song_lyrics_url": "https://genius.com/Drake-all-me-lyrics",
     "song_name": "All Me",
     "artist_name": "Drake",
@@ -37233,7 +37233,7 @@ module.exports = [
   },
   {
     "id": 4655,
-    "line": "Fuck that, never mind what I got",
+    "line": "f**k that, never mind what I got",
     "song_lyrics_url": "https://genius.com/Drake-all-me-lyrics",
     "song_name": "All Me",
     "artist_name": "Drake",
@@ -37241,7 +37241,7 @@ module.exports = [
   },
   {
     "id": 4656,
-    "line": "Nigga don't watch that 'cause I�",
+    "line": "N**** don't watch that 'cause I�",
     "song_lyrics_url": "https://genius.com/Drake-all-me-lyrics",
     "song_name": "All Me",
     "artist_name": "Drake",
@@ -37289,7 +37289,7 @@ module.exports = [
   },
   {
     "id": 4662,
-    "line": "I even fucked the girl that used to babysit",
+    "line": "I even f**ked the girl that used to babysit",
     "song_lyrics_url": "https://genius.com/Drake-all-me-lyrics",
     "song_name": "All Me",
     "artist_name": "Drake",
@@ -37297,7 +37297,7 @@ module.exports = [
   },
   {
     "id": 4663,
-    "line": "But that was years later on some crazy shit",
+    "line": "But that was years later on some crazy s***",
     "song_lyrics_url": "https://genius.com/Drake-all-me-lyrics",
     "song_name": "All Me",
     "artist_name": "Drake",
@@ -37305,7 +37305,7 @@ module.exports = [
   },
   {
     "id": 4664,
-    "line": "I heard your new shit, nigga hated it",
+    "line": "I heard your new s***, N**** hated it",
     "song_lyrics_url": "https://genius.com/Drake-all-me-lyrics",
     "song_name": "All Me",
     "artist_name": "Drake",
@@ -37313,7 +37313,7 @@ module.exports = [
   },
   {
     "id": 4665,
-    "line": "Damon Wayans, homie don't play that shit",
+    "line": "Damon Wayans, homie don't play that s***",
     "song_lyrics_url": "https://genius.com/Drake-all-me-lyrics",
     "song_name": "All Me",
     "artist_name": "Drake",
@@ -37329,7 +37329,7 @@ module.exports = [
   },
   {
     "id": 4667,
-    "line": "And my latest shit is like a greatest hits",
+    "line": "And my latest s*** is like a greatest hits",
     "song_lyrics_url": "https://genius.com/Drake-all-me-lyrics",
     "song_name": "All Me",
     "artist_name": "Drake",
@@ -37345,7 +37345,7 @@ module.exports = [
   },
   {
     "id": 4669,
-    "line": "Y'all don't fuck with us, then we don't fuck with y'all",
+    "line": "Y'all don't f**k with us, then we don't f**k with y'all",
     "song_lyrics_url": "https://genius.com/Drake-all-me-lyrics",
     "song_name": "All Me",
     "artist_name": "Drake",
@@ -37377,7 +37377,7 @@ module.exports = [
   },
   {
     "id": 4673,
-    "line": "You're the motherfucking man, you don't need no help",
+    "line": "You're the motherf**king man, you don't need no help",
     "song_lyrics_url": "https://genius.com/Drake-all-me-lyrics",
     "song_name": "All Me",
     "artist_name": "Drake",
@@ -37441,7 +37441,7 @@ module.exports = [
   },
   {
     "id": 4681,
-    "line": "I was made for all of this shit",
+    "line": "I was made for all of this s***",
     "song_lyrics_url": "https://genius.com/Drake-all-me-lyrics",
     "song_name": "All Me",
     "artist_name": "Drake",
@@ -37457,7 +37457,7 @@ module.exports = [
   },
   {
     "id": 4683,
-    "line": "I�m getting paid for all of this shit",
+    "line": "I�m getting paid for all of this s***",
     "song_lyrics_url": "https://genius.com/Drake-all-me-lyrics",
     "song_name": "All Me",
     "artist_name": "Drake",
@@ -37521,7 +37521,7 @@ module.exports = [
   },
   {
     "id": 4691,
-    "line": "Fuck that, never mind what I got",
+    "line": "f**k that, never mind what I got",
     "song_lyrics_url": "https://genius.com/Drake-all-me-lyrics",
     "song_name": "All Me",
     "artist_name": "Drake",
@@ -37529,7 +37529,7 @@ module.exports = [
   },
   {
     "id": 4692,
-    "line": "Nigga don't watch that 'cause I�",
+    "line": "N**** don't watch that 'cause I�",
     "song_lyrics_url": "https://genius.com/Drake-all-me-lyrics",
     "song_name": "All Me",
     "artist_name": "Drake",
@@ -37561,7 +37561,7 @@ module.exports = [
   },
   {
     "id": 4696,
-    "line": "Ho, shut the fuck up!",
+    "line": "Ho, shut the f**k up!",
     "song_lyrics_url": "https://genius.com/Drake-all-me-lyrics",
     "song_name": "All Me",
     "artist_name": "Drake",
@@ -37633,7 +37633,7 @@ module.exports = [
   },
   {
     "id": 4705,
-    "line": "Wearing retro shit, that's old fashion",
+    "line": "Wearing retro s***, that's old fashion",
     "song_lyrics_url": "https://genius.com/Drake-all-me-lyrics",
     "song_name": "All Me",
     "artist_name": "Drake",
@@ -37641,7 +37641,7 @@ module.exports = [
   },
   {
     "id": 4706,
-    "line": "Nigga, see what I'm saying, no closed caption",
+    "line": "N****, see what I'm saying, no closed caption",
     "song_lyrics_url": "https://genius.com/Drake-all-me-lyrics",
     "song_name": "All Me",
     "artist_name": "Drake",
@@ -37649,7 +37649,7 @@ module.exports = [
   },
   {
     "id": 4707,
-    "line": "I paint pics, see the shit, good sex, need to hit",
+    "line": "I paint pics, see the s***, good sex, need to hit",
     "song_lyrics_url": "https://genius.com/Drake-all-me-lyrics",
     "song_name": "All Me",
     "artist_name": "Drake",
@@ -37681,7 +37681,7 @@ module.exports = [
   },
   {
     "id": 4711,
-    "line": "My new girl is on Glee and shit",
+    "line": "My new girl is on Glee and s***",
     "song_lyrics_url": "https://genius.com/Drake-all-me-lyrics",
     "song_name": "All Me",
     "artist_name": "Drake",
@@ -37689,7 +37689,7 @@ module.exports = [
   },
   {
     "id": 4712,
-    "line": "Probably making more money than me and shit",
+    "line": "Probably making more money than me and s***",
     "song_lyrics_url": "https://genius.com/Drake-all-me-lyrics",
     "song_name": "All Me",
     "artist_name": "Drake",
@@ -37697,7 +37697,7 @@ module.exports = [
   },
   {
     "id": 4713,
-    "line": "I swear to God I got 99 problems but a bitch ain't one",
+    "line": "I swear to God I got 99 problems but a b**** ain't one",
     "song_lyrics_url": "https://genius.com/Drake-all-me-lyrics",
     "song_name": "All Me",
     "artist_name": "Drake",
@@ -37769,7 +37769,7 @@ module.exports = [
   },
   {
     "id": 4722,
-    "line": "Niggas still hating but it ain't working",
+    "line": "N****s still hating but it ain't working",
     "song_lyrics_url": "https://genius.com/Drake-all-me-lyrics",
     "song_name": "All Me",
     "artist_name": "Drake",
@@ -37777,7 +37777,7 @@ module.exports = [
   },
   {
     "id": 4723,
-    "line": "Lil' bitch...",
+    "line": "Lil' b****...",
     "song_lyrics_url": "https://genius.com/Drake-all-me-lyrics",
     "song_name": "All Me",
     "artist_name": "Drake",
@@ -37793,7 +37793,7 @@ module.exports = [
   },
   {
     "id": 4725,
-    "line": "I think I done fucked too many women from the 305",
+    "line": "I think I done f**ked too many women from the 305",
     "song_lyrics_url": "https://genius.com/Drake-all-me-lyrics",
     "song_name": "All Me",
     "artist_name": "Drake",
@@ -37841,7 +37841,7 @@ module.exports = [
   },
   {
     "id": 4731,
-    "line": "They dont really fuck with you like that",
+    "line": "They dont really f**k with you like that",
     "song_lyrics_url": "https://genius.com/Drake-all-me-lyrics",
     "song_name": "All Me",
     "artist_name": "Drake",
@@ -37881,7 +37881,7 @@ module.exports = [
   },
   {
     "id": 4736,
-    "line": "And I need that shit right back (No more free Randy)",
+    "line": "And I need that s*** right back (No more free Randy)",
     "song_lyrics_url": "https://genius.com/Drake-all-me-lyrics",
     "song_name": "All Me",
     "artist_name": "Drake",
@@ -37889,7 +37889,7 @@ module.exports = [
   },
   {
     "id": 4737,
-    "line": "I�m blessed than a motherfucka",
+    "line": "I�m blessed than a motherf**ka",
     "song_lyrics_url": "https://genius.com/Drake-all-me-lyrics",
     "song_name": "All Me",
     "artist_name": "Drake",
@@ -37897,7 +37897,7 @@ module.exports = [
   },
   {
     "id": 4738,
-    "line": "Niggas been stressed than a motherfucka",
+    "line": "N****s been stressed than a motherf**ka",
     "song_lyrics_url": "https://genius.com/Drake-all-me-lyrics",
     "song_name": "All Me",
     "artist_name": "Drake",
@@ -37905,7 +37905,7 @@ module.exports = [
   },
   {
     "id": 4739,
-    "line": "Niggas getting nervous",
+    "line": "N****s getting nervous",
     "song_lyrics_url": "https://genius.com/Drake-all-me-lyrics",
     "song_name": "All Me",
     "artist_name": "Drake",
@@ -37913,7 +37913,7 @@ module.exports = [
   },
   {
     "id": 4740,
-    "line": "Clutching they chests like a motherfucka",
+    "line": "Clutching they chests like a motherf**ka",
     "song_lyrics_url": "https://genius.com/Drake-all-me-lyrics",
     "song_name": "All Me",
     "artist_name": "Drake",
@@ -37921,7 +37921,7 @@ module.exports = [
   },
   {
     "id": 4741,
-    "line": "Damn that�s a motherfucker",
+    "line": "Damn that�s a motherf**ker",
     "song_lyrics_url": "https://genius.com/Drake-all-me-lyrics",
     "song_name": "All Me",
     "artist_name": "Drake",
@@ -37969,7 +37969,7 @@ module.exports = [
   },
   {
     "id": 4747,
-    "line": "Like a motherfucking drive-thru",
+    "line": "Like a motherf**king drive-thru",
     "song_lyrics_url": "https://genius.com/Drake-all-me-lyrics",
     "song_name": "All Me",
     "artist_name": "Drake",
@@ -37985,7 +37985,7 @@ module.exports = [
   },
   {
     "id": 4749,
-    "line": "Now my niggas rich enough to do whatever I do",
+    "line": "Now my N****s rich enough to do whatever I do",
     "song_lyrics_url": "https://genius.com/Drake-all-me-lyrics",
     "song_name": "All Me",
     "artist_name": "Drake",
@@ -38049,7 +38049,7 @@ module.exports = [
   },
   {
     "id": 4757,
-    "line": "I don't have a fuck to give, I've been moving state to state",
+    "line": "I don't have a f**k to give, I've been moving state to state",
     "song_lyrics_url": "https://genius.com/Drake-the-motion-lyrics",
     "song_name": "The Motion",
     "artist_name": "Drake",
@@ -38065,7 +38065,7 @@ module.exports = [
   },
   {
     "id": 4759,
-    "line": "And my dog Chubby Chub, that's my nigga from the way",
+    "line": "And my dog Chubby Chub, that's my N**** from the way",
     "song_lyrics_url": "https://genius.com/Drake-the-motion-lyrics",
     "song_name": "The Motion",
     "artist_name": "Drake",
@@ -38393,7 +38393,7 @@ module.exports = [
   },
   {
     "id": 4800,
-    "line": "Fuck it, I was on though",
+    "line": "f**k it, I was on though",
     "song_lyrics_url": "https://genius.com/Drake-over-my-dead-body-lyrics",
     "song_name": "Over My Dead Body",
     "artist_name": "Drake",
@@ -38409,7 +38409,7 @@ module.exports = [
   },
   {
     "id": 4802,
-    "line": "Fuck it, I was wrong though",
+    "line": "f**k it, I was wrong though",
     "song_lyrics_url": "https://genius.com/Drake-over-my-dead-body-lyrics",
     "song_name": "Over My Dead Body",
     "artist_name": "Drake",
@@ -38417,7 +38417,7 @@ module.exports = [
   },
   {
     "id": 4803,
-    "line": "Shout out to all my niggas living tax free",
+    "line": "Shout out to all my N****s living tax free",
     "song_lyrics_url": "https://genius.com/Drake-over-my-dead-body-lyrics",
     "song_name": "Over My Dead Body",
     "artist_name": "Drake",
@@ -38481,7 +38481,7 @@ module.exports = [
   },
   {
     "id": 4811,
-    "line": "Yeah, you know me well, nigga",
+    "line": "Yeah, you know me well, N****",
     "song_lyrics_url": "https://genius.com/Drake-over-my-dead-body-lyrics",
     "song_name": "Over My Dead Body",
     "artist_name": "Drake",
@@ -38489,7 +38489,7 @@ module.exports = [
   },
   {
     "id": 4812,
-    "line": "I mean you ain't the only real nigga",
+    "line": "I mean you ain't the only real N****",
     "song_lyrics_url": "https://genius.com/Drake-over-my-dead-body-lyrics",
     "song_name": "Over My Dead Body",
     "artist_name": "Drake",
@@ -38497,7 +38497,7 @@ module.exports = [
   },
   {
     "id": 4813,
-    "line": "They got me on these white women like Seal, nigga",
+    "line": "They got me on these white women like Seal, N****",
     "song_lyrics_url": "https://genius.com/Drake-over-my-dead-body-lyrics",
     "song_name": "Over My Dead Body",
     "artist_name": "Drake",
@@ -38505,7 +38505,7 @@ module.exports = [
   },
   {
     "id": 4814,
-    "line": "Slave to the pussy but I'm just playing the field, nigga",
+    "line": "Slave to the pussy but I'm just playing the field, N****",
     "song_lyrics_url": "https://genius.com/Drake-over-my-dead-body-lyrics",
     "song_name": "Over My Dead Body",
     "artist_name": "Drake",
@@ -38529,7 +38529,7 @@ module.exports = [
   },
   {
     "id": 4817,
-    "line": "Don't I got the shit the world wanna hear again?",
+    "line": "Don't I got the s*** the world wanna hear again?",
     "song_lyrics_url": "https://genius.com/Drake-over-my-dead-body-lyrics",
     "song_name": "Over My Dead Body",
     "artist_name": "Drake",
@@ -38561,7 +38561,7 @@ module.exports = [
   },
   {
     "id": 4821,
-    "line": "And I be hearing the shit you say through the grapevine",
+    "line": "And I be hearing the s*** you say through the grapevine",
     "song_lyrics_url": "https://genius.com/Drake-over-my-dead-body-lyrics",
     "song_name": "Over My Dead Body",
     "artist_name": "Drake",
@@ -38673,7 +38673,7 @@ module.exports = [
   },
   {
     "id": 4835,
-    "line": "And shout out to the niggas that's doing dead time",
+    "line": "And shout out to the N****s that's doing dead time",
     "song_lyrics_url": "https://genius.com/Drake-over-my-dead-body-lyrics",
     "song_name": "Over My Dead Body",
     "artist_name": "Drake",
@@ -38681,7 +38681,7 @@ module.exports = [
   },
   {
     "id": 4836,
-    "line": "Shout out to the bitches there when it's bedtime",
+    "line": "Shout out to the b****es there when it's bedtime",
     "song_lyrics_url": "https://genius.com/Drake-over-my-dead-body-lyrics",
     "song_name": "Over My Dead Body",
     "artist_name": "Drake",
@@ -38689,7 +38689,7 @@ module.exports = [
   },
   {
     "id": 4837,
-    "line": "And fuck you to the niggas that think it's their time",
+    "line": "And f**k you to the N****s that think it's their time",
     "song_lyrics_url": "https://genius.com/Drake-over-my-dead-body-lyrics",
     "song_name": "Over My Dead Body",
     "artist_name": "Drake",
@@ -38705,7 +38705,7 @@ module.exports = [
   },
   {
     "id": 4839,
-    "line": "You and whoever the fuck gave you your start boy",
+    "line": "You and whoever the f**k gave you your start boy",
     "song_lyrics_url": "https://genius.com/Drake-over-my-dead-body-lyrics",
     "song_name": "Over My Dead Body",
     "artist_name": "Drake",
@@ -38713,7 +38713,7 @@ module.exports = [
   },
   {
     "id": 4840,
-    "line": "Oh, you wanna be a motherfucking funny guy?",
+    "line": "Oh, you wanna be a motherf**king funny guy?",
     "song_lyrics_url": "https://genius.com/Drake-over-my-dead-body-lyrics",
     "song_name": "Over My Dead Body",
     "artist_name": "Drake",
@@ -38897,7 +38897,7 @@ module.exports = [
   },
   {
     "id": 4863,
-    "line": "Regret got shit on what you're feelin' now",
+    "line": "Regret got s*** on what you're feelin' now",
     "song_lyrics_url": "https://genius.com/Drake-shot-for-me-lyrics",
     "song_name": "Shot for Me",
     "artist_name": "Drake",
@@ -38969,7 +38969,7 @@ module.exports = [
   },
   {
     "id": 4872,
-    "line": "Bitch, I'm the man, don't you forget it",
+    "line": "b****, I'm the man, don't you forget it",
     "song_lyrics_url": "https://genius.com/Drake-shot-for-me-lyrics",
     "song_name": "Shot for Me",
     "artist_name": "Drake",
@@ -39313,7 +39313,7 @@ module.exports = [
   },
   {
     "id": 4915,
-    "line": "Started not to give a fuck and stopped fearin' the consequence",
+    "line": "Started not to give a f**k and stopped fearin' the consequence",
     "song_lyrics_url": "https://genius.com/Drake-headlines-lyrics",
     "song_name": "Headlines",
     "artist_name": "Drake",
@@ -39345,7 +39345,7 @@ module.exports = [
   },
   {
     "id": 4919,
-    "line": "I just take my time with all this shit, I still believe in that",
+    "line": "I just take my time with all this s***, I still believe in that",
     "song_lyrics_url": "https://genius.com/Drake-headlines-lyrics",
     "song_name": "Headlines",
     "artist_name": "Drake",
@@ -39481,7 +39481,7 @@ module.exports = [
   },
   {
     "id": 4936,
-    "line": "Fuck them other guys",
+    "line": "f**k them other guys",
     "song_lyrics_url": "https://genius.com/Drake-headlines-lyrics",
     "song_name": "Headlines",
     "artist_name": "Drake",
@@ -39553,7 +39553,7 @@ module.exports = [
   },
   {
     "id": 4945,
-    "line": "That new shit that you got is overdue",
+    "line": "That new s*** that you got is overdue",
     "song_lyrics_url": "https://genius.com/Drake-headlines-lyrics",
     "song_name": "Headlines",
     "artist_name": "Drake",
@@ -39593,7 +39593,7 @@ module.exports = [
   },
   {
     "id": 4950,
-    "line": "Soap opera rappers, all these niggas sound like All My Children",
+    "line": "Soap opera rappers, all these N****s sound like All My Children",
     "song_lyrics_url": "https://genius.com/Drake-headlines-lyrics",
     "song_name": "Headlines",
     "artist_name": "Drake",
@@ -39641,7 +39641,7 @@ module.exports = [
   },
   {
     "id": 4956,
-    "line": "When they get my shit and play it",
+    "line": "When they get my s*** and play it",
     "song_lyrics_url": "https://genius.com/Drake-headlines-lyrics",
     "song_name": "Headlines",
     "artist_name": "Drake",
@@ -39697,7 +39697,7 @@ module.exports = [
   },
   {
     "id": 4963,
-    "line": "Fuck them other guys",
+    "line": "f**k them other guys",
     "song_lyrics_url": "https://genius.com/Drake-headlines-lyrics",
     "song_name": "Headlines",
     "artist_name": "Drake",
@@ -39873,7 +39873,7 @@ module.exports = [
   },
   {
     "id": 4985,
-    "line": "There's a room full of niggas",
+    "line": "There's a room full of N****s",
     "song_lyrics_url": "https://genius.com/Drake-crew-love-lyrics",
     "song_name": "Crew Love",
     "artist_name": "Drake",
@@ -39889,7 +39889,7 @@ module.exports = [
   },
   {
     "id": 4987,
-    "line": "This ain't no fucking sing-along",
+    "line": "This ain't no f**king sing-along",
     "song_lyrics_url": "https://genius.com/Drake-crew-love-lyrics",
     "song_name": "Crew Love",
     "artist_name": "Drake",
@@ -40145,7 +40145,7 @@ module.exports = [
   },
   {
     "id": 5019,
-    "line": "The realest niggas say your lyrics do shit for me",
+    "line": "The realest N****s say your lyrics do s*** for me",
     "song_lyrics_url": "https://genius.com/Drake-crew-love-lyrics",
     "song_name": "Crew Love",
     "artist_name": "Drake",
@@ -40281,7 +40281,7 @@ module.exports = [
   },
   {
     "id": 5036,
-    "line": "(If you broadcast swag, nigga, we the news in your city)",
+    "line": "(If you broadcast swag, N****, we the news in your city)",
     "song_lyrics_url": "https://genius.com/Drake-crew-love-lyrics",
     "song_name": "Crew Love",
     "artist_name": "Drake",
@@ -40745,7 +40745,7 @@ module.exports = [
   },
   {
     "id": 5094,
-    "line": "Yeah, I'm good� You still working?",
+    "line": "Yeah, I'm goodYou still working?",
     "song_lyrics_url": "https://genius.com/Drake-marvins-room-lyrics",
     "song_name": "Marvin's Room",
     "artist_name": "Drake",
@@ -40753,7 +40753,7 @@ module.exports = [
   },
   {
     "id": 5095,
-    "line": "Tonight� Right now? Did I go out?",
+    "line": "TonightRight now? Did I go out?",
     "song_lyrics_url": "https://genius.com/Drake-marvins-room-lyrics",
     "song_name": "Marvin's Room",
     "artist_name": "Drake",
@@ -40777,7 +40777,7 @@ module.exports = [
   },
   {
     "id": 5098,
-    "line": "I never went to bed, shit�",
+    "line": "I never went to bed, s***�",
     "song_lyrics_url": "https://genius.com/Drake-marvins-room-lyrics",
     "song_name": "Marvin's Room",
     "artist_name": "Drake",
@@ -40817,7 +40817,7 @@ module.exports = [
   },
   {
     "id": 5103,
-    "line": "Bitches in my old phone",
+    "line": "b****es in my old phone",
     "song_lyrics_url": "https://genius.com/Drake-marvins-room-lyrics",
     "song_name": "Marvin's Room",
     "artist_name": "Drake",
@@ -40873,7 +40873,7 @@ module.exports = [
   },
   {
     "id": 5110,
-    "line": "Fuck that nigga that you love so bad",
+    "line": "f**k that N**** that you love so bad",
     "song_lyrics_url": "https://genius.com/Drake-marvins-room-lyrics",
     "song_name": "Marvin's Room",
     "artist_name": "Drake",
@@ -40889,7 +40889,7 @@ module.exports = [
   },
   {
     "id": 5112,
-    "line": "I say fuck that nigga that you think you found",
+    "line": "I say f**k that N**** that you think you found",
     "song_lyrics_url": "https://genius.com/Drake-marvins-room-lyrics",
     "song_name": "Marvin's Room",
     "artist_name": "Drake",
@@ -41009,7 +41009,7 @@ module.exports = [
   },
   {
     "id": 5127,
-    "line": "Fuck that nigga that you love so bad",
+    "line": "f**k that N**** that you love so bad",
     "song_lyrics_url": "https://genius.com/Drake-marvins-room-lyrics",
     "song_name": "Marvin's Room",
     "artist_name": "Drake",
@@ -41025,7 +41025,7 @@ module.exports = [
   },
   {
     "id": 5129,
-    "line": "I say fuck that nigga that you think you found",
+    "line": "I say f**k that N**** that you think you found",
     "song_lyrics_url": "https://genius.com/Drake-marvins-room-lyrics",
     "song_name": "Marvin's Room",
     "artist_name": "Drake",
@@ -41089,7 +41089,7 @@ module.exports = [
   },
   {
     "id": 5137,
-    "line": "And sitting talking 'bout bitches that we almost had",
+    "line": "And sitting talking 'bout b****es that we almost had",
     "song_lyrics_url": "https://genius.com/Drake-marvins-room-lyrics",
     "song_name": "Marvin's Room",
     "artist_name": "Drake",
@@ -41113,7 +41113,7 @@ module.exports = [
   },
   {
     "id": 5140,
-    "line": "But, shit, it's all good",
+    "line": "But, s***, it's all good",
     "song_lyrics_url": "https://genius.com/Drake-marvins-room-lyrics",
     "song_name": "Marvin's Room",
     "artist_name": "Drake",
@@ -41129,7 +41129,7 @@ module.exports = [
   },
   {
     "id": 5142,
-    "line": "Bitches came over, yeah, we threw a party",
+    "line": "b****es came over, yeah, we threw a party",
     "song_lyrics_url": "https://genius.com/Drake-marvins-room-lyrics",
     "song_name": "Marvin's Room",
     "artist_name": "Drake",
@@ -41321,7 +41321,7 @@ module.exports = [
   },
   {
     "id": 5166,
-    "line": "Her white friend said \"You niggas crazy",
+    "line": "Her white friend said \"You N****s crazy",
     "song_lyrics_url": "https://genius.com/Drake-marvins-room-lyrics",
     "song_name": "Marvin's Room",
     "artist_name": "Drake",
@@ -41561,7 +41561,7 @@ module.exports = [
   },
   {
     "id": 5196,
-    "line": "I tell a bad bitch yo' ass too fat, Capitalize That",
+    "line": "I tell a bad b**** yo' ass too fat, Capitalize That",
     "song_lyrics_url": "https://genius.com/Drake-buried-alive-interlude-lyrics",
     "song_name": "Buried Alive (Interlude)",
     "artist_name": "Drake",
@@ -41641,7 +41641,7 @@ module.exports = [
   },
   {
     "id": 5206,
-    "line": "No doors, all that nigga was missin' was Aaliyah",
+    "line": "No doors, all that N**** was missin' was Aaliyah",
     "song_lyrics_url": "https://genius.com/Drake-buried-alive-interlude-lyrics",
     "song_name": "Buried Alive (Interlude)",
     "artist_name": "Drake",
@@ -41665,7 +41665,7 @@ module.exports = [
   },
   {
     "id": 5209,
-    "line": "And how the women be the taste makers for the shit we makin'",
+    "line": "And how the women be the taste makers for the s*** we makin'",
     "song_lyrics_url": "https://genius.com/Drake-buried-alive-interlude-lyrics",
     "song_name": "Buried Alive (Interlude)",
     "artist_name": "Drake",
@@ -41673,7 +41673,7 @@ module.exports = [
   },
   {
     "id": 5210,
-    "line": "Then he said that he was the same age as� myself",
+    "line": "Then he said that he was the same age asmyself",
     "song_lyrics_url": "https://genius.com/Drake-buried-alive-interlude-lyrics",
     "song_name": "Buried Alive (Interlude)",
     "artist_name": "Drake",
@@ -41785,7 +41785,7 @@ module.exports = [
   },
   {
     "id": 5224,
-    "line": "Uh, fuck with me, I buy the shots",
+    "line": "Uh, f**k with me, I buy the shots",
     "song_lyrics_url": "https://genius.com/Drake-under-ground-kings-lyrics",
     "song_name": "Under Ground Kings",
     "artist_name": "Drake",
@@ -41793,7 +41793,7 @@ module.exports = [
   },
   {
     "id": 5225,
-    "line": "Live a little, 'cause niggas die a lot",
+    "line": "Live a little, 'cause N****s die a lot",
     "song_lyrics_url": "https://genius.com/Drake-under-ground-kings-lyrics",
     "song_name": "Under Ground Kings",
     "artist_name": "Drake",
@@ -41801,7 +41801,7 @@ module.exports = [
   },
   {
     "id": 5226,
-    "line": "And lie a lot but I'm the truth -- that's right, I fucking said it",
+    "line": "And lie a lot but I'm the truth -- that's right, I f**king said it",
     "song_lyrics_url": "https://genius.com/Drake-under-ground-kings-lyrics",
     "song_name": "Under Ground Kings",
     "artist_name": "Drake",
@@ -41817,7 +41817,7 @@ module.exports = [
   },
   {
     "id": 5228,
-    "line": "You girl, you right there, you look like you like this shit",
+    "line": "You girl, you right there, you look like you like this s***",
     "song_lyrics_url": "https://genius.com/Drake-under-ground-kings-lyrics",
     "song_name": "Under Ground Kings",
     "artist_name": "Drake",
@@ -41825,7 +41825,7 @@ module.exports = [
   },
   {
     "id": 5229,
-    "line": "How'd I know, how'd I know? That's me on some psychic shit",
+    "line": "How'd I know, how'd I know? That's me on some psychic s***",
     "song_lyrics_url": "https://genius.com/Drake-under-ground-kings-lyrics",
     "song_name": "Under Ground Kings",
     "artist_name": "Drake",
@@ -41849,7 +41849,7 @@ module.exports = [
   },
   {
     "id": 5232,
-    "line": "Rap and bitches, rappin' bitches, bitches",
+    "line": "Rap and b****es, rappin' b****es, b****es",
     "song_lyrics_url": "https://genius.com/Drake-under-ground-kings-lyrics",
     "song_name": "Under Ground Kings",
     "artist_name": "Drake",
@@ -41857,7 +41857,7 @@ module.exports = [
   },
   {
     "id": 5233,
-    "line": "And rappin', rappin' and bitches until all of it switches",
+    "line": "And rappin', rappin' and b****es until all of it switches",
     "song_lyrics_url": "https://genius.com/Drake-under-ground-kings-lyrics",
     "song_name": "Under Ground Kings",
     "artist_name": "Drake",
@@ -41905,7 +41905,7 @@ module.exports = [
   },
   {
     "id": 5239,
-    "line": "I got money in my pocket, I'm a uptown nigga, ah",
+    "line": "I got money in my pocket, I'm a uptown N****, ah",
     "song_lyrics_url": "https://genius.com/Drake-under-ground-kings-lyrics",
     "song_name": "Under Ground Kings",
     "artist_name": "Drake",
@@ -41977,7 +41977,7 @@ module.exports = [
   },
   {
     "id": 5248,
-    "line": "And I do it for the city, 'cause you know the city love a nigga",
+    "line": "And I do it for the city, 'cause you know the city love a N****",
     "song_lyrics_url": "https://genius.com/Drake-under-ground-kings-lyrics",
     "song_name": "Under Ground Kings",
     "artist_name": "Drake",
@@ -41985,7 +41985,7 @@ module.exports = [
   },
   {
     "id": 5249,
-    "line": "Do it for the city, 'cause you know the city love a nigga",
+    "line": "Do it for the city, 'cause you know the city love a N****",
     "song_lyrics_url": "https://genius.com/Drake-under-ground-kings-lyrics",
     "song_name": "Under Ground Kings",
     "artist_name": "Drake",
@@ -41993,7 +41993,7 @@ module.exports = [
   },
   {
     "id": 5250,
-    "line": "Do it for the city, 'cause you know the city love a nigga",
+    "line": "Do it for the city, 'cause you know the city love a N****",
     "song_lyrics_url": "https://genius.com/Drake-under-ground-kings-lyrics",
     "song_name": "Under Ground Kings",
     "artist_name": "Drake",
@@ -42001,7 +42001,7 @@ module.exports = [
   },
   {
     "id": 5251,
-    "line": "Do it for the city (UGK, fuck these other niggas)",
+    "line": "Do it for the city (UGK, f**k these other N****s)",
     "song_lyrics_url": "https://genius.com/Drake-under-ground-kings-lyrics",
     "song_name": "Under Ground Kings",
     "artist_name": "Drake",
@@ -42073,7 +42073,7 @@ module.exports = [
   },
   {
     "id": 5260,
-    "line": "And these niggas got them diamonds glowing in they mouth",
+    "line": "And these N****s got them diamonds glowing in they mouth",
     "song_lyrics_url": "https://genius.com/Drake-under-ground-kings-lyrics",
     "song_name": "Under Ground Kings",
     "artist_name": "Drake",
@@ -42089,7 +42089,7 @@ module.exports = [
   },
   {
     "id": 5262,
-    "line": "And every pretty girl tell me that's the shit that she like",
+    "line": "And every pretty girl tell me that's the s*** that she like",
     "song_lyrics_url": "https://genius.com/Drake-under-ground-kings-lyrics",
     "song_name": "Under Ground Kings",
     "artist_name": "Drake",
@@ -42201,7 +42201,7 @@ module.exports = [
   },
   {
     "id": 5276,
-    "line": "And I do it for the city, 'cause you know the city love a nigga",
+    "line": "And I do it for the city, 'cause you know the city love a N****",
     "song_lyrics_url": "https://genius.com/Drake-under-ground-kings-lyrics",
     "song_name": "Under Ground Kings",
     "artist_name": "Drake",
@@ -42209,7 +42209,7 @@ module.exports = [
   },
   {
     "id": 5277,
-    "line": "Do it for the city, 'cause you know the city love a nigga",
+    "line": "Do it for the city, 'cause you know the city love a N****",
     "song_lyrics_url": "https://genius.com/Drake-under-ground-kings-lyrics",
     "song_name": "Under Ground Kings",
     "artist_name": "Drake",
@@ -42217,7 +42217,7 @@ module.exports = [
   },
   {
     "id": 5278,
-    "line": "Do it for the city, 'cause you know the city love a nigga",
+    "line": "Do it for the city, 'cause you know the city love a N****",
     "song_lyrics_url": "https://genius.com/Drake-under-ground-kings-lyrics",
     "song_name": "Under Ground Kings",
     "artist_name": "Drake",
@@ -42225,7 +42225,7 @@ module.exports = [
   },
   {
     "id": 5279,
-    "line": "Do it for the city (UGK, fuck these other niggas)",
+    "line": "Do it for the city (UGK, f**k these other N****s)",
     "song_lyrics_url": "https://genius.com/Drake-under-ground-kings-lyrics",
     "song_name": "Under Ground Kings",
     "artist_name": "Drake",
@@ -42345,7 +42345,7 @@ module.exports = [
   },
   {
     "id": 5294,
-    "line": "Well, fuck, let's get it then",
+    "line": "Well, f**k, let's get it then",
     "song_lyrics_url": "https://genius.com/Drake-well-be-fine-lyrics",
     "song_name": "We'll Be Fine",
     "artist_name": "Drake",
@@ -42425,7 +42425,7 @@ module.exports = [
   },
   {
     "id": 5304,
-    "line": "Loved you until now, but now I'm the nigga, man",
+    "line": "Loved you until now, but now I'm the N****, man",
     "song_lyrics_url": "https://genius.com/Drake-well-be-fine-lyrics",
     "song_name": "We'll Be Fine",
     "artist_name": "Drake",
@@ -42441,7 +42441,7 @@ module.exports = [
   },
   {
     "id": 5306,
-    "line": "And you deserve some fucking credit how did anyone forget it",
+    "line": "And you deserve some f**king credit how did anyone forget it",
     "song_lyrics_url": "https://genius.com/Drake-well-be-fine-lyrics",
     "song_name": "We'll Be Fine",
     "artist_name": "Drake",
@@ -42457,7 +42457,7 @@ module.exports = [
   },
   {
     "id": 5308,
-    "line": "And the line around the corner, it's my motherfucking time",
+    "line": "And the line around the corner, it's my motherf**king time",
     "song_lyrics_url": "https://genius.com/Drake-well-be-fine-lyrics",
     "song_name": "We'll Be Fine",
     "artist_name": "Drake",
@@ -42473,7 +42473,7 @@ module.exports = [
   },
   {
     "id": 5310,
-    "line": "I wouldn't doubt it cause these bitches all about it right now",
+    "line": "I wouldn't doubt it cause these b****es all about it right now",
     "song_lyrics_url": "https://genius.com/Drake-well-be-fine-lyrics",
     "song_name": "We'll Be Fine",
     "artist_name": "Drake",
@@ -42481,7 +42481,7 @@ module.exports = [
   },
   {
     "id": 5311,
-    "line": "Let's be real about this shit, can I take you home?",
+    "line": "Let's be real about this s***, can I take you home?",
     "song_lyrics_url": "https://genius.com/Drake-well-be-fine-lyrics",
     "song_name": "We'll Be Fine",
     "artist_name": "Drake",
@@ -42553,7 +42553,7 @@ module.exports = [
   },
   {
     "id": 5320,
-    "line": "Then, fuck, let's get it then",
+    "line": "Then, f**k, let's get it then",
     "song_lyrics_url": "https://genius.com/Drake-well-be-fine-lyrics",
     "song_name": "We'll Be Fine",
     "artist_name": "Drake",
@@ -42625,7 +42625,7 @@ module.exports = [
   },
   {
     "id": 5329,
-    "line": "Yeah! Drizzy, yo' turn, nigga!",
+    "line": "Yeah! Drizzy, yo' turn, N****!",
     "song_lyrics_url": "https://genius.com/Drake-well-be-fine-lyrics",
     "song_name": "We'll Be Fine",
     "artist_name": "Drake",
@@ -42633,7 +42633,7 @@ module.exports = [
   },
   {
     "id": 5330,
-    "line": "Take Care of the business, nigga (shine on these niggas)",
+    "line": "Take Care of the business, N**** (shine on these N****s)",
     "song_lyrics_url": "https://genius.com/Drake-well-be-fine-lyrics",
     "song_name": "We'll Be Fine",
     "artist_name": "Drake",
@@ -42641,7 +42641,7 @@ module.exports = [
   },
   {
     "id": 5331,
-    "line": "Give these niggas the business, nigga!",
+    "line": "Give these N****s the business, N****!",
     "song_lyrics_url": "https://genius.com/Drake-well-be-fine-lyrics",
     "song_name": "We'll Be Fine",
     "artist_name": "Drake",
@@ -42649,7 +42649,7 @@ module.exports = [
   },
   {
     "id": 5332,
-    "line": "Kill spray anything in the way, nigga, fuck 'em, we don't love 'em!",
+    "line": "Kill spray anything in the way, N****, f**k 'em, we don't love 'em!",
     "song_lyrics_url": "https://genius.com/Drake-well-be-fine-lyrics",
     "song_name": "We'll Be Fine",
     "artist_name": "Drake",
@@ -42657,7 +42657,7 @@ module.exports = [
   },
   {
     "id": 5333,
-    "line": "Yeah, it's just that Uptown gangsta shit",
+    "line": "Yeah, it's just that Uptown gangsta s***",
     "song_lyrics_url": "https://genius.com/Drake-well-be-fine-lyrics",
     "song_name": "We'll Be Fine",
     "artist_name": "Drake",
@@ -42665,7 +42665,7 @@ module.exports = [
   },
   {
     "id": 5334,
-    "line": "Toronto, stand up for one of the realest niggas",
+    "line": "Toronto, stand up for one of the realest N****s",
     "song_lyrics_url": "https://genius.com/Drake-well-be-fine-lyrics",
     "song_name": "We'll Be Fine",
     "artist_name": "Drake",
@@ -42681,7 +42681,7 @@ module.exports = [
   },
   {
     "id": 5336,
-    "line": "Toast to this gangsta shit, fellas",
+    "line": "Toast to this gangsta s***, fellas",
     "song_lyrics_url": "https://genius.com/Drake-well-be-fine-lyrics",
     "song_name": "We'll Be Fine",
     "artist_name": "Drake",
@@ -42705,7 +42705,7 @@ module.exports = [
   },
   {
     "id": 5339,
-    "line": "Playing with these motherfucking millions like they ain't nothing",
+    "line": "Playing with these motherf**king millions like they ain't nothing",
     "song_lyrics_url": "https://genius.com/Drake-well-be-fine-lyrics",
     "song_name": "We'll Be Fine",
     "artist_name": "Drake",
@@ -42721,7 +42721,7 @@ module.exports = [
   },
   {
     "id": 5341,
-    "line": "That YMCMB shit, nigga; flashy lifestyle",
+    "line": "That YMCMB s***, N****; flashy lifestyle",
     "song_lyrics_url": "https://genius.com/Drake-well-be-fine-lyrics",
     "song_name": "We'll Be Fine",
     "artist_name": "Drake",
@@ -42745,7 +42745,7 @@ module.exports = [
   },
   {
     "id": 5344,
-    "line": "A little attitude problem all good, it�ll make the shit last",
+    "line": "A little attitude problem all good, it�ll make the s*** last",
     "song_lyrics_url": "https://genius.com/Drake-make-me-proud-lyrics",
     "song_name": "Make Me Proud",
     "artist_name": "Drake",
@@ -42873,7 +42873,7 @@ module.exports = [
   },
   {
     "id": 5360,
-    "line": "You said niggas coming on too strong, girl",
+    "line": "You said N****s coming on too strong, girl",
     "song_lyrics_url": "https://genius.com/Drake-make-me-proud-lyrics",
     "song_name": "Make Me Proud",
     "artist_name": "Drake",
@@ -42913,7 +42913,7 @@ module.exports = [
   },
   {
     "id": 5365,
-    "line": "Pussy run everything, fuck that noise",
+    "line": "Pussy run everything, f**k that noise",
     "song_lyrics_url": "https://genius.com/Drake-make-me-proud-lyrics",
     "song_name": "Make Me Proud",
     "artist_name": "Drake",
@@ -42953,7 +42953,7 @@ module.exports = [
   },
   {
     "id": 5370,
-    "line": "When all these muthafuckas wanna waste your time",
+    "line": "When all these muthaf**kas wanna waste your time",
     "song_lyrics_url": "https://genius.com/Drake-make-me-proud-lyrics",
     "song_name": "Make Me Proud",
     "artist_name": "Drake",
@@ -43001,7 +43001,7 @@ module.exports = [
   },
   {
     "id": 5376,
-    "line": "That's why you�re bad as fuck and you�",
+    "line": "That's why you�re bad as f**k and you�",
     "song_lyrics_url": "https://genius.com/Drake-make-me-proud-lyrics",
     "song_name": "Make Me Proud",
     "artist_name": "Drake",
@@ -43017,7 +43017,7 @@ module.exports = [
   },
   {
     "id": 5378,
-    "line": "All of them bitches I�m badder than",
+    "line": "All of them b****es I�m badder than",
     "song_lyrics_url": "https://genius.com/Drake-make-me-proud-lyrics",
     "song_name": "Make Me Proud",
     "artist_name": "Drake",
@@ -43049,7 +43049,7 @@ module.exports = [
   },
   {
     "id": 5382,
-    "line": "And my shit�s so wet you gotta paddle in",
+    "line": "And my s***�s so wet you gotta paddle in",
     "song_lyrics_url": "https://genius.com/Drake-make-me-proud-lyrics",
     "song_name": "Make Me Proud",
     "artist_name": "Drake",
@@ -43129,7 +43129,7 @@ module.exports = [
   },
   {
     "id": 5392,
-    "line": "Ain't got time to talk, just hi and bye, bitch",
+    "line": "Ain't got time to talk, just hi and bye, b****",
     "song_lyrics_url": "https://genius.com/Drake-make-me-proud-lyrics",
     "song_name": "Make Me Proud",
     "artist_name": "Drake",
@@ -43225,7 +43225,7 @@ module.exports = [
   },
   {
     "id": 5404,
-    "line": "When all these muthafuckas wanna waste your time",
+    "line": "When all these muthaf**kas wanna waste your time",
     "song_lyrics_url": "https://genius.com/Drake-make-me-proud-lyrics",
     "song_name": "Make Me Proud",
     "artist_name": "Drake",
@@ -43273,7 +43273,7 @@ module.exports = [
   },
   {
     "id": 5410,
-    "line": "That's why you're bad as fuck and you know you are",
+    "line": "That's why you're bad as f**k and you know you are",
     "song_lyrics_url": "https://genius.com/Drake-make-me-proud-lyrics",
     "song_name": "Make Me Proud",
     "artist_name": "Drake",
@@ -43345,7 +43345,7 @@ module.exports = [
   },
   {
     "id": 5419,
-    "line": "That's why you're bad as fuck and you know you are",
+    "line": "That's why you're bad as f**k and you know you are",
     "song_lyrics_url": "https://genius.com/Drake-make-me-proud-lyrics",
     "song_name": "Make Me Proud",
     "artist_name": "Drake",
@@ -43489,7 +43489,7 @@ module.exports = [
   },
   {
     "id": 5437,
-    "line": "And every time I run into these niggas, they want no problems",
+    "line": "And every time I run into these N****s, they want no problems",
     "song_lyrics_url": "https://genius.com/Drake-lord-knows-lyrics",
     "song_name": "Lord Knows",
     "artist_name": "Drake",
@@ -43529,7 +43529,7 @@ module.exports = [
   },
   {
     "id": 5442,
-    "line": "I'm more concerned with niggas thinkin' 'bout Christmas in August",
+    "line": "I'm more concerned with N****s thinkin' 'bout Christmas in August",
     "song_lyrics_url": "https://genius.com/Drake-lord-knows-lyrics",
     "song_name": "Lord Knows",
     "artist_name": "Drake",
@@ -43585,7 +43585,7 @@ module.exports = [
   },
   {
     "id": 5449,
-    "line": "Spend it all on me and my fuckin' team",
+    "line": "Spend it all on me and my f**kin' team",
     "song_lyrics_url": "https://genius.com/Drake-lord-knows-lyrics",
     "song_name": "Lord Knows",
     "artist_name": "Drake",
@@ -43609,7 +43609,7 @@ module.exports = [
   },
   {
     "id": 5452,
-    "line": "I'm really killin' shit, fuck all the jiggy rapping (woo!)",
+    "line": "I'm really killin' s***, f**k all the jiggy rapping (woo!)",
     "song_lyrics_url": "https://genius.com/Drake-lord-knows-lyrics",
     "song_name": "Lord Knows",
     "artist_name": "Drake",
@@ -43617,7 +43617,7 @@ module.exports = [
   },
   {
     "id": 5453,
-    "line": "I'm going trigger happy just to see my niggas happy (woo!)",
+    "line": "I'm going trigger happy just to see my N****s happy (woo!)",
     "song_lyrics_url": "https://genius.com/Drake-lord-knows-lyrics",
     "song_name": "Lord Knows",
     "artist_name": "Drake",
@@ -43641,7 +43641,7 @@ module.exports = [
   },
   {
     "id": 5456,
-    "line": "With my new bitch that's living in Palm Springs",
+    "line": "With my new b**** that's living in Palm Springs",
     "song_lyrics_url": "https://genius.com/Drake-lord-knows-lyrics",
     "song_name": "Lord Knows",
     "artist_name": "Drake",
@@ -43649,7 +43649,7 @@ module.exports = [
   },
   {
     "id": 5457,
-    "line": "Young ass nigga, lifelong dreams",
+    "line": "Young ass N****, lifelong dreams",
     "song_lyrics_url": "https://genius.com/Drake-lord-knows-lyrics",
     "song_name": "Lord Knows",
     "artist_name": "Drake",
@@ -43705,7 +43705,7 @@ module.exports = [
   },
   {
     "id": 5464,
-    "line": "Fuck you all, I claim that whenever",
+    "line": "f**k you all, I claim that whenever",
     "song_lyrics_url": "https://genius.com/Drake-lord-knows-lyrics",
     "song_name": "Lord Knows",
     "artist_name": "Drake",
@@ -43769,7 +43769,7 @@ module.exports = [
   },
   {
     "id": 5472,
-    "line": "Know that I don't make music for niggas who don't get pussy",
+    "line": "Know that I don't make music for N****s who don't get pussy",
     "song_lyrics_url": "https://genius.com/Drake-lord-knows-lyrics",
     "song_name": "Lord Knows",
     "artist_name": "Drake",
@@ -43801,7 +43801,7 @@ module.exports = [
   },
   {
     "id": 5476,
-    "line": "A lot of niggas came up off of a style that I made up",
+    "line": "A lot of N****s came up off of a style that I made up",
     "song_lyrics_url": "https://genius.com/Drake-lord-knows-lyrics",
     "song_name": "Lord Knows",
     "artist_name": "Drake",
@@ -43817,7 +43817,7 @@ module.exports = [
   },
   {
     "id": 5478,
-    "line": "Bought a white Ghost now shit is gettin' spooky",
+    "line": "Bought a white Ghost now s*** is gettin' spooky",
     "song_lyrics_url": "https://genius.com/Drake-lord-knows-lyrics",
     "song_name": "Lord Knows",
     "artist_name": "Drake",
@@ -43825,7 +43825,7 @@ module.exports = [
   },
   {
     "id": 5479,
-    "line": "Very, very scary like shit you see in the movies",
+    "line": "Very, very scary like s*** you see in the movies",
     "song_lyrics_url": "https://genius.com/Drake-lord-knows-lyrics",
     "song_name": "Lord Knows",
     "artist_name": "Drake",
@@ -43833,7 +43833,7 @@ module.exports = [
   },
   {
     "id": 5480,
-    "line": "In this bitch, all drinks on the house like Snoopy",
+    "line": "In this b****, all drinks on the house like Snoopy",
     "song_lyrics_url": "https://genius.com/Drake-lord-knows-lyrics",
     "song_name": "Lord Knows",
     "artist_name": "Drake",
@@ -43849,7 +43849,7 @@ module.exports = [
   },
   {
     "id": 5482,
-    "line": "Trill nigga, for real",
+    "line": "Trill N****, for real",
     "song_lyrics_url": "https://genius.com/Drake-lord-knows-lyrics",
     "song_name": "Lord Knows",
     "artist_name": "Drake",
@@ -43873,7 +43873,7 @@ module.exports = [
   },
   {
     "id": 5485,
-    "line": "I'm going so hard my nigga, I swear homie",
+    "line": "I'm going so hard my N****, I swear homie",
     "song_lyrics_url": "https://genius.com/Drake-lord-knows-lyrics",
     "song_name": "Lord Knows",
     "artist_name": "Drake",
@@ -43897,7 +43897,7 @@ module.exports = [
   },
   {
     "id": 5488,
-    "line": "I fell in love with the pen, started fucking the ink",
+    "line": "I fell in love with the pen, started f**king the ink",
     "song_lyrics_url": "https://genius.com/Drake-lord-knows-lyrics",
     "song_name": "Lord Knows",
     "artist_name": "Drake",
@@ -43937,7 +43937,7 @@ module.exports = [
   },
   {
     "id": 5493,
-    "line": "Only fat nigga in the sauna with Jews",
+    "line": "Only fat N**** in the sauna with Jews",
     "song_lyrics_url": "https://genius.com/Drake-lord-knows-lyrics",
     "song_name": "Lord Knows",
     "artist_name": "Drake",
@@ -43953,7 +43953,7 @@ module.exports = [
   },
   {
     "id": 5495,
-    "line": "And these niggas talking like hoes, they mad they not in my shoes",
+    "line": "And these N****s talking like hoes, they mad they not in my shoes",
     "song_lyrics_url": "https://genius.com/Drake-lord-knows-lyrics",
     "song_name": "Lord Knows",
     "artist_name": "Drake",
@@ -43969,7 +43969,7 @@ module.exports = [
   },
   {
     "id": 5497,
-    "line": "Every bi-week, shit, I'm bound to buy a car",
+    "line": "Every bi-week, s***, I'm bound to buy a car",
     "song_lyrics_url": "https://genius.com/Drake-lord-knows-lyrics",
     "song_name": "Lord Knows",
     "artist_name": "Drake",
@@ -44097,7 +44097,7 @@ module.exports = [
   },
   {
     "id": 5513,
-    "line": "Man these niggas need to stop it they be crowding up the scene",
+    "line": "Man these N****s need to stop it they be crowding up the scene",
     "song_lyrics_url": "https://genius.com/Drake-cameras-lyrics",
     "song_name": "Cameras",
     "artist_name": "Drake",
@@ -44425,7 +44425,7 @@ module.exports = [
   },
   {
     "id": 5554,
-    "line": "Just mail me my ring back, can't keep that shit.",
+    "line": "Just mail me my ring back, can't keep that s***.",
     "song_lyrics_url": "https://genius.com/Drake-cameras-lyrics",
     "song_name": "Cameras",
     "artist_name": "Drake",
@@ -44585,7 +44585,7 @@ module.exports = [
   },
   {
     "id": 5574,
-    "line": "In case you're starting to wonder why my new shit's sounding so H-Town",
+    "line": "In case you're starting to wonder why my new s***'s sounding so H-Town",
     "song_lyrics_url": "https://genius.com/Drake-good-ones-go-interlude-lyrics",
     "song_name": "Good Ones Go (Interlude)",
     "artist_name": "Drake",
@@ -45121,7 +45121,7 @@ module.exports = [
   },
   {
     "id": 5641,
-    "line": "You got that shit that somebody would look for but won't find",
+    "line": "You got that s*** that somebody would look for but won't find",
     "song_lyrics_url": "https://genius.com/Drake-the-real-her-lyrics",
     "song_name": "The Real Her",
     "artist_name": "Drake",
@@ -45241,7 +45241,7 @@ module.exports = [
   },
   {
     "id": 5656,
-    "line": "You got that shit that somebody would look for but won't find",
+    "line": "You got that s*** that somebody would look for but won't find",
     "song_lyrics_url": "https://genius.com/Drake-the-real-her-lyrics",
     "song_name": "The Real Her",
     "artist_name": "Drake",
@@ -45353,7 +45353,7 @@ module.exports = [
   },
   {
     "id": 5670,
-    "line": "You got that shit that somebody would look for but won't find",
+    "line": "You got that s*** that somebody would look for but won't find",
     "song_lyrics_url": "https://genius.com/Drake-the-real-her-lyrics",
     "song_name": "The Real Her",
     "artist_name": "Drake",
@@ -45417,7 +45417,7 @@ module.exports = [
   },
   {
     "id": 5678,
-    "line": "Quote-unquote \"bad bitches\" work the whole floor",
+    "line": "Quote-unquote \"bad b****es\" work the whole floor",
     "song_lyrics_url": "https://genius.com/Drake-the-real-her-lyrics",
     "song_name": "The Real Her",
     "artist_name": "Drake",
@@ -45441,7 +45441,7 @@ module.exports = [
   },
   {
     "id": 5681,
-    "line": "Niggas that are married don't wanna go home",
+    "line": "N****s that are married don't wanna go home",
     "song_lyrics_url": "https://genius.com/Drake-the-real-her-lyrics",
     "song_name": "The Real Her",
     "artist_name": "Drake",
@@ -45609,7 +45609,7 @@ module.exports = [
   },
   {
     "id": 5702,
-    "line": "Please be careful: bitches got the rabies",
+    "line": "Please be careful: b****es got the rabies",
     "song_lyrics_url": "https://genius.com/Drake-the-real-her-lyrics",
     "song_name": "The Real Her",
     "artist_name": "Drake",
@@ -45681,7 +45681,7 @@ module.exports = [
   },
   {
     "id": 5711,
-    "line": "About spending money on bullshit",
+    "line": "About spending money on bulls***",
     "song_lyrics_url": "https://genius.com/Drake-look-what-youve-done-lyrics",
     "song_name": "Look What You've Done",
     "artist_name": "Drake",
@@ -45705,7 +45705,7 @@ module.exports = [
   },
   {
     "id": 5714,
-    "line": "Now it's, \"Fuck you, I hate you, I'll move out in a heartbeat!",
+    "line": "Now it's, \"f**k you, I hate you, I'll move out in a heartbeat!",
     "song_lyrics_url": "https://genius.com/Drake-look-what-youve-done-lyrics",
     "song_name": "Look What You've Done",
     "artist_name": "Drake",
@@ -45921,7 +45921,7 @@ module.exports = [
   },
   {
     "id": 5741,
-    "line": "Is this shit real? Should I pinch you?",
+    "line": "Is this s*** real? Should I pinch you?",
     "song_lyrics_url": "https://genius.com/Drake-look-what-youve-done-lyrics",
     "song_name": "Look What You've Done",
     "artist_name": "Drake",
@@ -46081,7 +46081,7 @@ module.exports = [
   },
   {
     "id": 5761,
-    "line": "I never really had no one like you man this all new, shit",
+    "line": "I never really had no one like you man this all new, s***",
     "song_lyrics_url": "https://genius.com/Drake-look-what-youve-done-lyrics",
     "song_name": "Look What You've Done",
     "artist_name": "Drake",
@@ -46257,7 +46257,7 @@ module.exports = [
   },
   {
     "id": 5783,
-    "line": "Is this shit real? Should I pinch you?",
+    "line": "Is this s*** real? Should I pinch you?",
     "song_lyrics_url": "https://genius.com/Drake-look-what-youve-done-lyrics",
     "song_name": "Look What You've Done",
     "artist_name": "Drake",
@@ -46345,7 +46345,7 @@ module.exports = [
   },
   {
     "id": 5794,
-    "line": "By some random nigga that live in Atlanta",
+    "line": "By some random N**** that live in Atlanta",
     "song_lyrics_url": "https://genius.com/Drake-hyfr-lyrics",
     "song_name": "HYFR",
     "artist_name": "Drake",
@@ -46377,7 +46377,7 @@ module.exports = [
   },
   {
     "id": 5798,
-    "line": "I took her for sushi, she wanted to fuck",
+    "line": "I took her for sushi, she wanted to f**k",
     "song_lyrics_url": "https://genius.com/Drake-hyfr-lyrics",
     "song_name": "HYFR",
     "artist_name": "Drake",
@@ -46473,7 +46473,7 @@ module.exports = [
   },
   {
     "id": 5810,
-    "line": "Even though it's fucked up, girl I'm still fucking with ya",
+    "line": "Even though it's f**ked up, girl I'm still f**king with ya",
     "song_lyrics_url": "https://genius.com/Drake-hyfr-lyrics",
     "song_name": "HYFR",
     "artist_name": "Drake",
@@ -46521,7 +46521,7 @@ module.exports = [
   },
   {
     "id": 5816,
-    "line": "Get the fuck up out my dressing room, confusing me with questions like",
+    "line": "Get the f**k up out my dressing room, confusing me with questions like",
     "song_lyrics_url": "https://genius.com/Drake-hyfr-lyrics",
     "song_name": "HYFR",
     "artist_name": "Drake",
@@ -46529,7 +46529,7 @@ module.exports = [
   },
   {
     "id": 5817,
-    "line": "Do you love this shit? Are you high right now?",
+    "line": "Do you love this s***? Are you high right now?",
     "song_lyrics_url": "https://genius.com/Drake-hyfr-lyrics",
     "song_name": "HYFR",
     "artist_name": "Drake",
@@ -46545,7 +46545,7 @@ module.exports = [
   },
   {
     "id": 5819,
-    "line": "Are you single? I heard you fucked your girl, is it true?",
+    "line": "Are you single? I heard you f**ked your girl, is it true?",
     "song_lyrics_url": "https://genius.com/Drake-hyfr-lyrics",
     "song_name": "HYFR",
     "artist_name": "Drake",
@@ -46561,7 +46561,7 @@ module.exports = [
   },
   {
     "id": 5821,
-    "line": "You think them niggas you with is with you?",
+    "line": "You think them N****s you with is with you?",
     "song_lyrics_url": "https://genius.com/Drake-hyfr-lyrics",
     "song_name": "HYFR",
     "artist_name": "Drake",
@@ -46577,7 +46577,7 @@ module.exports = [
   },
   {
     "id": 5823,
-    "line": "Fuckin' right, fuckin' right, alright",
+    "line": "f**kin' right, f**kin' right, alright",
     "song_lyrics_url": "https://genius.com/Drake-hyfr-lyrics",
     "song_name": "HYFR",
     "artist_name": "Drake",
@@ -46593,7 +46593,7 @@ module.exports = [
   },
   {
     "id": 5825,
-    "line": "Fuckin' right, fuckin' right, alright",
+    "line": "f**kin' right, f**kin' right, alright",
     "song_lyrics_url": "https://genius.com/Drake-hyfr-lyrics",
     "song_name": "HYFR",
     "artist_name": "Drake",
@@ -46625,7 +46625,7 @@ module.exports = [
   },
   {
     "id": 5829,
-    "line": "Keep a few bad bitches in my circle",
+    "line": "Keep a few bad b****es in my circle",
     "song_lyrics_url": "https://genius.com/Drake-hyfr-lyrics",
     "song_name": "HYFR",
     "artist_name": "Drake",
@@ -46641,7 +46641,7 @@ module.exports = [
   },
   {
     "id": 5831,
-    "line": "Bitch, if you wave, then I will surf you",
+    "line": "b****, if you wave, then I will surf you",
     "song_lyrics_url": "https://genius.com/Drake-hyfr-lyrics",
     "song_name": "HYFR",
     "artist_name": "Drake",
@@ -46713,7 +46713,7 @@ module.exports = [
   },
   {
     "id": 5840,
-    "line": "Damn, she say this shit gon' catch up to me",
+    "line": "Damn, she say this s*** gon' catch up to me",
     "song_lyrics_url": "https://genius.com/Drake-hyfr-lyrics",
     "song_name": "HYFR",
     "artist_name": "Drake",
@@ -46753,7 +46753,7 @@ module.exports = [
   },
   {
     "id": 5845,
-    "line": "Shit, sometimes I wish the same",
+    "line": "s***, sometimes I wish the same",
     "song_lyrics_url": "https://genius.com/Drake-hyfr-lyrics",
     "song_name": "HYFR",
     "artist_name": "Drake",
@@ -46793,7 +46793,7 @@ module.exports = [
   },
   {
     "id": 5850,
-    "line": "Get the fuck up out my bedroom",
+    "line": "Get the f**k up out my bedroom",
     "song_lyrics_url": "https://genius.com/Drake-hyfr-lyrics",
     "song_name": "HYFR",
     "artist_name": "Drake",
@@ -46809,7 +46809,7 @@ module.exports = [
   },
   {
     "id": 5852,
-    "line": "Do you love this shit? Are you high right now?",
+    "line": "Do you love this s***? Are you high right now?",
     "song_lyrics_url": "https://genius.com/Drake-hyfr-lyrics",
     "song_name": "HYFR",
     "artist_name": "Drake",
@@ -46825,7 +46825,7 @@ module.exports = [
   },
   {
     "id": 5854,
-    "line": "Are you single? I heard you fucked your girl, is it true?",
+    "line": "Are you single? I heard you f**ked your girl, is it true?",
     "song_lyrics_url": "https://genius.com/Drake-hyfr-lyrics",
     "song_name": "HYFR",
     "artist_name": "Drake",
@@ -46841,7 +46841,7 @@ module.exports = [
   },
   {
     "id": 5856,
-    "line": "You think them niggas you with is with you?",
+    "line": "You think them N****s you with is with you?",
     "song_lyrics_url": "https://genius.com/Drake-hyfr-lyrics",
     "song_name": "HYFR",
     "artist_name": "Drake",
@@ -46857,7 +46857,7 @@ module.exports = [
   },
   {
     "id": 5858,
-    "line": "Fuckin' right, fuckin' right, alright",
+    "line": "f**kin' right, f**kin' right, alright",
     "song_lyrics_url": "https://genius.com/Drake-hyfr-lyrics",
     "song_name": "HYFR",
     "artist_name": "Drake",
@@ -46873,7 +46873,7 @@ module.exports = [
   },
   {
     "id": 5860,
-    "line": "Fuckin' right, damn right, alright",
+    "line": "f**kin' right, damn right, alright",
     "song_lyrics_url": "https://genius.com/Drake-hyfr-lyrics",
     "song_name": "HYFR",
     "artist_name": "Drake",
@@ -46889,7 +46889,7 @@ module.exports = [
   },
   {
     "id": 5862,
-    "line": "Fuckin' right, fuckin' right, alright",
+    "line": "f**kin' right, f**kin' right, alright",
     "song_lyrics_url": "https://genius.com/Drake-hyfr-lyrics",
     "song_name": "HYFR",
     "artist_name": "Drake",
@@ -46905,7 +46905,7 @@ module.exports = [
   },
   {
     "id": 5864,
-    "line": "Fuckin' right, damn' right, alright, yeah)",
+    "line": "f**kin' right, damn' right, alright, yeah)",
     "song_lyrics_url": "https://genius.com/Drake-hyfr-lyrics",
     "song_name": "HYFR",
     "artist_name": "Drake",
@@ -46913,7 +46913,7 @@ module.exports = [
   },
   {
     "id": 5865,
-    "line": "Cash money shit",
+    "line": "Cash money s***",
     "song_lyrics_url": "https://genius.com/Drake-practice-lyrics",
     "song_name": "Practice",
     "artist_name": "Drake",
@@ -46921,7 +46921,7 @@ module.exports = [
   },
   {
     "id": 5866,
-    "line": "Cash money shit",
+    "line": "Cash money s***",
     "song_lyrics_url": "https://genius.com/Drake-practice-lyrics",
     "song_name": "Practice",
     "artist_name": "Drake",
@@ -47009,7 +47009,7 @@ module.exports = [
   },
   {
     "id": 5877,
-    "line": "You a fine motherfucker won't you back that ass up",
+    "line": "You a fine motherf**ker won't you back that ass up",
     "song_lyrics_url": "https://genius.com/Drake-practice-lyrics",
     "song_name": "Practice",
     "artist_name": "Drake",
@@ -47057,7 +47057,7 @@ module.exports = [
   },
   {
     "id": 5883,
-    "line": "Make a nigga spend his cash yeah, his last yeah",
+    "line": "Make a N**** spend his cash yeah, his last yeah",
     "song_lyrics_url": "https://genius.com/Drake-practice-lyrics",
     "song_name": "Practice",
     "artist_name": "Drake",
@@ -47073,7 +47073,7 @@ module.exports = [
   },
   {
     "id": 5885,
-    "line": "Couple thousand on your bag yeah, fuck yeah",
+    "line": "Couple thousand on your bag yeah, f**k yeah",
     "song_lyrics_url": "https://genius.com/Drake-practice-lyrics",
     "song_name": "Practice",
     "artist_name": "Drake",
@@ -47081,7 +47081,7 @@ module.exports = [
   },
   {
     "id": 5886,
-    "line": "I'm a Big Tymer nigga yeah, money flipper yeah",
+    "line": "I'm a Big Tymer N**** yeah, money flipper yeah",
     "song_lyrics_url": "https://genius.com/Drake-practice-lyrics",
     "song_name": "Practice",
     "artist_name": "Drake",
@@ -47153,7 +47153,7 @@ module.exports = [
   },
   {
     "id": 5895,
-    "line": "You a fine motherfucker won't you back that ass up",
+    "line": "You a fine motherf**ker won't you back that ass up",
     "song_lyrics_url": "https://genius.com/Drake-practice-lyrics",
     "song_name": "Practice",
     "artist_name": "Drake",
@@ -47201,7 +47201,7 @@ module.exports = [
   },
   {
     "id": 5901,
-    "line": "But a let a real nigga make it right",
+    "line": "But a let a real N**** make it right",
     "song_lyrics_url": "https://genius.com/Drake-practice-lyrics",
     "song_name": "Practice",
     "artist_name": "Drake",
@@ -47209,7 +47209,7 @@ module.exports = [
   },
   {
     "id": 5902,
-    "line": "Let a real nigga make it right, you deserve that much",
+    "line": "Let a real N**** make it right, you deserve that much",
     "song_lyrics_url": "https://genius.com/Drake-practice-lyrics",
     "song_name": "Practice",
     "artist_name": "Drake",
@@ -47457,7 +47457,7 @@ module.exports = [
   },
   {
     "id": 5933,
-    "line": "I hate when,I hate when people say they feel me man, I hate that shit",
+    "line": "I hate when,I hate when people say they feel me man, I hate that s***",
     "song_lyrics_url": "https://genius.com/Drake-the-ride-lyrics",
     "song_name": "The Ride",
     "artist_name": "Drake",
@@ -47497,7 +47497,7 @@ module.exports = [
   },
   {
     "id": 5938,
-    "line": "And the girl you fucking hates you",
+    "line": "And the girl you f**king hates you",
     "song_lyrics_url": "https://genius.com/Drake-the-ride-lyrics",
     "song_name": "The Ride",
     "artist_name": "Drake",
@@ -47545,7 +47545,7 @@ module.exports = [
   },
   {
     "id": 5944,
-    "line": "Or get three SUVs for niggas dressed like refugees",
+    "line": "Or get three SUVs for N****s dressed like refugees",
     "song_lyrics_url": "https://genius.com/Drake-the-ride-lyrics",
     "song_name": "The Ride",
     "artist_name": "Drake",
@@ -47569,7 +47569,7 @@ module.exports = [
   },
   {
     "id": 5947,
-    "line": "Scallops and glasses of Dolce, that shit's right up your alley",
+    "line": "Scallops and glasses of Dolce, that s***'s right up your alley",
     "song_lyrics_url": "https://genius.com/Drake-the-ride-lyrics",
     "song_name": "The Ride",
     "artist_name": "Drake",
@@ -47585,7 +47585,7 @@ module.exports = [
   },
   {
     "id": 5949,
-    "line": "Bitches smiling at you, it must be happy hour",
+    "line": "b****es smiling at you, it must be happy hour",
     "song_lyrics_url": "https://genius.com/Drake-the-ride-lyrics",
     "song_name": "The Ride",
     "artist_name": "Drake",
@@ -47625,7 +47625,7 @@ module.exports = [
   },
   {
     "id": 5954,
-    "line": "Saying that they feel you, nigga",
+    "line": "Saying that they feel you, N****",
     "song_lyrics_url": "https://genius.com/Drake-the-ride-lyrics",
     "song_name": "The Ride",
     "artist_name": "Drake",
@@ -47769,7 +47769,7 @@ module.exports = [
   },
   {
     "id": 5972,
-    "line": "But shit, you bout to spend it on what matters most",
+    "line": "But s***, you bout to spend it on what matters most",
     "song_lyrics_url": "https://genius.com/Drake-the-ride-lyrics",
     "song_name": "The Ride",
     "artist_name": "Drake",
@@ -47777,7 +47777,7 @@ module.exports = [
   },
   {
     "id": 5973,
-    "line": "You drop a couple songs in hopes that you could be the nigga",
+    "line": "You drop a couple songs in hopes that you could be the N****",
     "song_lyrics_url": "https://genius.com/Drake-the-ride-lyrics",
     "song_name": "The Ride",
     "artist_name": "Drake",
@@ -47785,7 +47785,7 @@ module.exports = [
   },
   {
     "id": 5974,
-    "line": "And come out every night to let the city see they nigga",
+    "line": "And come out every night to let the city see they N****",
     "song_lyrics_url": "https://genius.com/Drake-the-ride-lyrics",
     "song_name": "The Ride",
     "artist_name": "Drake",
@@ -47809,7 +47809,7 @@ module.exports = [
   },
   {
     "id": 5977,
-    "line": "They just keep on telling you they feel you, nigga",
+    "line": "They just keep on telling you they feel you, N****",
     "song_lyrics_url": "https://genius.com/Drake-the-ride-lyrics",
     "song_name": "The Ride",
     "artist_name": "Drake",
@@ -47921,7 +47921,7 @@ module.exports = [
   },
   {
     "id": 5991,
-    "line": "My young niggas popping M�s and sipping dirty jones",
+    "line": "My young N****s popping M�s and sipping dirty jones",
     "song_lyrics_url": "https://genius.com/Drake-the-ride-lyrics",
     "song_name": "The Ride",
     "artist_name": "Drake",
@@ -47961,7 +47961,7 @@ module.exports = [
   },
   {
     "id": 5996,
-    "line": "I�m bout to fuck and I�m just praying that it feels good",
+    "line": "I�m bout to f**k and I�m just praying that it feels good",
     "song_lyrics_url": "https://genius.com/Drake-the-ride-lyrics",
     "song_name": "The Ride",
     "artist_name": "Drake",
@@ -47969,7 +47969,7 @@ module.exports = [
   },
   {
     "id": 5997,
-    "line": "I really don�t know much but, shit, I know a secret",
+    "line": "I really don�t know much but, s***, I know a secret",
     "song_lyrics_url": "https://genius.com/Drake-the-ride-lyrics",
     "song_name": "The Ride",
     "artist_name": "Drake",
@@ -47977,7 +47977,7 @@ module.exports = [
   },
   {
     "id": 5998,
-    "line": "They say more money more problems, my nigga don�t believe it",
+    "line": "They say more money more problems, my N**** don�t believe it",
     "song_lyrics_url": "https://genius.com/Drake-the-ride-lyrics",
     "song_name": "The Ride",
     "artist_name": "Drake",
@@ -48017,7 +48017,7 @@ module.exports = [
   },
   {
     "id": 6003,
-    "line": "I come through them bitches",
+    "line": "I come through them b****es",
     "song_lyrics_url": "https://genius.com/Drake-the-ride-lyrics",
     "song_name": "The Ride",
     "artist_name": "Drake",
@@ -48033,7 +48033,7 @@ module.exports = [
   },
   {
     "id": 6005,
-    "line": "You niggas getting older, I see no threat in Yoda",
+    "line": "You N****s getting older, I see no threat in Yoda",
     "song_lyrics_url": "https://genius.com/Drake-the-ride-lyrics",
     "song_name": "The Ride",
     "artist_name": "Drake",
@@ -48041,7 +48041,7 @@ module.exports = [
   },
   {
     "id": 6006,
-    "line": "I�m out here messing over the lives of these niggas",
+    "line": "I�m out here messing over the lives of these N****s",
     "song_lyrics_url": "https://genius.com/Drake-the-ride-lyrics",
     "song_name": "The Ride",
     "artist_name": "Drake",
@@ -48049,7 +48049,7 @@ module.exports = [
   },
   {
     "id": 6007,
-    "line": "That couldn�t fuck with my freshman floater (flow ta)",
+    "line": "That couldn�t f**k with my freshman floater (flow ta)",
     "song_lyrics_url": "https://genius.com/Drake-the-ride-lyrics",
     "song_name": "The Ride",
     "artist_name": "Drake",
@@ -48057,7 +48057,7 @@ module.exports = [
   },
   {
     "id": 6008,
-    "line": "Look at that fucking chip on your nephew's shoulder",
+    "line": "Look at that f**king chip on your nephew's shoulder",
     "song_lyrics_url": "https://genius.com/Drake-the-ride-lyrics",
     "song_name": "The Ride",
     "artist_name": "Drake",
@@ -48081,7 +48081,7 @@ module.exports = [
   },
   {
     "id": 6011,
-    "line": "Take care, nigga",
+    "line": "Take care, N****",
     "song_lyrics_url": "https://genius.com/Drake-the-ride-lyrics",
     "song_name": "The Ride",
     "artist_name": "Drake",
@@ -48129,7 +48129,7 @@ module.exports = [
   },
   {
     "id": 6017,
-    "line": "I'm the fuckin' man, y'all don't get it, do ya?",
+    "line": "I'm the f**kin' man, y'all don't get it, do ya?",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-lyrics",
     "song_name": "The Motto",
     "artist_name": "Drake",
@@ -48145,7 +48145,7 @@ module.exports = [
   },
   {
     "id": 6019,
-    "line": "Go Uptown, New York City, bitch",
+    "line": "Go Uptown, New York City, b****",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-lyrics",
     "song_name": "The Motto",
     "artist_name": "Drake",
@@ -48169,7 +48169,7 @@ module.exports = [
   },
   {
     "id": 6022,
-    "line": "Clubbing hard, fucking women, there ain't much to do",
+    "line": "Clubbing hard, f**king women, there ain't much to do",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-lyrics",
     "song_name": "The Motto",
     "artist_name": "Drake",
@@ -48185,7 +48185,7 @@ module.exports = [
   },
   {
     "id": 6024,
-    "line": "Still getting brain from a thang, ain't shit changed",
+    "line": "Still getting brain from a thang, ain't s*** changed",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-lyrics",
     "song_name": "The Motto",
     "artist_name": "Drake",
@@ -48249,7 +48249,7 @@ module.exports = [
   },
   {
     "id": 6032,
-    "line": "YMCMB, you niggas more YMCA",
+    "line": "YMCMB, you N****s more YMCA",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-lyrics",
     "song_name": "The Motto",
     "artist_name": "Drake",
@@ -48281,7 +48281,7 @@ module.exports = [
   },
   {
     "id": 6036,
-    "line": "She know even if I'm fucking with her, I don't really need her",
+    "line": "She know even if I'm f**king with her, I don't really need her",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-lyrics",
     "song_name": "The Motto",
     "artist_name": "Drake",
@@ -48297,7 +48297,7 @@ module.exports = [
   },
   {
     "id": 6038,
-    "line": "Cause the pimpin ice cold, all these bitches wanna chill",
+    "line": "Cause the pimpin ice cold, all these b****es wanna chill",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-lyrics",
     "song_name": "The Motto",
     "artist_name": "Drake",
@@ -48313,7 +48313,7 @@ module.exports = [
   },
   {
     "id": 6040,
-    "line": "I can almost guarantee she know the deal, real nigga, what's up?",
+    "line": "I can almost guarantee she know the deal, real N****, what's up?",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-lyrics",
     "song_name": "The Motto",
     "artist_name": "Drake",
@@ -48329,7 +48329,7 @@ module.exports = [
   },
   {
     "id": 6042,
-    "line": "You only live once: that's the motto, nigga, YOLO",
+    "line": "You only live once: that's the motto, N****, YOLO",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-lyrics",
     "song_name": "The Motto",
     "artist_name": "Drake",
@@ -48345,7 +48345,7 @@ module.exports = [
   },
   {
     "id": 6044,
-    "line": "Like we sittin on the bench, nigga, we don't really play",
+    "line": "Like we sittin on the bench, N****, we don't really play",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-lyrics",
     "song_name": "The Motto",
     "artist_name": "Drake",
@@ -48353,7 +48353,7 @@ module.exports = [
   },
   {
     "id": 6045,
-    "line": "Every day, every day, fuck what anybody say",
+    "line": "Every day, every day, f**k what anybody say",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-lyrics",
     "song_name": "The Motto",
     "artist_name": "Drake",
@@ -48361,7 +48361,7 @@ module.exports = [
   },
   {
     "id": 6046,
-    "line": "Can't see 'em cause the money in the way, real nigga, what's up?",
+    "line": "Can't see 'em cause the money in the way, real N****, what's up?",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-lyrics",
     "song_name": "The Motto",
     "artist_name": "Drake",
@@ -48369,7 +48369,7 @@ module.exports = [
   },
   {
     "id": 6047,
-    "line": "One...time? Fuck one time",
+    "line": "One...time? f**k one time",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-lyrics",
     "song_name": "The Motto",
     "artist_name": "Drake",
@@ -48377,7 +48377,7 @@ module.exports = [
   },
   {
     "id": 6048,
-    "line": "I'm calling niggas out like the umpire",
+    "line": "I'm calling N****s out like the umpire",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-lyrics",
     "song_name": "The Motto",
     "artist_name": "Drake",
@@ -48401,7 +48401,7 @@ module.exports = [
   },
   {
     "id": 6051,
-    "line": "It's Eastside, we in this bitch",
+    "line": "It's Eastside, we in this b****",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-lyrics",
     "song_name": "The Motto",
     "artist_name": "Drake",
@@ -48409,7 +48409,7 @@ module.exports = [
   },
   {
     "id": 6052,
-    "line": "Wish a nigga would, like a tree in this bitch",
+    "line": "Wish a N**** would, like a tree in this b****",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-lyrics",
     "song_name": "The Motto",
     "artist_name": "Drake",
@@ -48417,7 +48417,7 @@ module.exports = [
   },
   {
     "id": 6053,
-    "line": "And if a leaf fall put some weed in that bitch",
+    "line": "And if a leaf fall put some weed in that b****",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-lyrics",
     "song_name": "The Motto",
     "artist_name": "Drake",
@@ -48425,7 +48425,7 @@ module.exports = [
   },
   {
     "id": 6054,
-    "line": "That's my MO, add a B to that shit",
+    "line": "That's my MO, add a B to that s***",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-lyrics",
     "song_name": "The Motto",
     "artist_name": "Drake",
@@ -48433,7 +48433,7 @@ module.exports = [
   },
   {
     "id": 6055,
-    "line": "I'm fucked up, tore down",
+    "line": "I'm f**ked up, tore down",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-lyrics",
     "song_name": "The Motto",
     "artist_name": "Drake",
@@ -48457,7 +48457,7 @@ module.exports = [
   },
   {
     "id": 6058,
-    "line": "Nigga, money talks, and Mr. Ed",
+    "line": "N****, money talks, and Mr. Ed",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-lyrics",
     "song_name": "The Motto",
     "artist_name": "Drake",
@@ -48489,7 +48489,7 @@ module.exports = [
   },
   {
     "id": 6062,
-    "line": "Ain't shit sweet? Niggas on the street like hookers",
+    "line": "Ain't s*** sweet? N****s on the street like hookers",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-lyrics",
     "song_name": "The Motto",
     "artist_name": "Drake",
@@ -48516,7 +48516,7 @@ module.exports = [
     "line": "Oh my God, Becky, look at her butt! Tunechi",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-lyrics",
     "song_name": "The Motto",
-    "artist_name": "Drake",
+    "artist_name": "Lil Wayne",
     "album": "Take Care"
   },
   {
@@ -48529,7 +48529,7 @@ module.exports = [
   },
   {
     "id": 6067,
-    "line": "You only live once: that's the motto, nigga, YOLO",
+    "line": "You only live once: that's the motto, N****, YOLO",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-lyrics",
     "song_name": "The Motto",
     "artist_name": "Drake",
@@ -48545,7 +48545,7 @@ module.exports = [
   },
   {
     "id": 6069,
-    "line": "Like we sittin on the bench, nigga, we don't really play",
+    "line": "Like we sittin on the bench, N****, we don't really play",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-lyrics",
     "song_name": "The Motto",
     "artist_name": "Drake",
@@ -48553,7 +48553,7 @@ module.exports = [
   },
   {
     "id": 6070,
-    "line": "Every day, every day, fuck what anybody say",
+    "line": "Every day, every day, f**k what anybody say",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-lyrics",
     "song_name": "The Motto",
     "artist_name": "Drake",
@@ -48561,7 +48561,7 @@ module.exports = [
   },
   {
     "id": 6071,
-    "line": "Can't see 'em cause the money in the way, real nigga, what's up?",
+    "line": "Can't see 'em cause the money in the way, real N****, what's up?",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-lyrics",
     "song_name": "The Motto",
     "artist_name": "Drake",
@@ -48577,7 +48577,7 @@ module.exports = [
   },
   {
     "id": 6073,
-    "line": "You only live once: that's the motto, nigga, YOLO",
+    "line": "You only live once: that's the motto, N****, YOLO",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-lyrics",
     "song_name": "The Motto",
     "artist_name": "Drake",
@@ -48593,7 +48593,7 @@ module.exports = [
   },
   {
     "id": 6075,
-    "line": "Like we sittin on the bench, nigga, we don't really play",
+    "line": "Like we sittin on the bench, N****, we don't really play",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-lyrics",
     "song_name": "The Motto",
     "artist_name": "Drake",
@@ -48601,7 +48601,7 @@ module.exports = [
   },
   {
     "id": 6076,
-    "line": "Every day, every day, fuck what anybody say",
+    "line": "Every day, every day, f**k what anybody say",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-lyrics",
     "song_name": "The Motto",
     "artist_name": "Drake",
@@ -48609,7 +48609,7 @@ module.exports = [
   },
   {
     "id": 6077,
-    "line": "Can't see 'em cause the money in the way, real nigga, what's up?",
+    "line": "Can't see 'em cause the money in the way, real N****, what's up?",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-lyrics",
     "song_name": "The Motto",
     "artist_name": "Drake",
@@ -48617,7 +48617,7 @@ module.exports = [
   },
   {
     "id": 6078,
-    "line": "I'm the fuckin' man, y'all don't get it, do ya?",
+    "line": "I'm the f**kin' man, y'all don't get it, do ya?",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-remix-lyrics",
     "song_name": "The Motto (Remix)",
     "artist_name": "Drake",
@@ -48633,7 +48633,7 @@ module.exports = [
   },
   {
     "id": 6080,
-    "line": "Go Uptown, New York City, bitch",
+    "line": "Go Uptown, New York City, b****",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-remix-lyrics",
     "song_name": "The Motto (Remix)",
     "artist_name": "Drake",
@@ -48657,7 +48657,7 @@ module.exports = [
   },
   {
     "id": 6083,
-    "line": "Clubbing hard, fucking women, there ain't much to do",
+    "line": "Clubbing hard, f**king women, there ain't much to do",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-remix-lyrics",
     "song_name": "The Motto (Remix)",
     "artist_name": "Drake",
@@ -48673,7 +48673,7 @@ module.exports = [
   },
   {
     "id": 6085,
-    "line": "Still getting brain from a thang, ain't shit changed",
+    "line": "Still getting brain from a thang, ain't s*** changed",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-remix-lyrics",
     "song_name": "The Motto (Remix)",
     "artist_name": "Drake",
@@ -48737,7 +48737,7 @@ module.exports = [
   },
   {
     "id": 6093,
-    "line": "YMCMB, you niggas more YMCA",
+    "line": "YMCMB, you N****s more YMCA",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-remix-lyrics",
     "song_name": "The Motto (Remix)",
     "artist_name": "Drake",
@@ -48769,7 +48769,7 @@ module.exports = [
   },
   {
     "id": 6097,
-    "line": "She know even if I'm fucking with her, I don't really need her",
+    "line": "She know even if I'm f**king with her, I don't really need her",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-remix-lyrics",
     "song_name": "The Motto (Remix)",
     "artist_name": "Drake",
@@ -48785,7 +48785,7 @@ module.exports = [
   },
   {
     "id": 6099,
-    "line": "Cause the pimpin ice cold, all these bitches wanna chill",
+    "line": "Cause the pimpin ice cold, all these b****es wanna chill",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-remix-lyrics",
     "song_name": "The Motto (Remix)",
     "artist_name": "Drake",
@@ -48801,7 +48801,7 @@ module.exports = [
   },
   {
     "id": 6101,
-    "line": "I can almost guarantee she know the deal, real nigga, what's up?",
+    "line": "I can almost guarantee she know the deal, real N****, what's up?",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-remix-lyrics",
     "song_name": "The Motto (Remix)",
     "artist_name": "Drake",
@@ -48817,7 +48817,7 @@ module.exports = [
   },
   {
     "id": 6103,
-    "line": "You only live once: that's the motto, nigga, YOLO",
+    "line": "You only live once: that's the motto, N****, YOLO",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-remix-lyrics",
     "song_name": "The Motto (Remix)",
     "artist_name": "Drake",
@@ -48833,7 +48833,7 @@ module.exports = [
   },
   {
     "id": 6105,
-    "line": "Like we sittin on the bench, nigga, we don't really play",
+    "line": "Like we sittin on the bench, N****, we don't really play",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-remix-lyrics",
     "song_name": "The Motto (Remix)",
     "artist_name": "Drake",
@@ -48841,7 +48841,7 @@ module.exports = [
   },
   {
     "id": 6106,
-    "line": "Every day, every day, fuck what anybody say",
+    "line": "Every day, every day, f**k what anybody say",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-remix-lyrics",
     "song_name": "The Motto (Remix)",
     "artist_name": "Drake",
@@ -48849,7 +48849,7 @@ module.exports = [
   },
   {
     "id": 6107,
-    "line": "Can't see 'em cause the money in the way, real nigga, what's up?",
+    "line": "Can't see 'em cause the money in the way, real N****, what's up?",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-remix-lyrics",
     "song_name": "The Motto (Remix)",
     "artist_name": "Drake",
@@ -48857,7 +48857,7 @@ module.exports = [
   },
   {
     "id": 6108,
-    "line": "One...time? Fuck one time",
+    "line": "One...time? f**k one time",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-remix-lyrics",
     "song_name": "The Motto (Remix)",
     "artist_name": "Drake",
@@ -48865,7 +48865,7 @@ module.exports = [
   },
   {
     "id": 6109,
-    "line": "I'm calling niggas out like the umpire",
+    "line": "I'm calling N****s out like the umpire",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-remix-lyrics",
     "song_name": "The Motto (Remix)",
     "artist_name": "Drake",
@@ -48889,7 +48889,7 @@ module.exports = [
   },
   {
     "id": 6112,
-    "line": "It's Eastside, we in this bitch",
+    "line": "It's Eastside, we in this b****",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-remix-lyrics",
     "song_name": "The Motto (Remix)",
     "artist_name": "Drake",
@@ -48897,7 +48897,7 @@ module.exports = [
   },
   {
     "id": 6113,
-    "line": "Wish a nigga would, like a tree in this bitch",
+    "line": "Wish a N**** would, like a tree in this b****",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-remix-lyrics",
     "song_name": "The Motto (Remix)",
     "artist_name": "Drake",
@@ -48905,7 +48905,7 @@ module.exports = [
   },
   {
     "id": 6114,
-    "line": "And if a leaf fall put some weed in that bitch",
+    "line": "And if a leaf fall put some weed in that b****",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-remix-lyrics",
     "song_name": "The Motto (Remix)",
     "artist_name": "Drake",
@@ -48913,7 +48913,7 @@ module.exports = [
   },
   {
     "id": 6115,
-    "line": "That's my MO, add a B to that shit",
+    "line": "That's my MO, add a B to that s***",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-remix-lyrics",
     "song_name": "The Motto (Remix)",
     "artist_name": "Drake",
@@ -48921,7 +48921,7 @@ module.exports = [
   },
   {
     "id": 6116,
-    "line": "I'm fucked up, tore down",
+    "line": "I'm f**ked up, tore down",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-remix-lyrics",
     "song_name": "The Motto (Remix)",
     "artist_name": "Drake",
@@ -48945,7 +48945,7 @@ module.exports = [
   },
   {
     "id": 6119,
-    "line": "Nigga, money talks, and Mr. Ed",
+    "line": "N****, money talks, and Mr. Ed",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-remix-lyrics",
     "song_name": "The Motto (Remix)",
     "artist_name": "Drake",
@@ -48977,7 +48977,7 @@ module.exports = [
   },
   {
     "id": 6123,
-    "line": "Ain't shit sweet? Niggas on the street like hookers",
+    "line": "Ain't s*** sweet? N****s on the street like hookers",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-remix-lyrics",
     "song_name": "The Motto (Remix)",
     "artist_name": "Drake",
@@ -49004,7 +49004,7 @@ module.exports = [
     "line": "Oh my God, Becky, look at her butt! Tunechi",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-remix-lyrics",
     "song_name": "The Motto (Remix)",
-    "artist_name": "Drake",
+    "artist_name": "Lil Wayne",
     "album": "Take Care"
   },
   {
@@ -49017,7 +49017,7 @@ module.exports = [
   },
   {
     "id": 6128,
-    "line": "You only live once: that's the motto, nigga, YOLO",
+    "line": "You only live once: that's the motto, N****, YOLO",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-remix-lyrics",
     "song_name": "The Motto (Remix)",
     "artist_name": "Drake",
@@ -49033,7 +49033,7 @@ module.exports = [
   },
   {
     "id": 6130,
-    "line": "Like we sittin on the bench, nigga, we don't really play",
+    "line": "Like we sittin on the bench, N****, we don't really play",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-remix-lyrics",
     "song_name": "The Motto (Remix)",
     "artist_name": "Drake",
@@ -49041,7 +49041,7 @@ module.exports = [
   },
   {
     "id": 6131,
-    "line": "Every day, every day, fuck what anybody say",
+    "line": "Every day, every day, f**k what anybody say",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-remix-lyrics",
     "song_name": "The Motto (Remix)",
     "artist_name": "Drake",
@@ -49049,7 +49049,7 @@ module.exports = [
   },
   {
     "id": 6132,
-    "line": "Can't see 'em cause the money in the way, real nigga, what's up?",
+    "line": "Can't see 'em cause the money in the way, real N****, what's up?",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-remix-lyrics",
     "song_name": "The Motto (Remix)",
     "artist_name": "Drake",
@@ -49057,7 +49057,7 @@ module.exports = [
   },
   {
     "id": 6133,
-    "line": "T-Raww, skinny nigga big balls",
+    "line": "T-Raww, skinny N**** big balls",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-remix-lyrics",
     "song_name": "The Motto (Remix)",
     "artist_name": "Drake",
@@ -49065,7 +49065,7 @@ module.exports = [
   },
   {
     "id": 6134,
-    "line": "Fuck around and get dragged: Ru Paul",
+    "line": "f**k around and get dragged: Ru Paul",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-remix-lyrics",
     "song_name": "The Motto (Remix)",
     "artist_name": "Drake",
@@ -49073,7 +49073,7 @@ module.exports = [
   },
   {
     "id": 6135,
-    "line": "You funny little nigga Duval",
+    "line": "You funny little N**** Duval",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-remix-lyrics",
     "song_name": "The Motto (Remix)",
     "artist_name": "Drake",
@@ -49089,7 +49089,7 @@ module.exports = [
   },
   {
     "id": 6137,
-    "line": "Call a bitch ride dick like her see saw",
+    "line": "Call a b**** ride dick like her see saw",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-remix-lyrics",
     "song_name": "The Motto (Remix)",
     "artist_name": "Drake",
@@ -49097,7 +49097,7 @@ module.exports = [
   },
   {
     "id": 6138,
-    "line": "Sorta like a donkey, act a ass nigga hee-haw",
+    "line": "Sorta like a donkey, act a ass N**** hee-haw",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-remix-lyrics",
     "song_name": "The Motto (Remix)",
     "artist_name": "Drake",
@@ -49129,7 +49129,7 @@ module.exports = [
   },
   {
     "id": 6142,
-    "line": "Real LA nigga, Chucks with the gun drawn",
+    "line": "Real LA N****, Chucks with the gun drawn",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-remix-lyrics",
     "song_name": "The Motto (Remix)",
     "artist_name": "Drake",
@@ -49169,7 +49169,7 @@ module.exports = [
   },
   {
     "id": 6147,
-    "line": "Fuck her never call her back",
+    "line": "f**k her never call her back",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-remix-lyrics",
     "song_name": "The Motto (Remix)",
     "artist_name": "Drake",
@@ -49177,7 +49177,7 @@ module.exports = [
   },
   {
     "id": 6148,
-    "line": "Matt Forte got the bitch running back",
+    "line": "Matt Forte got the b**** running back",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-remix-lyrics",
     "song_name": "The Motto (Remix)",
     "artist_name": "Drake",
@@ -49201,7 +49201,7 @@ module.exports = [
   },
   {
     "id": 6151,
-    "line": "You only live once: that's the motto, nigga, YOLO",
+    "line": "You only live once: that's the motto, N****, YOLO",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-remix-lyrics",
     "song_name": "The Motto (Remix)",
     "artist_name": "Drake",
@@ -49217,7 +49217,7 @@ module.exports = [
   },
   {
     "id": 6153,
-    "line": "Like we sittin on the bench, nigga, we don't really play",
+    "line": "Like we sittin on the bench, N****, we don't really play",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-remix-lyrics",
     "song_name": "The Motto (Remix)",
     "artist_name": "Drake",
@@ -49225,7 +49225,7 @@ module.exports = [
   },
   {
     "id": 6154,
-    "line": "Every day, every day, fuck what anybody say",
+    "line": "Every day, every day, f**k what anybody say",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-remix-lyrics",
     "song_name": "The Motto (Remix)",
     "artist_name": "Drake",
@@ -49233,7 +49233,7 @@ module.exports = [
   },
   {
     "id": 6155,
-    "line": "Can't see 'em cause the money in the way, real nigga, what's up?",
+    "line": "Can't see 'em cause the money in the way, real N****, what's up?",
     "song_lyrics_url": "https://genius.com/Drake-the-motto-remix-lyrics",
     "song_name": "The Motto (Remix)",
     "artist_name": "Drake",
@@ -49241,7 +49241,7 @@ module.exports = [
   },
   {
     "id": 6156,
-    "line": "She says \"kiss me like you miss me, fuck me like you hate me",
+    "line": "She says \"kiss me like you miss me, f**k me like you hate me",
     "song_lyrics_url": "https://genius.com/Drake-hate-sleeping-alone-lyrics",
     "song_name": "Hate Sleeping Alone",
     "artist_name": "Drake",
@@ -49249,7 +49249,7 @@ module.exports = [
   },
   {
     "id": 6157,
-    "line": "And when you�re fucking someone else just fuck her like she ain't me",
+    "line": "And when you�re f**king someone else just f**k her like she ain't me",
     "song_lyrics_url": "https://genius.com/Drake-hate-sleeping-alone-lyrics",
     "song_name": "Hate Sleeping Alone",
     "artist_name": "Drake",
@@ -49297,7 +49297,7 @@ module.exports = [
   },
   {
     "id": 6163,
-    "line": "I get off topic don�t I? I get it poppin� don�t I?",
+    "line": "I get off topic don�t I? I get it poppin'don�t I?",
     "song_lyrics_url": "https://genius.com/Drake-hate-sleeping-alone-lyrics",
     "song_name": "Hate Sleeping Alone",
     "artist_name": "Drake",
@@ -49313,7 +49313,7 @@ module.exports = [
   },
   {
     "id": 6165,
-    "line": "You�ll be rocking one of the rings you pointed out while shopping with a nigga don�t lie",
+    "line": "You�ll be rocking one of the rings you pointed out while shopping with a N**** don�t lie",
     "song_lyrics_url": "https://genius.com/Drake-hate-sleeping-alone-lyrics",
     "song_name": "Hate Sleeping Alone",
     "artist_name": "Drake",
@@ -49345,7 +49345,7 @@ module.exports = [
   },
   {
     "id": 6169,
-    "line": "But this money coming in is just confusing shit right now",
+    "line": "But this money coming in is just confusing s*** right now",
     "song_lyrics_url": "https://genius.com/Drake-hate-sleeping-alone-lyrics",
     "song_name": "Hate Sleeping Alone",
     "artist_name": "Drake",
@@ -49353,7 +49353,7 @@ module.exports = [
   },
   {
     "id": 6170,
-    "line": "You just told me I ain't shit and I guess I'm proving it right now",
+    "line": "You just told me I ain't s*** and I guess I'm proving it right now",
     "song_lyrics_url": "https://genius.com/Drake-hate-sleeping-alone-lyrics",
     "song_name": "Hate Sleeping Alone",
     "artist_name": "Drake",
@@ -49385,7 +49385,7 @@ module.exports = [
   },
   {
     "id": 6174,
-    "line": "Half the time we don't end up fucking, I don't ask her for nothing",
+    "line": "Half the time we don't end up f**king, I don't ask her for nothing",
     "song_lyrics_url": "https://genius.com/Drake-hate-sleeping-alone-lyrics",
     "song_name": "Hate Sleeping Alone",
     "artist_name": "Drake",
@@ -49465,7 +49465,7 @@ module.exports = [
   },
   {
     "id": 6184,
-    "line": "Don't start with yo shit - I put you back in your place",
+    "line": "Don't start with yo s*** - I put you back in your place",
     "song_lyrics_url": "https://genius.com/Drake-hate-sleeping-alone-lyrics",
     "song_name": "Hate Sleeping Alone",
     "artist_name": "Drake",
@@ -49489,7 +49489,7 @@ module.exports = [
   },
   {
     "id": 6187,
-    "line": "Like I don't hear about the niggas you fucking with, too",
+    "line": "Like I don't hear about the N****s you f**king with, too",
     "song_lyrics_url": "https://genius.com/Drake-hate-sleeping-alone-lyrics",
     "song_name": "Hate Sleeping Alone",
     "artist_name": "Drake",
@@ -49569,7 +49569,7 @@ module.exports = [
   },
   {
     "id": 6197,
-    "line": "Half the time we don't end up fucking, I don't ask her for nothing",
+    "line": "Half the time we don't end up f**king, I don't ask her for nothing",
     "song_lyrics_url": "https://genius.com/Drake-hate-sleeping-alone-lyrics",
     "song_name": "Hate Sleeping Alone",
     "artist_name": "Drake",
@@ -49641,7 +49641,7 @@ module.exports = [
   },
   {
     "id": 6206,
-    "line": "Truth over fame, you know I respect the blatant shit",
+    "line": "Truth over fame, you know I respect the blatant s***",
     "song_lyrics_url": "https://genius.com/Drake-fireworks-lyrics",
     "song_name": "Fireworks",
     "artist_name": "Drake",
@@ -49857,7 +49857,7 @@ module.exports = [
   },
   {
     "id": 6233,
-    "line": "I could tell it wasn't love, I just thought you'd fuck with me",
+    "line": "I could tell it wasn't love, I just thought you'd **** with me",
     "song_lyrics_url": "https://genius.com/Drake-fireworks-lyrics",
     "song_name": "Fireworks",
     "artist_name": "Drake",
@@ -50721,7 +50721,7 @@ module.exports = [
   },
   {
     "id": 6341,
-    "line": "I blew myself up, I'm on some martyr shit",
+    "line": "I blew myself up, I'm on some martyr s***",
     "song_lyrics_url": "https://genius.com/Drake-the-resistance-lyrics",
     "song_name": "The Resistance",
     "artist_name": "Drake",
@@ -50833,7 +50833,7 @@ module.exports = [
   },
   {
     "id": 6355,
-    "line": "Always look at me and say the same shit",
+    "line": "Always look at me and say the same s***",
     "song_lyrics_url": "https://genius.com/Drake-the-resistance-lyrics",
     "song_name": "The Resistance",
     "artist_name": "Drake",
@@ -50865,7 +50865,7 @@ module.exports = [
   },
   {
     "id": 6359,
-    "line": "When 40 got some shit for me to snap on, now that I'm on",
+    "line": "When 40 got some s*** for me to snap on, now that I'm on",
     "song_lyrics_url": "https://genius.com/Drake-the-resistance-lyrics",
     "song_name": "The Resistance",
     "artist_name": "Drake",
@@ -50881,7 +50881,7 @@ module.exports = [
   },
   {
     "id": 6361,
-    "line": "I'm just trying to stay on, get my fucking buffet on",
+    "line": "I'm just trying to stay on, get my ****ing buffet on",
     "song_lyrics_url": "https://genius.com/Drake-the-resistance-lyrics",
     "song_name": "The Resistance",
     "artist_name": "Drake",
@@ -50945,7 +50945,7 @@ module.exports = [
   },
   {
     "id": 6369,
-    "line": "Man, I couldn't tell you where the fuck my head is",
+    "line": "Man, I couldn't tell you where the **** my head is",
     "song_lyrics_url": "https://genius.com/Drake-the-resistance-lyrics",
     "song_name": "The Resistance",
     "artist_name": "Drake",
@@ -51017,7 +51017,7 @@ module.exports = [
   },
   {
     "id": 6378,
-    "line": "Always look at me and say the same shit",
+    "line": "Always look at me and say the same s***",
     "song_lyrics_url": "https://genius.com/Drake-the-resistance-lyrics",
     "song_name": "The Resistance",
     "artist_name": "Drake",
@@ -51097,7 +51097,7 @@ module.exports = [
   },
   {
     "id": 6388,
-    "line": "Was who set the whole shit up",
+    "line": "Was who set the whole s*** up",
     "song_lyrics_url": "https://genius.com/Drake-the-resistance-lyrics",
     "song_name": "The Resistance",
     "artist_name": "Drake",
@@ -51193,7 +51193,7 @@ module.exports = [
   },
   {
     "id": 6400,
-    "line": "That I didn't know last year�who the fuck are y'all?",
+    "line": "That I didn't know last year�who the **** are y'all?",
     "song_lyrics_url": "https://genius.com/Drake-over-lyrics",
     "song_name": "Over",
     "artist_name": "Drake",
@@ -51273,7 +51273,7 @@ module.exports = [
   },
   {
     "id": 6410,
-    "line": "Never drop the ball, fuck are y'all thinking?",
+    "line": "Never drop the ball, f**k are y'all thinking?",
     "song_lyrics_url": "https://genius.com/Drake-over-lyrics",
     "song_name": "Over",
     "artist_name": "Drake",
@@ -51289,7 +51289,7 @@ module.exports = [
   },
   {
     "id": 6412,
-    "line": "About to set it off in this bitch: Jada Pinkett",
+    "line": "About to set it off in this b****: Jada Pinkett",
     "song_lyrics_url": "https://genius.com/Drake-over-lyrics",
     "song_name": "Over",
     "artist_name": "Drake",
@@ -51329,7 +51329,7 @@ module.exports = [
   },
   {
     "id": 6417,
-    "line": "About to go thriller, Mike Jackson on these niggas",
+    "line": "About to go thriller, Mike Jackson on these N****s",
     "song_lyrics_url": "https://genius.com/Drake-over-lyrics",
     "song_name": "Over",
     "artist_name": "Drake",
@@ -51337,7 +51337,7 @@ module.exports = [
   },
   {
     "id": 6418,
-    "line": "All I need's a fucking red jacket with some zippers",
+    "line": "All I need's a f**king red jacket with some zippers",
     "song_lyrics_url": "https://genius.com/Drake-over-lyrics",
     "song_name": "Over",
     "artist_name": "Drake",
@@ -51361,7 +51361,7 @@ module.exports = [
   },
   {
     "id": 6421,
-    "line": "Y'all know them? Well, fuck it, me neither",
+    "line": "Y'all know them? Well, f**k it, me neither",
     "song_lyrics_url": "https://genius.com/Drake-over-lyrics",
     "song_name": "Over",
     "artist_name": "Drake",
@@ -51385,7 +51385,7 @@ module.exports = [
   },
   {
     "id": 6424,
-    "line": "When I should be throwing ones, bitch, I run it",
+    "line": "When I should be throwing ones, b****, I run it",
     "song_lyrics_url": "https://genius.com/Drake-over-lyrics",
     "song_name": "Over",
     "artist_name": "Drake",
@@ -51401,7 +51401,7 @@ module.exports = [
   },
   {
     "id": 6426,
-    "line": "That I didn't know last year�who the fuck are y'all?",
+    "line": "That I didn't know last year�who the f**k are y'all?",
     "song_lyrics_url": "https://genius.com/Drake-over-lyrics",
     "song_name": "Over",
     "artist_name": "Drake",
@@ -51481,7 +51481,7 @@ module.exports = [
   },
   {
     "id": 6436,
-    "line": "And I swear I got this shit that make these bitches go insane",
+    "line": "And I swear I got this s*** that make these b****es go insane",
     "song_lyrics_url": "https://genius.com/Drake-over-lyrics",
     "song_name": "Over",
     "artist_name": "Drake",
@@ -51625,7 +51625,7 @@ module.exports = [
   },
   {
     "id": 6454,
-    "line": "That I didn't know last year�who the fuck are y'all?",
+    "line": "That I didn't know last year�who the f**k are y'all?",
     "song_lyrics_url": "https://genius.com/Drake-over-lyrics",
     "song_name": "Over",
     "artist_name": "Drake",
@@ -51849,7 +51849,7 @@ module.exports = [
   },
   {
     "id": 6482,
-    "line": "I ain't trying to look like I lied to these niggas",
+    "line": "I ain't trying to look like I lied to these N****s",
     "song_lyrics_url": "https://genius.com/Drake-show-me-a-good-time-lyrics",
     "song_name": "Show Me a Good Time",
     "artist_name": "Drake",
@@ -51881,7 +51881,7 @@ module.exports = [
   },
   {
     "id": 6486,
-    "line": "Wu-Tang Clan, niggas want that cream",
+    "line": "Wu-Tang Clan, N****s want that cream",
     "song_lyrics_url": "https://genius.com/Drake-show-me-a-good-time-lyrics",
     "song_name": "Show Me a Good Time",
     "artist_name": "Drake",
@@ -51889,7 +51889,7 @@ module.exports = [
   },
   {
     "id": 6487,
-    "line": "I'm the Osiris to this shit right now",
+    "line": "I'm the Osiris to this s*** right now",
     "song_lyrics_url": "https://genius.com/Drake-show-me-a-good-time-lyrics",
     "song_name": "Show Me a Good Time",
     "artist_name": "Drake",
@@ -52137,7 +52137,7 @@ module.exports = [
   },
   {
     "id": 6518,
-    "line": "Because anyway you put it, bitch, I made it�Yup!",
+    "line": "Because anyway you put it, b****, I made it�Yup!",
     "song_lyrics_url": "https://genius.com/Drake-show-me-a-good-time-lyrics",
     "song_name": "Show Me a Good Time",
     "artist_name": "Drake",
@@ -52225,7 +52225,7 @@ module.exports = [
   },
   {
     "id": 6529,
-    "line": "Niggas with no money act like money isn't everything",
+    "line": "N****s with no money act like money isn't everything",
     "song_lyrics_url": "https://genius.com/Drake-up-all-night-lyrics",
     "song_name": "Up All Night",
     "artist_name": "Drake",
@@ -52241,7 +52241,7 @@ module.exports = [
   },
   {
     "id": 6531,
-    "line": "Shout out to the fact that I'm the youngest nigga doing it",
+    "line": "Shout out to the fact that I'm the youngest N**** doing it",
     "song_lyrics_url": "https://genius.com/Drake-up-all-night-lyrics",
     "song_name": "Up All Night",
     "artist_name": "Drake",
@@ -52257,7 +52257,7 @@ module.exports = [
   },
   {
     "id": 6533,
-    "line": "She ain't tryna pop that shit for pimp; okay, well nevermind",
+    "line": "She ain't tryna pop that s*** for pimp; okay, well nevermind",
     "song_lyrics_url": "https://genius.com/Drake-up-all-night-lyrics",
     "song_name": "Up All Night",
     "artist_name": "Drake",
@@ -52273,7 +52273,7 @@ module.exports = [
   },
   {
     "id": 6535,
-    "line": "Bracelet saying \"you should quit\", cars saying \"fuck your life",
+    "line": "Bracelet saying \"you should quit\", cars saying \"f**k your life",
     "song_lyrics_url": "https://genius.com/Drake-up-all-night-lyrics",
     "song_name": "Up All Night",
     "artist_name": "Drake",
@@ -52281,7 +52281,7 @@ module.exports = [
   },
   {
     "id": 6536,
-    "line": "Okay now we outta here, toodles to you bitches",
+    "line": "Okay now we outta here, toodles to you b****es",
     "song_lyrics_url": "https://genius.com/Drake-up-all-night-lyrics",
     "song_name": "Up All Night",
     "artist_name": "Drake",
@@ -52289,7 +52289,7 @@ module.exports = [
   },
   {
     "id": 6537,
-    "line": "And if you dolled up, I got the voodoo for you bitches",
+    "line": "And if you dolled up, I got the voodoo for you b****es",
     "song_lyrics_url": "https://genius.com/Drake-up-all-night-lyrics",
     "song_name": "Up All Night",
     "artist_name": "Drake",
@@ -52305,7 +52305,7 @@ module.exports = [
   },
   {
     "id": 6539,
-    "line": "I made enough for two niggas, boy: stunt double",
+    "line": "I made enough for two N****s, boy: stunt double",
     "song_lyrics_url": "https://genius.com/Drake-up-all-night-lyrics",
     "song_name": "Up All Night",
     "artist_name": "Drake",
@@ -52337,7 +52337,7 @@ module.exports = [
   },
   {
     "id": 6543,
-    "line": "Plus the game is in my pocket, nigga this is what I does",
+    "line": "Plus the game is in my pocket, N**** this is what I does",
     "song_lyrics_url": "https://genius.com/Drake-up-all-night-lyrics",
     "song_name": "Up All Night",
     "artist_name": "Drake",
@@ -52345,7 +52345,7 @@ module.exports = [
   },
   {
     "id": 6544,
-    "line": "I'm about whatever man, fuck what they be talkin' about",
+    "line": "I'm about whatever man, f**k what they be talkin' about",
     "song_lyrics_url": "https://genius.com/Drake-up-all-night-lyrics",
     "song_name": "Up All Night",
     "artist_name": "Drake",
@@ -52401,7 +52401,7 @@ module.exports = [
   },
   {
     "id": 6551,
-    "line": "Man I love my team, I would die for them niggas, aww",
+    "line": "Man I love my team, I would die for them N****s, aww",
     "song_lyrics_url": "https://genius.com/Drake-up-all-night-lyrics",
     "song_name": "Up All Night",
     "artist_name": "Drake",
@@ -52417,7 +52417,7 @@ module.exports = [
   },
   {
     "id": 6553,
-    "line": "I got the kind of money, that make a broke bitch bitter",
+    "line": "I got the kind of money, that make a broke b**** bitter",
     "song_lyrics_url": "https://genius.com/Drake-up-all-night-lyrics",
     "song_name": "Up All Night",
     "artist_name": "Drake",
@@ -52433,7 +52433,7 @@ module.exports = [
   },
   {
     "id": 6555,
-    "line": "Which bitch, you know made a million off a mixtape?",
+    "line": "Which b****, you know made a million off a mixtape?",
     "song_lyrics_url": "https://genius.com/Drake-up-all-night-lyrics",
     "song_name": "Up All Night",
     "artist_name": "Drake",
@@ -52473,7 +52473,7 @@ module.exports = [
   },
   {
     "id": 6560,
-    "line": "(Ha ha ha ha ha) Fuck I look like, ho?",
+    "line": "(Ha ha ha ha ha) f**k I look like, ho?",
     "song_lyrics_url": "https://genius.com/Drake-up-all-night-lyrics",
     "song_name": "Up All Night",
     "artist_name": "Drake",
@@ -52489,7 +52489,7 @@ module.exports = [
   },
   {
     "id": 6562,
-    "line": "I'm a bad bitch, I ain't never been a mixed breed",
+    "line": "I'm a bad b****, I ain't never been a mixed breed",
     "song_lyrics_url": "https://genius.com/Drake-up-all-night-lyrics",
     "song_name": "Up All Night",
     "artist_name": "Drake",
@@ -52513,7 +52513,7 @@ module.exports = [
   },
   {
     "id": 6565,
-    "line": "I see a lot of rap bitches on the menu",
+    "line": "I see a lot of rap b****es on the menu",
     "song_lyrics_url": "https://genius.com/Drake-up-all-night-lyrics",
     "song_name": "Up All Night",
     "artist_name": "Drake",
@@ -52537,7 +52537,7 @@ module.exports = [
   },
   {
     "id": 6568,
-    "line": "I'm about whatever man, fuck what they be talkin' about",
+    "line": "I'm about whatever man, f**k what they be talkin' about",
     "song_lyrics_url": "https://genius.com/Drake-up-all-night-lyrics",
     "song_name": "Up All Night",
     "artist_name": "Drake",
@@ -52593,7 +52593,7 @@ module.exports = [
   },
   {
     "id": 6575,
-    "line": "Man I love my team, I would die for them niggas, aww",
+    "line": "Man I love my team, I would die for them N****s, aww",
     "song_lyrics_url": "https://genius.com/Drake-up-all-night-lyrics",
     "song_name": "Up All Night",
     "artist_name": "Drake",
@@ -52633,7 +52633,7 @@ module.exports = [
   },
   {
     "id": 6580,
-    "line": "Aww yeah we in this bitch (uhh)",
+    "line": "Aww yeah we in this b**** (uhh)",
     "song_lyrics_url": "https://genius.com/Drake-up-all-night-lyrics",
     "song_name": "Up All Night",
     "artist_name": "Drake",
@@ -52649,7 +52649,7 @@ module.exports = [
   },
   {
     "id": 6582,
-    "line": "Aww yeah we in this bitch",
+    "line": "Aww yeah we in this b****",
     "song_lyrics_url": "https://genius.com/Drake-up-all-night-lyrics",
     "song_name": "Up All Night",
     "artist_name": "Drake",
@@ -52665,7 +52665,7 @@ module.exports = [
   },
   {
     "id": 6584,
-    "line": "I'm about whatever man, fuck what they be talkin' about",
+    "line": "I'm about whatever man, f**k what they be talkin' about",
     "song_lyrics_url": "https://genius.com/Drake-up-all-night-lyrics",
     "song_name": "Up All Night",
     "artist_name": "Drake",
@@ -52721,7 +52721,7 @@ module.exports = [
   },
   {
     "id": 6591,
-    "line": "Man I love my team, I would die for them niggas, aww",
+    "line": "Man I love my team, I would die for them N****s, aww",
     "song_lyrics_url": "https://genius.com/Drake-up-all-night-lyrics",
     "song_name": "Up All Night",
     "artist_name": "Drake",
@@ -52889,7 +52889,7 @@ module.exports = [
   },
   {
     "id": 6612,
-    "line": "You just do it for yourself you�re the fucking coldest",
+    "line": "You just do it for yourself you�re the f**king coldest",
     "song_lyrics_url": "https://genius.com/Drake-fancy-lyrics",
     "song_name": "Fancy",
     "artist_name": "Drake",
@@ -53041,7 +53041,7 @@ module.exports = [
   },
   {
     "id": 6631,
-    "line": "From all these superficial gold digging bitches in here",
+    "line": "From all these superficial gold digging b****es in here",
     "song_lyrics_url": "https://genius.com/Drake-fancy-lyrics",
     "song_name": "Fancy",
     "artist_name": "Drake",
@@ -53153,7 +53153,7 @@ module.exports = [
   },
   {
     "id": 6645,
-    "line": "Who fuck for bottles of Riesling and bowls of baked ziti",
+    "line": "Who f**k for bottles of Riesling and bowls of baked ziti",
     "song_lyrics_url": "https://genius.com/Drake-fancy-lyrics",
     "song_name": "Fancy",
     "artist_name": "Drake",
@@ -53241,7 +53241,7 @@ module.exports = [
   },
   {
     "id": 6656,
-    "line": "Wave 'em at them bitches hating on you with their friends",
+    "line": "Wave 'em at them b****es hating on you with their friends",
     "song_lyrics_url": "https://genius.com/Drake-fancy-lyrics",
     "song_name": "Fancy",
     "artist_name": "Drake",
@@ -53273,7 +53273,7 @@ module.exports = [
   },
   {
     "id": 6660,
-    "line": "Wave 'em at them bitches hating on you with their friends",
+    "line": "Wave 'em at them b****es hating on you with their friends",
     "song_lyrics_url": "https://genius.com/Drake-fancy-lyrics",
     "song_name": "Fancy",
     "artist_name": "Drake",
@@ -53305,7 +53305,7 @@ module.exports = [
   },
   {
     "id": 6664,
-    "line": "Wave 'em at them bitches hating on you with their friends",
+    "line": "Wave 'em at them b****es hating on you with their friends",
     "song_lyrics_url": "https://genius.com/Drake-fancy-lyrics",
     "song_name": "Fancy",
     "artist_name": "Drake",
@@ -53337,7 +53337,7 @@ module.exports = [
   },
   {
     "id": 6668,
-    "line": "Wave 'em at them bitches hating on you with their friends",
+    "line": "Wave 'em at them b****es hating on you with their friends",
     "song_lyrics_url": "https://genius.com/Drake-fancy-lyrics",
     "song_name": "Fancy",
     "artist_name": "Drake",
@@ -53697,7 +53697,7 @@ module.exports = [
   },
   {
     "id": 6713,
-    "line": "Put those fucking heels on and work it girl",
+    "line": "Put those f**king heels on and work it girl",
     "song_lyrics_url": "https://genius.com/Drake-shut-it-down-lyrics",
     "song_name": "Shut It Down",
     "artist_name": "Drake",
@@ -53713,7 +53713,7 @@ module.exports = [
   },
   {
     "id": 6715,
-    "line": "Put that fucking dress on and work it kind of vicious",
+    "line": "Put that f**king dress on and work it kind of vicious",
     "song_lyrics_url": "https://genius.com/Drake-shut-it-down-lyrics",
     "song_name": "Shut It Down",
     "artist_name": "Drake",
@@ -53921,7 +53921,7 @@ module.exports = [
   },
   {
     "id": 6741,
-    "line": "Them other niggas just wanna hit it",
+    "line": "Them other N****s just wanna hit it",
     "song_lyrics_url": "https://genius.com/Drake-shut-it-down-lyrics",
     "song_name": "Shut It Down",
     "artist_name": "Drake",
@@ -54017,7 +54017,7 @@ module.exports = [
   },
   {
     "id": 6753,
-    "line": "You shut that motherfucker down, down",
+    "line": "You shut that motherf**ker down, down",
     "song_lyrics_url": "https://genius.com/Drake-shut-it-down-lyrics",
     "song_name": "Shut It Down",
     "artist_name": "Drake",
@@ -54033,7 +54033,7 @@ module.exports = [
   },
   {
     "id": 6755,
-    "line": "You shut that motherfucker down, down",
+    "line": "You shut that motherf**ker down, down",
     "song_lyrics_url": "https://genius.com/Drake-shut-it-down-lyrics",
     "song_name": "Shut It Down",
     "artist_name": "Drake",
@@ -54313,7 +54313,7 @@ module.exports = [
   },
   {
     "id": 6790,
-    "line": "Take those fucking heels off, it�s worth it girl",
+    "line": "Take those f**king heels off, it�s worth it girl",
     "song_lyrics_url": "https://genius.com/Drake-shut-it-down-lyrics",
     "song_name": "Shut It Down",
     "artist_name": "Drake",
@@ -54329,7 +54329,7 @@ module.exports = [
   },
   {
     "id": 6792,
-    "line": "So take that fucking dress off, I swear you won�t forget me",
+    "line": "So take that f**king dress off, I swear you won�t forget me",
     "song_lyrics_url": "https://genius.com/Drake-shut-it-down-lyrics",
     "song_name": "Shut It Down",
     "artist_name": "Drake",
@@ -54481,7 +54481,7 @@ module.exports = [
   },
   {
     "id": 6811,
-    "line": "But I ain't Santa, I got somethin' for these bad bitches too",
+    "line": "But I ain't Santa, I got somethin' for these bad b****es too",
     "song_lyrics_url": "https://genius.com/Drake-unforgettable-lyrics",
     "song_name": "Unforgettable",
     "artist_name": "Drake",
@@ -54513,7 +54513,7 @@ module.exports = [
   },
   {
     "id": 6815,
-    "line": "And all the girls that played me eat your muthafuckin' heart out",
+    "line": "And all the girls that played me eat your muthaf**kin' heart out",
     "song_lyrics_url": "https://genius.com/Drake-unforgettable-lyrics",
     "song_name": "Unforgettable",
     "artist_name": "Drake",
@@ -54537,7 +54537,7 @@ module.exports = [
   },
   {
     "id": 6818,
-    "line": "Because all this shit is new to me, I�m learnin' to behave",
+    "line": "Because all this s*** is new to me, I�m learnin' to behave",
     "song_lyrics_url": "https://genius.com/Drake-unforgettable-lyrics",
     "song_name": "Unforgettable",
     "artist_name": "Drake",
@@ -54553,7 +54553,7 @@ module.exports = [
   },
   {
     "id": 6820,
-    "line": "But I�m good, I know that niggas would kill for this lifestyle",
+    "line": "But I�m good, I know that N****s would kill for this lifestyle",
     "song_lyrics_url": "https://genius.com/Drake-unforgettable-lyrics",
     "song_name": "Unforgettable",
     "artist_name": "Drake",
@@ -54609,7 +54609,7 @@ module.exports = [
   },
   {
     "id": 6827,
-    "line": "Ask your girl I�m the realest nigga she been around",
+    "line": "Ask your girl I�m the realest N**** she been around",
     "song_lyrics_url": "https://genius.com/Drake-unforgettable-lyrics",
     "song_name": "Unforgettable",
     "artist_name": "Drake",
@@ -54769,7 +54769,7 @@ module.exports = [
   },
   {
     "id": 6847,
-    "line": "Same shit in them streets, so what's the dilly?",
+    "line": "Same s*** in them streets, so what's the dilly?",
     "song_lyrics_url": "https://genius.com/Drake-unforgettable-lyrics",
     "song_name": "Unforgettable",
     "artist_name": "Drake",
@@ -54777,7 +54777,7 @@ module.exports = [
   },
   {
     "id": 6848,
-    "line": "Young done everything in the A but fuck Chilli",
+    "line": "Young done everything in the A but f**k Chilli",
     "song_lyrics_url": "https://genius.com/Drake-unforgettable-lyrics",
     "song_name": "Unforgettable",
     "artist_name": "Drake",
@@ -54817,7 +54817,7 @@ module.exports = [
   },
   {
     "id": 6853,
-    "line": "Ask your girl I�m the realest nigga she been around",
+    "line": "Ask your girl I�m the realest N**** she been around",
     "song_lyrics_url": "https://genius.com/Drake-unforgettable-lyrics",
     "song_name": "Unforgettable",
     "artist_name": "Drake",
@@ -55009,7 +55009,7 @@ module.exports = [
   },
   {
     "id": 6877,
-    "line": "But party on, party on all night, nigga",
+    "line": "But party on, party on all night, N****",
     "song_lyrics_url": "https://genius.com/Drake-light-up-lyrics",
     "song_name": "Light Up",
     "artist_name": "Drake",
@@ -55017,7 +55017,7 @@ module.exports = [
   },
   {
     "id": 6878,
-    "line": "I got these new rappers nervous: prom night, nigga",
+    "line": "I got these new rappers nervous: prom night, N****",
     "song_lyrics_url": "https://genius.com/Drake-light-up-lyrics",
     "song_name": "Light Up",
     "artist_name": "Drake",
@@ -55025,7 +55025,7 @@ module.exports = [
   },
   {
     "id": 6879,
-    "line": "I grow tired of these fuckin' grown man liars",
+    "line": "I grow tired of these f**kin' grown man liars",
     "song_lyrics_url": "https://genius.com/Drake-light-up-lyrics",
     "song_name": "Light Up",
     "artist_name": "Drake",
@@ -55057,7 +55057,7 @@ module.exports = [
   },
   {
     "id": 6883,
-    "line": "The shit feel like when Fredro Starr",
+    "line": "The s*** feel like when Fredro Starr",
     "song_lyrics_url": "https://genius.com/Drake-light-up-lyrics",
     "song_name": "Light Up",
     "artist_name": "Drake",
@@ -55073,7 +55073,7 @@ module.exports = [
   },
   {
     "id": 6885,
-    "line": "And I'm a motherfuckin' missed target",
+    "line": "And I'm a motherf**kin' missed target",
     "song_lyrics_url": "https://genius.com/Drake-light-up-lyrics",
     "song_name": "Light Up",
     "artist_name": "Drake",
@@ -55161,7 +55161,7 @@ module.exports = [
   },
   {
     "id": 6896,
-    "line": "Just know that she gonna tell another nigga",
+    "line": "Just know that she gonna tell another N****",
     "song_lyrics_url": "https://genius.com/Drake-light-up-lyrics",
     "song_name": "Light Up",
     "artist_name": "Drake",
@@ -55241,7 +55241,7 @@ module.exports = [
   },
   {
     "id": 6906,
-    "line": "We gon' make this bitch light up",
+    "line": "We gon' make this b**** light up",
     "song_lyrics_url": "https://genius.com/Drake-light-up-lyrics",
     "song_name": "Light Up",
     "artist_name": "Drake",
@@ -55329,7 +55329,7 @@ module.exports = [
   },
   {
     "id": 6917,
-    "line": "The smart money's on Hov, fuck what the dummies talk",
+    "line": "The smart money's on Hov, f**k what the dummies talk",
     "song_lyrics_url": "https://genius.com/Drake-light-up-lyrics",
     "song_name": "Light Up",
     "artist_name": "Drake",
@@ -55361,7 +55361,7 @@ module.exports = [
   },
   {
     "id": 6921,
-    "line": "'Cause you fuckin' around with me and my dogs is far-fetched",
+    "line": "'Cause you f**kin' around with me and my dogs is far-fetched",
     "song_lyrics_url": "https://genius.com/Drake-light-up-lyrics",
     "song_name": "Light Up",
     "artist_name": "Drake",
@@ -55433,7 +55433,7 @@ module.exports = [
   },
   {
     "id": 6930,
-    "line": "And to these niggas I'm like Windows 7",
+    "line": "And to these N****s I'm like Windows 7",
     "song_lyrics_url": "https://genius.com/Drake-light-up-lyrics",
     "song_name": "Light Up",
     "artist_name": "Drake",
@@ -55457,7 +55457,7 @@ module.exports = [
   },
   {
     "id": 6933,
-    "line": "I'm not as cool with niggas as I once was",
+    "line": "I'm not as cool with N****s as I once was",
     "song_lyrics_url": "https://genius.com/Drake-light-up-lyrics",
     "song_name": "Light Up",
     "artist_name": "Drake",
@@ -55497,7 +55497,7 @@ module.exports = [
   },
   {
     "id": 6938,
-    "line": "Fuck niggas! Bitches, too!",
+    "line": "f**k N****s! b****es, too!",
     "song_lyrics_url": "https://genius.com/Drake-light-up-lyrics",
     "song_name": "Light Up",
     "artist_name": "Drake",
@@ -55505,7 +55505,7 @@ module.exports = [
   },
   {
     "id": 6939,
-    "line": "All I got is this money � this will do",
+    "line": "All I got is this money this will do",
     "song_lyrics_url": "https://genius.com/Drake-light-up-lyrics",
     "song_name": "Light Up",
     "artist_name": "Drake",
@@ -55545,7 +55545,7 @@ module.exports = [
   },
   {
     "id": 6944,
-    "line": "We gon' make this bitch light up",
+    "line": "We gon' make this b**** light up",
     "song_lyrics_url": "https://genius.com/Drake-light-up-lyrics",
     "song_name": "Light Up",
     "artist_name": "Drake",
@@ -55585,7 +55585,7 @@ module.exports = [
   },
   {
     "id": 6949,
-    "line": "I'm 'bout my paper like a motherfucking scratch-and-win",
+    "line": "I'm 'bout my paper like a motherf**king scratch-and-win",
     "song_lyrics_url": "https://genius.com/Drake-miss-me-lyrics",
     "song_name": "Miss Me",
     "artist_name": "Drake",
@@ -55609,7 +55609,7 @@ module.exports = [
   },
   {
     "id": 6952,
-    "line": "I will have a model wife, your bitch is as hot as ice",
+    "line": "I will have a model wife, your b**** is as hot as ice",
     "song_lyrics_url": "https://genius.com/Drake-miss-me-lyrics",
     "song_name": "Miss Me",
     "artist_name": "Drake",
@@ -55761,7 +55761,7 @@ module.exports = [
   },
   {
     "id": 6971,
-    "line": "I hope one day we get married just to say we fucking did it",
+    "line": "I hope one day we get married just to say we f**king did it",
     "song_lyrics_url": "https://genius.com/Drake-miss-me-lyrics",
     "song_name": "Miss Me",
     "artist_name": "Drake",
@@ -55769,7 +55769,7 @@ module.exports = [
   },
   {
     "id": 6972,
-    "line": "And girl I'm fucking serious, I'm with it if you with it",
+    "line": "And girl I'm f**king serious, I'm with it if you with it",
     "song_lyrics_url": "https://genius.com/Drake-miss-me-lyrics",
     "song_name": "Miss Me",
     "artist_name": "Drake",
@@ -55889,7 +55889,7 @@ module.exports = [
   },
   {
     "id": 6987,
-    "line": "Ooh shit, motherfucker, goddamn",
+    "line": "Ooh s***, motherf**ker, goddamn",
     "song_lyrics_url": "https://genius.com/Drake-miss-me-lyrics",
     "song_name": "Miss Me",
     "artist_name": "Drake",
@@ -55897,7 +55897,7 @@ module.exports = [
   },
   {
     "id": 6988,
-    "line": "Kicking bitches out the condo like Pam",
+    "line": "Kicking b****es out the condo like Pam",
     "song_lyrics_url": "https://genius.com/Drake-miss-me-lyrics",
     "song_name": "Miss Me",
     "artist_name": "Drake",
@@ -55929,7 +55929,7 @@ module.exports = [
   },
   {
     "id": 6992,
-    "line": "Man I swear my bitches do it 'til they suck the brown off",
+    "line": "Man I swear my b****es do it 'til they suck the brown off",
     "song_lyrics_url": "https://genius.com/Drake-miss-me-lyrics",
     "song_name": "Miss Me",
     "artist_name": "Drake",
@@ -56065,7 +56065,7 @@ module.exports = [
   },
   {
     "id": 7009,
-    "line": "And when I'm in the booth, bitch, the lion is loose",
+    "line": "And when I'm in the booth, b****, the lion is loose",
     "song_lyrics_url": "https://genius.com/Drake-miss-me-lyrics",
     "song_name": "Miss Me",
     "artist_name": "Drake",
@@ -56089,7 +56089,7 @@ module.exports = [
   },
   {
     "id": 7012,
-    "line": "But fuck it I ain't tripping, I know Drizzy gonna kill 'em",
+    "line": "But f**k it I ain't tripping, I know Drizzy gonna kill 'em",
     "song_lyrics_url": "https://genius.com/Drake-miss-me-lyrics",
     "song_name": "Miss Me",
     "artist_name": "Drake",
@@ -56113,7 +56113,7 @@ module.exports = [
   },
   {
     "id": 7015,
-    "line": "Real nigga talking, shut the fuck up, ho",
+    "line": "Real N**** talking, shut the f**k up, ho",
     "song_lyrics_url": "https://genius.com/Drake-miss-me-lyrics",
     "song_name": "Miss Me",
     "artist_name": "Drake",
@@ -56137,7 +56137,7 @@ module.exports = [
   },
   {
     "id": 7018,
-    "line": "Cause that's where I bring it, soo-woo if you banging, motherfucker",
+    "line": "Cause that's where I bring it, soo-woo if you banging, motherf**ker",
     "song_lyrics_url": "https://genius.com/Drake-miss-me-lyrics",
     "song_name": "Miss Me",
     "artist_name": "Drake",
@@ -56745,7 +56745,7 @@ module.exports = [
   },
   {
     "id": 7094,
-    "line": "You can thank me now for all the info I give to you niggas",
+    "line": "You can thank me now for all the info I give to you N****s",
     "song_lyrics_url": "https://genius.com/Drake-thank-me-now-lyrics",
     "song_name": "Thank Me Now",
     "artist_name": "Drake",
@@ -56753,7 +56753,7 @@ module.exports = [
   },
   {
     "id": 7095,
-    "line": "I'm on the brink of influential, I'm here for you niggas",
+    "line": "I'm on the brink of influential, I'm here for you N****s",
     "song_lyrics_url": "https://genius.com/Drake-thank-me-now-lyrics",
     "song_name": "Thank Me Now",
     "artist_name": "Drake",
@@ -56761,7 +56761,7 @@ module.exports = [
   },
   {
     "id": 7096,
-    "line": "I guess a hit doesn't add up to a career for you niggas",
+    "line": "I guess a hit doesn't add up to a career for you N****s",
     "song_lyrics_url": "https://genius.com/Drake-thank-me-now-lyrics",
     "song_name": "Thank Me Now",
     "artist_name": "Drake",
@@ -56769,7 +56769,7 @@ module.exports = [
   },
   {
     "id": 7097,
-    "line": "I must have been hard to watch, what a year for you niggas",
+    "line": "I must have been hard to watch, what a year for you N****s",
     "song_lyrics_url": "https://genius.com/Drake-thank-me-now-lyrics",
     "song_name": "Thank Me Now",
     "artist_name": "Drake",
@@ -56809,7 +56809,7 @@ module.exports = [
   },
   {
     "id": 7102,
-    "line": "Fuck that old shit, I'm on new things",
+    "line": "f**k that old s***, I'm on new things",
     "song_lyrics_url": "https://genius.com/Drake-thank-me-now-lyrics",
     "song_name": "Thank Me Now",
     "artist_name": "Drake",
@@ -56977,7 +56977,7 @@ module.exports = [
   },
   {
     "id": 7123,
-    "line": "Except the niggas that I came with, they good for life",
+    "line": "Except the N****s that I came with, they good for life",
     "song_lyrics_url": "https://genius.com/Drake-thank-me-now-lyrics",
     "song_name": "Thank Me Now",
     "artist_name": "Drake",
@@ -57033,7 +57033,7 @@ module.exports = [
   },
   {
     "id": 7130,
-    "line": "Shallow nigga but deep enough to have gone swimming",
+    "line": "Shallow N**** but deep enough to have gone swimming",
     "song_lyrics_url": "https://genius.com/Drake-thank-me-now-lyrics",
     "song_name": "Thank Me Now",
     "artist_name": "Drake",
@@ -57241,7 +57241,7 @@ module.exports = [
   },
   {
     "id": 7156,
-    "line": "That's probably why I'm in this bitch shining",
+    "line": "That's probably why I'm in this b**** shining",
     "song_lyrics_url": "https://genius.com/Drake-thank-me-now-lyrics",
     "song_name": "Thank Me Now",
     "artist_name": "Drake",
@@ -57393,7 +57393,7 @@ module.exports = [
   },
   {
     "id": 7175,
-    "line": "Me, my niggas and some Madonna hoes",
+    "line": "Me, my N****s and some Madonna hoes",
     "song_lyrics_url": "https://genius.com/Drake-9am-in-dallas-lyrics",
     "song_name": "9AM in Dallas",
     "artist_name": "Drake",
@@ -57537,7 +57537,7 @@ module.exports = [
   },
   {
     "id": 7193,
-    "line": "Yeah, I know these niggas miss the mean lyrics",
+    "line": "Yeah, I know these N****s miss the mean lyrics",
     "song_lyrics_url": "https://genius.com/Drake-9am-in-dallas-lyrics",
     "song_name": "9AM in Dallas",
     "artist_name": "Drake",
@@ -57601,7 +57601,7 @@ module.exports = [
   },
   {
     "id": 7201,
-    "line": "I should call it a night, but fuck it I can't resist",
+    "line": "I should call it a night, but f**k it I can't resist",
     "song_lyrics_url": "https://genius.com/Drake-9am-in-dallas-lyrics",
     "song_name": "9AM in Dallas",
     "artist_name": "Drake",
@@ -57609,7 +57609,7 @@ module.exports = [
   },
   {
     "id": 7202,
-    "line": "This one is for all the niggas from my city trying to diss",
+    "line": "This one is for all the N****s from my city trying to diss",
     "song_lyrics_url": "https://genius.com/Drake-9am-in-dallas-lyrics",
     "song_name": "9AM in Dallas",
     "artist_name": "Drake",
@@ -57625,7 +57625,7 @@ module.exports = [
   },
   {
     "id": 7204,
-    "line": "And I love to see you fail, that feeling there is the shit",
+    "line": "And I love to see you fail, that feeling there is the s***",
     "song_lyrics_url": "https://genius.com/Drake-9am-in-dallas-lyrics",
     "song_name": "9AM in Dallas",
     "artist_name": "Drake",
@@ -57633,7 +57633,7 @@ module.exports = [
   },
   {
     "id": 7205,
-    "line": "I swear, pussy nigga get your bread up",
+    "line": "I swear, pussy N**** get your bread up",
     "song_lyrics_url": "https://genius.com/Drake-9am-in-dallas-lyrics",
     "song_name": "9AM in Dallas",
     "artist_name": "Drake",
@@ -57697,7 +57697,7 @@ module.exports = [
   },
   {
     "id": 7213,
-    "line": "Damn, that nigga always kept it so hood",
+    "line": "Damn, that N**** always kept it so hood",
     "song_lyrics_url": "https://genius.com/Drake-9am-in-dallas-lyrics",
     "song_name": "9AM in Dallas",
     "artist_name": "Drake",
@@ -57721,7 +57721,7 @@ module.exports = [
   },
   {
     "id": 7216,
-    "line": "Now we just fucking all the bitches they warned us about",
+    "line": "Now we just f**king all the b****es they warned us about",
     "song_lyrics_url": "https://genius.com/Drake-9am-in-dallas-lyrics",
     "song_name": "9AM in Dallas",
     "artist_name": "Drake",
@@ -57753,7 +57753,7 @@ module.exports = [
   },
   {
     "id": 7220,
-    "line": "To write a chapter in history, this shit has got me sick",
+    "line": "To write a chapter in history, this s*** has got me sick",
     "song_lyrics_url": "https://genius.com/Drake-9am-in-dallas-lyrics",
     "song_name": "9AM in Dallas",
     "artist_name": "Drake",
@@ -57769,7 +57769,7 @@ module.exports = [
   },
   {
     "id": 7222,
-    "line": "Cause this truly is some shit I don't expect for y'all to get",
+    "line": "Cause this truly is some s*** I don't expect for y'all to get",
     "song_lyrics_url": "https://genius.com/Drake-9am-in-dallas-lyrics",
     "song_name": "9AM in Dallas",
     "artist_name": "Drake",
@@ -57785,7 +57785,7 @@ module.exports = [
   },
   {
     "id": 7224,
-    "line": "Throwing up in the huddle nigga, Willie Beamen",
+    "line": "Throwing up in the huddle N****, Willie Beamen",
     "song_lyrics_url": "https://genius.com/Drake-9am-in-dallas-lyrics",
     "song_name": "9AM in Dallas",
     "artist_name": "Drake",
@@ -57833,7 +57833,7 @@ module.exports = [
   },
   {
     "id": 7230,
-    "line": "Ducking your questions, fuck your suggestions",
+    "line": "Ducking your questions, f**k your suggestions",
     "song_lyrics_url": "https://genius.com/Drake-9am-in-dallas-lyrics",
     "song_name": "9AM in Dallas",
     "artist_name": "Drake",
@@ -57865,7 +57865,7 @@ module.exports = [
   },
   {
     "id": 7234,
-    "line": "Y.M.O.E. nigga, yeah",
+    "line": "Y.M.O.E. N****, yeah",
     "song_lyrics_url": "https://genius.com/Drake-9am-in-dallas-lyrics",
     "song_name": "9AM in Dallas",
     "artist_name": "Drake",
@@ -57905,7 +57905,7 @@ module.exports = [
   },
   {
     "id": 7239,
-    "line": "Thank me later in this bitch wasssup",
+    "line": "Thank me later in this b**** wasssup",
     "song_lyrics_url": "https://genius.com/Drake-9am-in-dallas-lyrics",
     "song_name": "9AM in Dallas",
     "artist_name": "Drake",
@@ -57913,7 +57913,7 @@ module.exports = [
   },
   {
     "id": 7240,
-    "line": "Free Weezy in this bitch wasup",
+    "line": "Free Weezy in this b**** wasup",
     "song_lyrics_url": "https://genius.com/Drake-9am-in-dallas-lyrics",
     "song_name": "9AM in Dallas",
     "artist_name": "Drake",
@@ -57921,7 +57921,7 @@ module.exports = [
   },
   {
     "id": 7241,
-    "line": "June 15th in this bitch wasup",
+    "line": "June 15th in this b**** wasup",
     "song_lyrics_url": "https://genius.com/Drake-9am-in-dallas-lyrics",
     "song_name": "9AM in Dallas",
     "artist_name": "Drake",

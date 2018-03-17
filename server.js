@@ -36,16 +36,10 @@ app.listen(PORT, () => console.log(`Mixing it up on port ${PORT}`))
 // })
 
 const randomDrake = () => {
-    return Lyric[Math.floor((7242) * (Math.random()))]
-}
-const getGiphy = () => {
-
+   return Lyric[Math.floor((7242) * (Math.random()))]
 }
 
 const drakeLyricsToGo = (lyrics, res) => {
-    // if (lyrics.token !== process.env.SLACK_VERIFICATION_TOKEN) {
-    //     return
-    // }
     let { line, song_name, artist_name, album } = randomDrake()
     let data = {
         "response_type": "in_channel",
